@@ -9,8 +9,8 @@
 
 <channel>
 	<title>樹羊</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="http://treesheeptw.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
+	<link>http://treesheeptw.github.io/portfolio</link>
 	<description></description>
 	<lastBuildDate>Thu, 15 Jun 2023 07:00:46 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/06/signal-2023-06-15-153559-150x150.jpeg</url>
+	<url>http://treesheeptw.github.io/portfolio/wp-content/uploads/2023/06/signal-2023-06-15-153559-150x150.jpeg</url>
 	<title>樹羊</title>
-	<link></link>
+	<link>http://treesheeptw.github.io/portfolio</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>網站第一篇文章</title>
-		<link>/2023/06/15/hello-world/</link>
-					<comments>/2023/06/15/hello-world/#comments</comments>
+		<link>http://treesheeptw.github.io/portfolio/2023/06/15/hello-world/</link>
+					<comments>http://treesheeptw.github.io/portfolio/2023/06/15/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[boris]]></dc:creator>
 		<pubDate>Thu, 15 Jun 2023 07:00:46 +0000</pubDate>
 				<category><![CDATA[未分類]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">http://treesheeptw.github.io/portfolio/?p=1</guid>
 
 					<description><![CDATA[歡迎使用 WordPress。這是這個網站的第一篇文章，試試為這篇文章進行編輯或直接刪除，然後開始撰寫新文章！]]></description>
 										<content:encoded><![CDATA[
 <p>歡迎使用 WordPress。這是這個網站的第一篇文章，試試為這篇文章進行編輯或直接刪除，然後開始撰寫新文章！</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2023/06/15/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>http://treesheeptw.github.io/portfolio/2023/06/15/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

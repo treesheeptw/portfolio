@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	《樹羊》的留言	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="http://treesheeptw.github.io/portfolio/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://treesheeptw.github.io/portfolio</link>
 	<description></description>
 	<lastBuildDate>Thu, 15 Jun 2023 07:00:46 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		「WordPress 示範留言者」發佈於〈網站第一篇文章〉的留言		</title>
-		<link>/2023/06/15/hello-world/#comment-1</link>
+		<link>http://treesheeptw.github.io/portfolio/2023/06/15/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[WordPress 示範留言者]]></dc:creator>
 		<pubDate>Thu, 15 Jun 2023 07:00:46 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-1</guid>
+		<guid isPermaLink="false">http://treesheeptw.github.io/portfolio/?p=1#comment-1</guid>
 
 					<description><![CDATA[網站管理員你好，這是一則預留內容留言。
 如需開始審閱、編輯及刪除留言，請前往 [控制台] 的 [留言] 頁面進行必要的操作。
