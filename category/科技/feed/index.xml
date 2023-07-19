@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>樹羊</title>
-	<atom:link href="http://treesheeptw.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
+	<title>科技 &#8211; 樹羊</title>
+	<atom:link href="http://treesheeptw.github.io/portfolio/category/%E7%A7%91%E6%8A%80/feed/" rel="self" type="application/rss+xml" />
 	<link>http://treesheeptw.github.io/portfolio</link>
 	<description></description>
 	<lastBuildDate>Wed, 19 Jul 2023 13:09:22 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>http://treesheeptw.github.io/portfolio/wp-content/uploads/2023/06/signal-2023-06-15-153559-150x150.jpeg</url>
-	<title>樹羊</title>
+	<title>科技 &#8211; 樹羊</title>
 	<link>http://treesheeptw.github.io/portfolio</link>
 	<width>32</width>
 	<height>32</height>
