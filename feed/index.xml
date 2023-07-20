@@ -12,7 +12,7 @@
 	<atom:link href="https://treesheeptw.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Wed, 19 Jul 2023 13:09:22 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 20 Jul 2023 05:12:22 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,84 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>AI進化那麼快，什麼工作最容易被GPT取代?</title>
+		<link>https://treesheeptw.github.io/portfolio/2023/07/ai%e9%80%b2%e5%8c%96%e9%82%a3%e9%ba%bc%e5%bf%ab%ef%bc%8c%e4%bb%80%e9%ba%bc%e5%b7%a5%e4%bd%9c%e6%9c%80%e5%ae%b9%e6%98%93%e8%a2%abgpt%e5%8f%96%e4%bb%a3/</link>
+					<comments>https://treesheeptw.github.io/portfolio/2023/07/ai%e9%80%b2%e5%8c%96%e9%82%a3%e9%ba%bc%e5%bf%ab%ef%bc%8c%e4%bb%80%e9%ba%bc%e5%b7%a5%e4%bd%9c%e6%9c%80%e5%ae%b9%e6%98%93%e8%a2%abgpt%e5%8f%96%e4%bb%a3/#respond</comments>
+		
+		<dc:creator><![CDATA[boris]]></dc:creator>
+		<pubDate>Thu, 20 Jul 2023 05:11:38 +0000</pubDate>
+				<category><![CDATA[科技]]></category>
+		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=133</guid>
+
+					<description><![CDATA[這張圖也是AI創作。 雖然AI科技是這兩年非常熱門的話題，很多人都為新時代的來臨感到期待，但是很多人卻擔心自己 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="1024" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/brain_explosion__papercut_Seed-4335312_Steps-24_Guidance-10-1024x1024.jpeg" alt="" class="has-border-color has-secondary-border-color wp-image-134" style="border-width:8px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/brain_explosion__papercut_Seed-4335312_Steps-24_Guidance-10-1024x1024.jpeg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/brain_explosion__papercut_Seed-4335312_Steps-24_Guidance-10-300x300.jpeg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/brain_explosion__papercut_Seed-4335312_Steps-24_Guidance-10-150x150.jpeg 150w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/brain_explosion__papercut_Seed-4335312_Steps-24_Guidance-10-768x768.jpeg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/brain_explosion__papercut_Seed-4335312_Steps-24_Guidance-10-1536x1536.jpeg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/brain_explosion__papercut_Seed-4335312_Steps-24_Guidance-10.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>這張圖也是AI創作。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">雖然AI科技是這兩年非常熱門的話題，很多人都為新時代的來臨感到期待，但是很多人卻擔心自己的工作可能被取代。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">這篇文章只會探討GPT，不會討論廣義AI，因為若要包含所有自動化工作的範圍，那麼汽車工廠裡的機械手臂(取代工人)、智慧電器(取代傭人)&#8230;等，早就屬於被電腦取代的工作。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">在討論什麼類型的工作會被取代前，要先討論有沒有任何工作會被GPT取代。以最知名的OpenAI ChatGPT的前身GPT-3為例，根據OpenAI的說法，光是運算成本就花費超過320萬美金。在昂貴的硬體成本下(數個HGX或類似平臺)，一天數萬美金的電力成本如九牛一毛。這還不包含訓練資料的成本，GPT-3是一個175B參數模型，也就是有1750億個參數。要達到這樣的大小，需要大量的資料，不論是用爬蟲蒐集網路資料還是向出版機構大量購買資料，都會是另一筆金錢成本。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">即使能少付很多人的薪水，如果要針對單一職業訓練一個大型語言模型，成本會遠高於省下的薪水，所以在運算資源依然昂貴的情況下，要取代工作，就只能使用現成的模型進行<s>調教</s>調校(例如使用LoRA)這個方法。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);"><a rel="noreferrer noopener" href="https://udndata.com/ndapp/MD_Article?article_id=10209236" data-type="URL" data-id="https://udndata.com/ndapp/MD_Article?article_id=10209236" target="_blank">聯合報</a>報導美國的可汗實驗小學導入以GPT-4為基礎的打造的Khanmigo，功能是藉由對話引導學生找到問題的答案，而且如果學生頻繁使用不當字眼，還能向老師發出警告。雖然乍聽之下很厲害，但是沒有任何老師在這個模型的使用下被取代。GPT(Generative Pre-trained Transformer，預訓練生成式模型)顧名思義是預訓練的，也就是建立在有限的資訊上的，因此之所以Khanmigo只能引導學生找答案，表面上是鼓勵學生學習，但是實際原因可能是擔心它給出錯誤資訊，畢竟AI也有可能像我們一樣，遇到不會的事情也會裝懂。另一個重點是「向老師發出警告」。為什麼要這樣做?當然是因為它沒辦法獨立完成這個工作。AI再很麼厲害，還是有它的身為軟體限制。就如同食品工廠的工人被機器取代後，就出現機器操作員的職缺一樣，電腦還是需要人工操作或監控的。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">總結以上提到的一些瓶頸:</p>
+
+
+
+<ul>
+<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">硬體成本</li>
+
+
+
+<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">資料成本</li>
+
+
+
+<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">正確性或穩定性</li>
+
+
+
+<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">人力監控</li>
+</ul>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">因此，除非你的公司有數百億元可以投入模型開發，那你才有可能因為GPT而失業，屆時你可以和這個語言模型吵架，把過程記錄下來做成文章或影片，藉此獲利，發自己的災難財。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">讀到這裡你可能想嘴我說有自動駕駛或是停車場的車牌辨識正在取代計程車或公車駕駛以及停車場收費人員，不過那並不屬於GPT，所以不是今天的討論範圍。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">結論就是: 比起GPT，我未來取代你的工作的機會更高。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/07/ai%e9%80%b2%e5%8c%96%e9%82%a3%e9%ba%bc%e5%bf%ab%ef%bc%8c%e4%bb%80%e9%ba%bc%e5%b7%a5%e4%bd%9c%e6%9c%80%e5%ae%b9%e6%98%93%e8%a2%abgpt%e5%8f%96%e4%bb%a3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>42000元的4090? 暗網日記I</title>
 		<link>https://treesheeptw.github.io/portfolio/2023/07/42000%e5%85%83%e7%9a%844090-%e6%9a%97%e7%b6%b2%e6%97%a5%e8%a8%98i/</link>
 					<comments>https://treesheeptw.github.io/portfolio/2023/07/42000%e5%85%83%e7%9a%844090-%e6%9a%97%e7%b6%b2%e6%97%a5%e8%a8%98i/#respond</comments>
