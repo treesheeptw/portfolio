@@ -12,7 +12,7 @@
 	<atom:link href="https://treesheeptw.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Sat, 22 Jul 2023 11:45:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 23 Jul 2023 14:17:09 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,140 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>為什麼OpenAI年賺300億，Meta卻賠了7000億?</title>
+		<link>https://treesheeptw.github.io/portfolio/2023/07/%e7%82%ba%e4%bb%80%e9%ba%bcopenai%e5%b9%b4%e8%b3%ba300%e5%84%84%ef%bc%8cmeta%e5%8d%bb%e8%b3%a0%e4%ba%867000%e5%84%84/</link>
+					<comments>https://treesheeptw.github.io/portfolio/2023/07/%e7%82%ba%e4%bb%80%e9%ba%bcopenai%e5%b9%b4%e8%b3%ba300%e5%84%84%ef%bc%8cmeta%e5%8d%bb%e8%b3%a0%e4%ba%867000%e5%84%84/#respond</comments>
+		
+		<dc:creator><![CDATA[boris]]></dc:creator>
+		<pubDate>Sun, 23 Jul 2023 14:17:09 +0000</pubDate>
+				<category><![CDATA[科技]]></category>
+		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=173</guid>
+
+					<description><![CDATA[根據路透社報導，OpenAI的2023年度利潤預估為2億美金(約60億臺幣)，2024更是有預計達到10億美金 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">根據路透社報導，OpenAI的2023年度利潤預估為2億美金(約60億臺幣)，2024更是有預計達到10億美金(約300億臺幣)；Meta在2021年在元宇宙部門投入102億美金(約3200億臺幣)，卻只有23億美金(約690億臺幣)的收入，2022年又投入137億美金，收入卻小幅下跌到22億美金。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">雖然微軟投資OpenAI的130億美金還沒賺回來，但是OpenAI已經取得AI領域的龍頭地位，而且利潤也呈上升趨勢，相比Meta越投越賠，情況可以說是天差地遠。是Meta做錯了什麼? 還是元宇宙根本沒有那麼大的市場?</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">疫情期間，科技產業蓬勃發展，熱門趨勢從元宇宙、NFT，到最近的AI，為什麼元宇宙和NFT話題漸漸冷卻，AI卻持續發展?</p>
+
+
+
+<h1 class="wp-block-heading">元宇宙、NFT是什麼?</h1>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">如果你看過電影(或小說)一級玩家，那大概不太需要解釋，一級玩家中的綠洲就是元宇宙的終極型態，是透過VR等技術構成的虛擬世界，而如果該世界的貨幣或物品交易系統是建立在區塊鏈上的，那虛擬世界中的商品就是NFT。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">簡單來說，元宇宙是集成了虛擬現實技術和虛擬環境的大型虛擬世界，人們可以在其中進行各種虛擬交互活動。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">NFT則是一種基於區塊鏈(跟比特幣等虛擬貨幣一樣)技術的數位資產，它具有唯一性和不可互換性，因此可以作為元宇宙中資產的形式應用，就像房屋契約或持有證明一樣。它使用區塊鏈技術，因此幾乎沒有偽造的可能性，而且是去中心化的(不是由單一政府或公司控管的)。由於元宇宙技術還沒成熟，所以數位藝術就成為NFT最大的應用。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">既然涉及藝術這一主觀的領域，加上人們對虛擬貨幣的認知還不成熟，所以NFT成為了炒作或詐騙的溫床。一些名人以高價買下NFT創作，持有NFT成為一種科技時尚，就像拿著一支有摺疊螢幕的手機一樣。同時，由於製作門檻不高，NFT漸漸平民化，網紅紛紛推出自己的NFT吸引粉絲購買，卻可能造成雙方損失。你可以把NFT想成一種作畫材料，名畫家在一張紙上作畫，可以賣出很高的價格，但是一名網紅在「名畫家同款紙張」上作畫，不代表能賣一樣的價格吧? 況且NFT是數位形式的，網紅推出的NFT也往往不具獨特性(可能只是LOGO而已，或是沒有嚴格限量)，所以也不會有很大的漲價空間。不要的股票還能當壁紙或蓋泡麵，NFT可不行啊!</p>
+
+
+
+<h1 class="wp-block-heading">AI 又憑什麼?</h1>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">雖然AI<a rel="noreferrer noopener" href="https://treesheeptw.github.io/portfolio/2023/07/ai%e9%80%b2%e5%8c%96%e9%82%a3%e9%ba%bc%e5%bf%ab%ef%bc%8c%e4%bb%80%e9%ba%bc%e5%b7%a5%e4%bd%9c%e6%9c%80%e5%ae%b9%e6%98%93%e8%a2%abgpt%e5%8f%96%e4%bb%a3/" data-type="URL" data-id="https://treesheeptw.github.io/portfolio/2023/07/ai%e9%80%b2%e5%8c%96%e9%82%a3%e9%ba%bc%e5%bf%ab%ef%bc%8c%e4%bb%80%e9%ba%bc%e5%b7%a5%e4%bd%9c%e6%9c%80%e5%ae%b9%e6%98%93%e8%a2%abgpt%e5%8f%96%e4%bb%a3/" target="_blank">成本高昂</a>，離如手機般普及還有很長一段距離，但是對於小型應用，有雲端運算可以租用，不用耗資數十萬購買硬體。此外，相對於元宇宙，AI的應用層面十分廣泛，從科技產業到農業，都有能應用的地方，且不一定要是獨立產品，可以讓很多既有的產品提升競爭力，最明顯的例子就是微軟的Edgex瀏覽器以及Bing搜尋引擎，導入GPT-4後，可以讓AI幫忙整合搜尋結果，吸引很多Chrome及Google的使用者改使用他們的產品。</p>
+
+
+
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="1024" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1scene__wonderland__masterpiece__by_Lisa_Frank_Seed-2451196_Steps-50_Guidance-7.5-1024x1024.jpeg" alt="" class="has-border-color has-secondary-border-color wp-image-174" style="border-width:8px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1scene__wonderland__masterpiece__by_Lisa_Frank_Seed-2451196_Steps-50_Guidance-7.5-1024x1024.jpeg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1scene__wonderland__masterpiece__by_Lisa_Frank_Seed-2451196_Steps-50_Guidance-7.5-300x300.jpeg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1scene__wonderland__masterpiece__by_Lisa_Frank_Seed-2451196_Steps-50_Guidance-7.5-150x150.jpeg 150w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1scene__wonderland__masterpiece__by_Lisa_Frank_Seed-2451196_Steps-50_Guidance-7.5-768x768.jpeg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1scene__wonderland__masterpiece__by_Lisa_Frank_Seed-2451196_Steps-50_Guidance-7.5-1536x1536.jpeg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1scene__wonderland__masterpiece__by_Lisa_Frank_Seed-2451196_Steps-50_Guidance-7.5.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">AI 技術還有一個特性是元宇宙及NFT所沒有的，那就是運作的獨立性。一級玩家中的那種虛擬世界，除了需要很強的伺服器處理發生於世界中得一切，還要讓VR設備有很強的圖形運算能力，並且需要在網路技術再更進步的條件下才能運作。相比之下，部分較簡單的AI模型已經能在消費級硬體上運行，例如去年相當熱門的Stable Diffusion繪圖(但是Midjourney不是用你的電腦或手機運算的，第三方網頁版Stable Diffusion也不是!)，或是Meta推出的開源模型LLaMA(一個類似ChatGPT的語言模型)，都能在不到2萬元上的顯示卡上運行。</p>
+
+
+
+<h1 class="wp-block-heading">元宇宙還有機會嗎?</h1>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">雖然Meta漸漸退出了元宇宙領域(名字不知道什麼時候猜會改回來)，但是在前面提及的技術持續發展下，我認為元宇宙總有一天會實現，例如圖形運算晶片更先進後，用於運行VR的主機價格可以大幅降低，將來6G行動網路問世後，甚至是5G技術再更成熟一點，說不定就能實現超低延遲的互動。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">隨著元宇宙及NFT的熱潮持續衰退，還有一個主題被忽略了: 虛擬貨幣。虛擬貨幣跟NFT一樣，是區塊鏈技術下的產品，雖然仍未普及，但是能不受國境限制、去中心化等優勢不會消失，所以我認為它在短期的未來內很有可能持續成長。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">事實上，我也開始研究虛擬貨幣的投資甚至是自動化，也有幾個詳細研究優劣後推薦的平臺，也都有我的推薦碼可以用!</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">是不是把你殺個措手不及?</p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-3">
+<div class="wp-block-column is-layout-flow">
+<p class="has-luminous-vivid-amber-background-color has-background" style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);"><a href="https://www.pionex.com/zh-TW/sign/ref/0gxwe2afRKM" data-type="URL" data-id="https://www.pionex.com/zh-TW/sign/ref/0gxwe2afRKM" target="_blank" rel="noreferrer noopener">Pionex</a></p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">主打:自動化交易</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">推薦碼: 0gxwe2afRKM</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">或直接<a href="https://www.pionex.com/zh-TW/sign/ref/0gxwe2afRKM" data-type="URL" data-id="https://www.pionex.com/zh-TW/sign/ref/0gxwe2afRKM" target="_blank" rel="noreferrer noopener">點擊這裡</a></p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<p class="has-pale-cyan-blue-background-color has-background" style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);"><a href="https://www.mexc.com/zh-TW/register?inviteCode=mexc-treesheep" data-type="URL" data-id="https://www.mexc.com/zh-TW/register?inviteCode=mexc-treesheep" target="_blank" rel="noreferrer noopener">MEXC</a></p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">主打: 低手續費</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">推薦碼: mexc-treesheep</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">或直接<a rel="noreferrer noopener" href="https://www.mexc.com/zh-TW/register?inviteCode=mexc-treesheep" data-type="URL" data-id="https://www.mexc.com/zh-TW/register?inviteCode=mexc-treesheep" target="_blank">點擊這裡</a></p>
+</div>
+</div>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">我也有向長期研究虛擬貨幣投資的同學請教，並在社群裡進行相關討論與研究，如果有興趣可以一起加入，裡面有大量的資源共享，而且對像我這樣的新手很友善。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);"><a rel="noreferrer noopener" href="https://discord.gg/J8xN3ap9" data-type="URL" data-id="https://discord.gg/J8xN3ap9" target="_blank">Discord</a>(較活躍) <a rel="noreferrer noopener" href="https://line.me/ti/g2/D935IJFvD_up2aVeugnKFJsRtuHMS7lL3zUdVw" data-type="URL" data-id="https://line.me/ti/g2/D935IJFvD_up2aVeugnKFJsRtuHMS7lL3zUdVw" target="_blank">Line社群</a>(較不活躍)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/07/%e7%82%ba%e4%bb%80%e9%ba%bcopenai%e5%b9%b4%e8%b3%ba300%e5%84%84%ef%bc%8cmeta%e5%8d%bb%e8%b3%a0%e4%ba%867000%e5%84%84/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Twitter? Threads? 太落後了吧! 用Mastodon!</title>
 		<link>https://treesheeptw.github.io/portfolio/2023/07/twitter-threads-%e5%a4%aa%e8%90%bd%e5%be%8c%e4%ba%86%e5%90%a7-%e7%94%a8mastodon/</link>
 					<comments>https://treesheeptw.github.io/portfolio/2023/07/twitter-threads-%e5%a4%aa%e8%90%bd%e5%be%8c%e4%ba%86%e5%90%a7-%e7%94%a8mastodon/#respond</comments>
