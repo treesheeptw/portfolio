@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>樹羊</title>
-	<atom:link href="https://treesheeptw.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
+	<title>科技 &#8211; 樹羊</title>
+	<atom:link href="https://treesheeptw.github.io/portfolio/category/%E7%A7%91%E6%8A%80/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
 	<lastBuildDate>Sun, 23 Jul 2023 14:17:09 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/cropped-newstl_Seed-1203039_Steps-24_Guidance-10-32x32.png</url>
-	<title>樹羊</title>
+	<title>科技 &#8211; 樹羊</title>
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<width>32</width>
 	<height>32</height>
