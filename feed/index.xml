@@ -12,7 +12,7 @@
 	<atom:link href="https://treesheeptw.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Mon, 24 Jul 2023 13:28:53 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 24 Jul 2023 13:47:17 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,128 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>工作場所不能有隱私嗎? 員工監控軟體竟會危害健康?</title>
+		<link>https://treesheeptw.github.io/portfolio/2023/07/%e5%b7%a5%e4%bd%9c%e5%a0%b4%e6%89%80%e4%b8%8d%e8%83%bd%e6%9c%89%e9%9a%b1%e7%a7%81%e5%97%8e-%e5%93%a1%e5%b7%a5%e7%9b%a3%e6%8e%a7%e8%bb%9f%e9%ab%94%e7%ab%9f%e6%9c%83%e5%8d%b1%e5%ae%b3%e5%81%a5%e5%ba%b7/</link>
+					<comments>https://treesheeptw.github.io/portfolio/2023/07/%e5%b7%a5%e4%bd%9c%e5%a0%b4%e6%89%80%e4%b8%8d%e8%83%bd%e6%9c%89%e9%9a%b1%e7%a7%81%e5%97%8e-%e5%93%a1%e5%b7%a5%e7%9b%a3%e6%8e%a7%e8%bb%9f%e9%ab%94%e7%ab%9f%e6%9c%83%e5%8d%b1%e5%ae%b3%e5%81%a5%e5%ba%b7/#respond</comments>
+		
+		<dc:creator><![CDATA[boris]]></dc:creator>
+		<pubDate>Mon, 24 Jul 2023 13:45:30 +0000</pubDate>
+				<category><![CDATA[科技]]></category>
+		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=106</guid>
+
+					<description><![CDATA[疫情期間，需多公司實行在家工作的政策，並使用員工監控軟體監測員工的工作情況。現在疫情過後，不論有沒有重返辦公室 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/anonymous_hacker__icon__logo_Seed-8089026_Steps-32_Guidance-12.5-1024x1024.jpeg" alt="" class="wp-image-193" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/anonymous_hacker__icon__logo_Seed-8089026_Steps-32_Guidance-12.5-1024x1024.jpeg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/anonymous_hacker__icon__logo_Seed-8089026_Steps-32_Guidance-12.5-300x300.jpeg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/anonymous_hacker__icon__logo_Seed-8089026_Steps-32_Guidance-12.5-150x150.jpeg 150w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/anonymous_hacker__icon__logo_Seed-8089026_Steps-32_Guidance-12.5-768x768.jpeg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/anonymous_hacker__icon__logo_Seed-8089026_Steps-32_Guidance-12.5-1536x1536.jpeg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/anonymous_hacker__icon__logo_Seed-8089026_Steps-32_Guidance-12.5.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">疫情期間，需多公司實行在家工作的政策，並使用員工監控軟體監測員工的工作情況。現在疫情過後，不論有沒有重返辦公室，很多公司都繼續用著監控軟體。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">雖然員工監控軟體可能能增加工作效率，但是卻會讓員工隱私受到侵犯，也有可能破壞主觀與員工的人際關係。員工監控軟體到底是好是壞?我們一起來看看。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">國外<a rel="noreferrer noopener" href="https://digital.com/6-in-10-employers-require-monitoring-software-for-remote-workers/" data-type="URL" data-id="https://digital.com/6-in-10-employers-require-monitoring-software-for-remote-workers/" target="_blank">研究</a>發現有高達60%的公司使用某種形式的員工監控軟體，而且其中又有88%的公司在使用員工監控軟體後，以工作不認真等相關理由開除員工。這些數字聽起來可能很恐怖，但是同一篇研究裡發現超過一半的員工每天在該工作的時間花超過3小時在非工作的事情上，所以被開除也沒有很誇張。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">我到網路上蒐集各個知名監控軟體的功能，最後整理出幾個最常見的監控項目:</p>
+
+
+
+<ul>
+<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">瀏覽器記錄</li>
+
+
+
+<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">螢幕畫面</li>
+
+
+
+<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">鍵盤輸入歷史</li>
+
+
+
+<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">GPS定位</li>
+
+
+
+<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">通訊軟體記錄</li>
+
+
+
+<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">電腦或手機鏡頭</li>
+</ul>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">如果站在主管的角度，這些功能可以帶來以下好處:</p>
+
+
+
+<ul>
+<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">增加工作效率</li>
+
+
+
+<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">快速了解工作進度</li>
+
+
+
+<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">保護公司的資料安全</li>
+</ul>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">其中「保護公司的資料安全」是常常被忽略的一點。現今的惡意軟體已經進化許多，除了能將各種形式的檔案類型(.exe, .scr等)偽裝成PDF，Microsoft Office的文件也能透過Macros執行惡意程式碼，所以確保來源不明的電子郵件或是網站不被開啟是對資料安全來說很重要的一個做法。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">不過從員工的角度看，監控軟體有以下幾個問題:</p>
+
+
+
+<ul>
+<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">隱私受到侵犯(私人通訊紀錄等)</li>
+
+
+
+<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">密碼問題(監控者可以透過鍵盤輸入紀錄找出員工所使用的各個密碼)</li>
+
+
+
+<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">員工健康</li>
+</ul>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">雖然隱私是最常被討論到的問題，但是我認為健康也是一個很大的缺點。在一份CDT(Center for Democracy and Technology)的<a rel="noreferrer noopener" href="https://cdt.org/wp-content/uploads/2021/07/2021-07-29-Warning-Bossware-May-Be-Hazardous-To-Your-Health-Final.pdf" data-type="URL" data-id="https://cdt.org/wp-content/uploads/2021/07/2021-07-29-Warning-Bossware-May-Be-Hazardous-To-Your-Health-Final.pdf" target="_blank">研究</a>裡發現，使用這種監控軟體可能對員工或其他被監控者造成身心健康的危害。除了實時監控下的工作壓力會影響心理健康以外，如果沒有讓工作者適當休息，或是強迫他們以更高的效率工作，可能會影響到生理健康。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">那麼，如果是主管，應該選擇使用監控軟體嗎?我認為有兩個條件需要達成，分別是法律保護及告知被監控對象。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">法律上除了應該規範監控軟體使用範圍(例如可以監控螢幕，但不得記錄鍵盤輸入)外，也應該保障身心障礙者不會在監控軟體下被迫達到和其他人、他們可能無法負荷的工作效率，並對違反相關規定的單位進行懲罰。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">告知被監控對象的部分，應該確保被監控對象知道自己會被監控、被監控的項目，且不會直接透過監控數據進行任何懲罰(因效率低下而扣薪等)，並確保蒐集到的數據會在不再被需要的時候進行刪除。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">你是否有在使用或被使用監控軟體? 你對它的看法又是什麼?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/07/%e5%b7%a5%e4%bd%9c%e5%a0%b4%e6%89%80%e4%b8%8d%e8%83%bd%e6%9c%89%e9%9a%b1%e7%a7%81%e5%97%8e-%e5%93%a1%e5%b7%a5%e7%9b%a3%e6%8e%a7%e8%bb%9f%e9%ab%94%e7%ab%9f%e6%9c%83%e5%8d%b1%e5%ae%b3%e5%81%a5%e5%ba%b7/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>為什麼OpenAI年賺300億，Meta卻賠了7000億?</title>
 		<link>https://treesheeptw.github.io/portfolio/2023/07/%e7%82%ba%e4%bb%80%e9%ba%bcopenai%e5%b9%b4%e8%b3%ba300%e5%84%84%ef%bc%8cmeta%e5%8d%bb%e8%b3%a0%e4%ba%867000%e5%84%84/</link>
 					<comments>https://treesheeptw.github.io/portfolio/2023/07/%e7%82%ba%e4%bb%80%e9%ba%bcopenai%e5%b9%b4%e8%b3%ba300%e5%84%84%ef%bc%8cmeta%e5%8d%bb%e8%b3%a0%e4%ba%867000%e5%84%84/#respond</comments>
@@ -561,124 +683,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/07/42000%e5%85%83%e7%9a%844090-%e6%9a%97%e7%b6%b2%e6%97%a5%e8%a8%98i/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>工作場所不能有隱私嗎? 員工監控軟體竟會危害健康?</title>
-		<link>https://treesheeptw.github.io/portfolio/2023/07/%e5%b7%a5%e4%bd%9c%e5%a0%b4%e6%89%80%e4%b8%8d%e8%83%bd%e6%9c%89%e9%9a%b1%e7%a7%81%e5%97%8e-%e5%93%a1%e5%b7%a5%e7%9b%a3%e6%8e%a7%e8%bb%9f%e9%ab%94%e7%ab%9f%e6%9c%83%e5%8d%b1%e5%ae%b3%e5%81%a5%e5%ba%b7/</link>
-					<comments>https://treesheeptw.github.io/portfolio/2023/07/%e5%b7%a5%e4%bd%9c%e5%a0%b4%e6%89%80%e4%b8%8d%e8%83%bd%e6%9c%89%e9%9a%b1%e7%a7%81%e5%97%8e-%e5%93%a1%e5%b7%a5%e7%9b%a3%e6%8e%a7%e8%bb%9f%e9%ab%94%e7%ab%9f%e6%9c%83%e5%8d%b1%e5%ae%b3%e5%81%a5%e5%ba%b7/#respond</comments>
-		
-		<dc:creator><![CDATA[boris]]></dc:creator>
-		<pubDate>Mon, 17 Jul 2023 10:51:30 +0000</pubDate>
-				<category><![CDATA[科技]]></category>
-		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=106</guid>
-
-					<description><![CDATA[疫情期間，需多公司實行在家工作的政策，並使用員工監控軟體監測員工的工作情況。現在疫情過後，不論有沒有重返辦公室 [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">疫情期間，需多公司實行在家工作的政策，並使用員工監控軟體監測員工的工作情況。現在疫情過後，不論有沒有重返辦公室，很多公司都繼續用著監控軟體。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">雖然員工監控軟體可能能增加工作效率，但是卻會讓員工隱私受到侵犯，也有可能破壞主觀與員工的人際關係。員工監控軟體到底是好是壞?我們一起來看看。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">國外<a rel="noreferrer noopener" href="https://digital.com/6-in-10-employers-require-monitoring-software-for-remote-workers/" data-type="URL" data-id="https://digital.com/6-in-10-employers-require-monitoring-software-for-remote-workers/" target="_blank">研究</a>發現有高達60%的公司使用某種形式的員工監控軟體，而且其中又有88%的公司在使用員工監控軟體後，以工作不認真等相關理由開除員工。這些數字聽起來可能很恐怖，但是同一篇研究裡發現超過一半的員工每天在該工作的時間花超過3小時在非工作的事情上，所以被開除也沒有很誇張。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">我到網路上蒐集各個知名監控軟體的功能，最後整理出幾個最常見的監控項目:</p>
-
-
-
-<ul>
-<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">瀏覽器記錄</li>
-
-
-
-<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">螢幕畫面</li>
-
-
-
-<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">鍵盤輸入歷史</li>
-
-
-
-<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">GPS定位</li>
-
-
-
-<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">通訊軟體記錄</li>
-
-
-
-<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">電腦或手機鏡頭</li>
-</ul>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">如果站在主管的角度，這些功能可以帶來以下好處:</p>
-
-
-
-<ul>
-<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">增加工作效率</li>
-
-
-
-<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">快速了解工作進度</li>
-
-
-
-<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">保護公司的資料安全</li>
-</ul>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">其中「保護公司的資料安全」是常常被忽略的一點。現今的惡意軟體已經進化許多，除了能將各種形式的檔案類型(.exe, .scr等)偽裝成PDF，Microsoft Office的文件也能透過Macros執行惡意程式碼，所以確保來源不明的電子郵件或是網站不被開啟是對資料安全來說很重要的一個做法。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">不過從員工的角度看，監控軟體有以下幾個問題:</p>
-
-
-
-<ul>
-<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">隱私受到侵犯(私人通訊紀錄等)</li>
-
-
-
-<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">密碼問題(監控者可以透過鍵盤輸入紀錄找出員工所使用的各個密碼)</li>
-
-
-
-<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">員工健康</li>
-</ul>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">雖然隱私是最常被討論到的問題，但是我認為健康也是一個很大的缺點。在一份CDT(Center for Democracy and Technology)的<a rel="noreferrer noopener" href="https://cdt.org/wp-content/uploads/2021/07/2021-07-29-Warning-Bossware-May-Be-Hazardous-To-Your-Health-Final.pdf" data-type="URL" data-id="https://cdt.org/wp-content/uploads/2021/07/2021-07-29-Warning-Bossware-May-Be-Hazardous-To-Your-Health-Final.pdf" target="_blank">研究</a>裡發現，使用這種監控軟體可能對員工或其他被監控者造成身心健康的危害。除了實時監控下的工作壓力會影響心理健康以外，如果沒有讓工作者適當休息，或是強迫他們以更高的效率工作，可能會影響到生理健康。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">那麼，如果是主管，應該選擇使用監控軟體嗎?我認為有兩個條件需要達成，分別是法律保護及告知被監控對象。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">法律上除了應該規範監控軟體使用範圍(例如可以監控螢幕，但不得記錄鍵盤輸入)外，也應該保障身心障礙者不會在監控軟體下被迫達到和其他人、他們可能無法負荷的工作效率，並對違反相關規定的單位進行懲罰。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">告知被監控對象的部分，應該確保被監控對象知道自己會被監控、被監控的項目，且不會直接透過監控數據進行任何懲罰(因效率低下而扣薪等)，並確保蒐集到的數據會在不再被需要的時候進行刪除。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">你是否有在使用或被使用監控軟體? 你對它的看法又是什麼?</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/07/%e5%b7%a5%e4%bd%9c%e5%a0%b4%e6%89%80%e4%b8%8d%e8%83%bd%e6%9c%89%e9%9a%b1%e7%a7%81%e5%97%8e-%e5%93%a1%e5%b7%a5%e7%9b%a3%e6%8e%a7%e8%bb%9f%e9%ab%94%e7%ab%9f%e6%9c%83%e5%8d%b1%e5%ae%b3%e5%81%a5%e5%ba%b7/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
