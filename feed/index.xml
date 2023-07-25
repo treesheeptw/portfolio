@@ -12,7 +12,7 @@
 	<atom:link href="https://treesheeptw.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Tue, 25 Jul 2023 15:09:33 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 25 Jul 2023 15:21:30 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -107,7 +107,11 @@
 
 
 
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">於是Windows安全性就被關&#8230;欸不對，整個消失了? 這在我的意料之外，因為以前接觸到的類似程式是透過背景程式反覆關閉Windows Defender，也就是它依然存在，但是你只要嘗試打開任何功能就會被強制關閉。</p>
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">於是Windows安全性就被關&#8230;欸不對，整個消失了? 這在我的意料之外，因為以前接觸到的類似程式都是透過背景程式反覆關閉Windows Defender的功能，也就是它本身依然存在，但是你只要嘗試打開任何功能就會馬上被強制關閉，就像下面這個影片一樣。</p>
+
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Nqk_nWAjBus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
