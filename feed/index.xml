@@ -12,7 +12,7 @@
 	<atom:link href="https://treesheeptw.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Tue, 25 Jul 2023 15:21:30 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Jul 2023 14:29:16 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,42 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>「不感興趣」是什麼?</title>
+		<link>https://treesheeptw.github.io/portfolio/2023/07/%e3%80%8c%e4%b8%8d%e6%84%9f%e8%88%88%e8%b6%a3%e3%80%8d%e6%98%af%e4%bb%80%e9%ba%bc/</link>
+					<comments>https://treesheeptw.github.io/portfolio/2023/07/%e3%80%8c%e4%b8%8d%e6%84%9f%e8%88%88%e8%b6%a3%e3%80%8d%e6%98%af%e4%bb%80%e9%ba%bc/#respond</comments>
+		
+		<dc:creator><![CDATA[boris]]></dc:creator>
+		<pubDate>Wed, 26 Jul 2023 14:29:16 +0000</pubDate>
+				<category><![CDATA[科技]]></category>
+		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=220</guid>
+
+					<description><![CDATA[說到演算法，很多人第一個想到的是社群平臺或是影音平臺的演算法，其中最常被討論的之一是YouTube的影片推薦演 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="365" height="227" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0726-1.png" alt="" class="has-border-color has-secondary-border-color wp-image-221" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0726-1.png 365w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0726-1-300x187.png 300w" sizes="(max-width: 365px) 100vw, 365px" /></figure>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">說到演算法，很多人第一個想到的是社群平臺或是影音平臺的演算法，其中最常被討論的之一是YouTube的影片推薦演算法。雖然有時候很厲害，能讓你意外發掘你沒有想過你會有興趣的影片主題或類型，但是為什麼有時候會出現跟你的觀看習慣格格不入的影片，或是不遵從你的指令?</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">你是否有注意過你能在YouTube首頁的推薦影片中，你可以從旁邊的選項選擇「不感興趣」或「不要推薦這個頻道」，讓類似的內容不要出現? 如果你有用過這個功能，你可能會發現它沒什麼效果。Mozilla(Firefox的公司)最近在它們的網站上發起一個<a rel="noreferrer noopener" href="https://foundation.mozilla.org/en/campaigns/youtube-user-controls/?term=en" data-type="URL" data-id="https://foundation.mozilla.org/en/campaigns/youtube-user-controls/?term=en" target="_blank">連署活動</a>，其中提到，在他們的測試及統計下的結果顯示，使用者沒有權利控制任何內容，甚至即使按下「不感興趣」或「不要推薦這個頻道」，都不會改變演算法的運作。所以如果你也覺得沒有效果，它可能不是錯覺。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">另外，有些人有注意到推薦裡偶爾會出現跟自己的興趣毫無相關的影片，而且可能是觀看次數很低的冷門影片。這是為什麼? 雖然沒有證據，但是我覺得YouTube可能在模仿抖音的演算法。雖然我沒有用過抖音，但是有看過很多相關的研究甚至是論文，其中發現抖音的演算法不同於YouTube，使用者是沒有「首頁」的: 它可以強制撥放內容給使用者，畢竟使用者只有往下滑的選項，而不是像YouTube一樣從多個影片選擇。演算法會不論創作者的追蹤數或觀看樹，先給所有影片差不多的曝光，再依照使用者的回饋(停留時間、是否留言&#8230;等)決定這支影片未來的曝光率。這個方法可以確保新手創作者只要品質好也能跟知名創作者獲得一樣的結果，但是缺點是使用者偶爾會看到品質較低的內容。我猜YouTube也在實驗這套方法，嘗試給新手創作者更多機會。你覺得這個改變是否有影響到你? 如果有的話，是好還是壞?</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">如果你覺得YouTube演算法需要改善，你可以按<a rel="noreferrer noopener" href="https://foundation.mozilla.org/en/campaigns/youtube-user-controls/?term=en" data-type="URL" data-id="https://foundation.mozilla.org/en/campaigns/youtube-user-controls/?term=en" target="_blank">這裡</a>參加Mozilla的連署。我是沒差，因為我都用第三方介面，根本不會被演算法影響。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/07/%e3%80%8c%e4%b8%8d%e6%84%9f%e8%88%88%e8%b6%a3%e3%80%8d%e6%98%af%e4%bb%80%e9%ba%bc/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>勒索軟體也有等級之分! 暗網日記III</title>
 		<link>https://treesheeptw.github.io/portfolio/2023/07/%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94%e4%b9%9f%e6%9c%89%e7%ad%89%e7%b4%9a%e4%b9%8b%e5%88%86-%e6%9a%97%e7%b6%b2%e6%97%a5%e8%a8%98iii/</link>
 					<comments>https://treesheeptw.github.io/portfolio/2023/07/%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94%e4%b9%9f%e6%9c%89%e7%ad%89%e7%b4%9a%e4%b9%8b%e5%88%86-%e6%9a%97%e7%b6%b2%e6%97%a5%e8%a8%98iii/#respond</comments>
