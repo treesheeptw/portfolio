@@ -12,7 +12,7 @@
 	<atom:link href="https://treesheeptw.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Sun, 23 Jul 2023 14:17:09 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 25 Jul 2023 15:21:30 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,232 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>勒索軟體也有等級之分! 暗網日記III</title>
+		<link>https://treesheeptw.github.io/portfolio/2023/07/%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94%e4%b9%9f%e6%9c%89%e7%ad%89%e7%b4%9a%e4%b9%8b%e5%88%86-%e6%9a%97%e7%b6%b2%e6%97%a5%e8%a8%98iii/</link>
+					<comments>https://treesheeptw.github.io/portfolio/2023/07/%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94%e4%b9%9f%e6%9c%89%e7%ad%89%e7%b4%9a%e4%b9%8b%e5%88%86-%e6%9a%97%e7%b6%b2%e6%97%a5%e8%a8%98iii/#respond</comments>
+		
+		<dc:creator><![CDATA[boris]]></dc:creator>
+		<pubDate>Tue, 25 Jul 2023 15:05:36 +0000</pubDate>
+				<category><![CDATA[科技]]></category>
+		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=196</guid>
+
+					<description><![CDATA[本文章僅為研究用途，不論是否在暗網上，購毒、買凶、雇用駭客都是違法行為。 上次的暗網日記裡，我跟一個暗網上的賣 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="375" height="185" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-7.png" alt="" class="has-border-color has-secondary-border-color wp-image-198" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-7.png 375w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-7-300x148.png 300w" sizes="(max-width: 375px) 100vw, 375px" /></figure>
+
+
+
+<p>本文章僅為研究用途，不論是否在暗網上，購毒、買凶、雇用駭客都是違法行為。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);"><a rel="noreferrer noopener" href="https://treesheeptw.github.io/portfolio/2023/07/%e7%ac%ac%e4%b8%80%e6%ac%a1%e5%9c%a8%e6%9a%97%e7%b6%b2%e8%b2%b7%e6%9d%b1%e8%a5%bf-%e6%9a%97%e7%b6%b2%e6%97%a5%e8%a8%98ii/" data-type="URL" data-id="https://treesheeptw.github.io/portfolio/2023/07/%e7%ac%ac%e4%b8%80%e6%ac%a1%e5%9c%a8%e6%9a%97%e7%b6%b2%e8%b2%b7%e6%9d%b1%e8%a5%bf-%e6%9a%97%e7%b6%b2%e6%97%a5%e8%a8%98ii/" target="_blank">上次的暗網日記</a>裡，我跟一個暗網上的賣家買了一款勒索軟體，並且實測給大家看。不過第一次測試的時候其實有觸發Windows內建的防毒程式，沒有成功執行，是我手動將它解除，才再次測試並寫成文章的。由於大部分的Windows使用者都沒有關閉這個功能，所以這款勒索軟體威脅性不大，因為連資料庫大小以及防護力都遠不及付費防毒軟體的內建防毒都能偵測到。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">因此，我再次寄信給賣家，<s>質</s>問他為什麼會這樣。幾個小時過後就收到了他的回覆。</p>
+
+
+
+<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="527" height="309" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-8.png" alt="" class="has-border-color has-secondary-border-color wp-image-201" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-8.png 527w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-8-300x176.png 300w" sizes="(max-width: 527px) 100vw, 527px" /></figure>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">原來是我的等級問題(?)</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">所謂的RAT，就是remote access trojan的縮寫，中文翻譯是遠端存取木馬，通常比勒索軟體更恐怖，因為它能在背景執行，偷取你的密碼、虛擬貨幣，也能透過它把更多惡意軟體傳送到受害者的裝置上，甚至將其變成母體，把惡意軟體散布到更多裝置上。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">OSX就是蘋果Mac OS的別稱。Windows Defender、OSX、Android都是專有名詞，沒有大寫開頭看了真的很不舒服。</p>
+
+
+
+<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="91" height="182" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-4.png" alt="" class="has-border-color has-secondary-border-color wp-image-202" style="border-width:4px"/></figure>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">所以我就買了更貴的版本，寄過來的附件多了一個batch file，名稱是init，所以應該是要先執行它之後再執行主程式。主程式則一樣是.exe，名稱是thursday_v2，但是我不知道是真的跟上一次的程式一樣，或是更過的版本只是多附一個batch file而已。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">不同於.exe，batch file是可以看到執行內容的，於是我先點開batch file看看內容。不過因為如果被不當使用(現在這個情況就是)會相當危險，所以這邊不附上截圖。</p>
+
+
+
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="612" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-1-1024x612.png" alt="" class="has-border-color has-secondary-border-color wp-image-203" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-1-1024x612.png 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-1-300x179.png 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-1-768x459.png 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-1.png 1168w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="574" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-2-1024x574.png" alt="" class="has-border-color has-secondary-border-color wp-image-204" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-2-1024x574.png 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-2-300x168.png 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-2-768x431.png 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-2.png 1136w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">在執行之前的電腦長這樣，更新與安全性內有安全性設定。</p>
+
+
+
+<figure class="wp-block-image size-large is-resized has-custom-border"><img decoding="async" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-3-1024x595.png" alt="" class="has-border-color has-secondary-border-color wp-image-205" style="border-width:4px" width="582" height="338" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-3-1024x595.png 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-3-300x174.png 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-3-768x446.png 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-3.png 1086w" sizes="(max-width: 582px) 100vw, 582px" /></figure>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">點開之後，確認所有功能都是運作中的後，我執行了那個batch file。執行後只花了約四秒就關閉了，我來不及計時。</p>
+
+
+
+<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="800" height="572" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-6.png" alt="" class="has-border-color has-secondary-border-color wp-image-206" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-6.png 800w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-6-300x215.png 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-6-768x549.png 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">於是Windows安全性就被關&#8230;欸不對，整個消失了? 這在我的意料之外，因為以前接觸到的類似程式都是透過背景程式反覆關閉Windows Defender的功能，也就是它本身依然存在，但是你只要嘗試打開任何功能就會馬上被強制關閉，就像下面這個影片一樣。</p>
+
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Nqk_nWAjBus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="768" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-8-1-1024x768.png" alt="" class="has-border-color has-secondary-border-color wp-image-207" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-8-1-1024x768.png 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-8-1-300x225.png 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-8-1-768x576.png 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-8-1.png 1152w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">最後執行了主程式，花費24秒，比上次的20秒慢，並沒有像賣家標榜的一樣比較快，不過可能是因為它有迴避防毒軟體或其它額外功能。跟上次不一樣的地方還有不會更換背景。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">以上就是這次的惡意軟體「開箱」，如果對暗網上的各種內容感興趣，請持續追蹤我的網站新文!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/07/%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94%e4%b9%9f%e6%9c%89%e7%ad%89%e7%b4%9a%e4%b9%8b%e5%88%86-%e6%9a%97%e7%b6%b2%e6%97%a5%e8%a8%98iii/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>工作場所不能有隱私嗎? 員工監控軟體竟會危害健康?</title>
+		<link>https://treesheeptw.github.io/portfolio/2023/07/%e5%b7%a5%e4%bd%9c%e5%a0%b4%e6%89%80%e4%b8%8d%e8%83%bd%e6%9c%89%e9%9a%b1%e7%a7%81%e5%97%8e-%e5%93%a1%e5%b7%a5%e7%9b%a3%e6%8e%a7%e8%bb%9f%e9%ab%94%e7%ab%9f%e6%9c%83%e5%8d%b1%e5%ae%b3%e5%81%a5%e5%ba%b7/</link>
+					<comments>https://treesheeptw.github.io/portfolio/2023/07/%e5%b7%a5%e4%bd%9c%e5%a0%b4%e6%89%80%e4%b8%8d%e8%83%bd%e6%9c%89%e9%9a%b1%e7%a7%81%e5%97%8e-%e5%93%a1%e5%b7%a5%e7%9b%a3%e6%8e%a7%e8%bb%9f%e9%ab%94%e7%ab%9f%e6%9c%83%e5%8d%b1%e5%ae%b3%e5%81%a5%e5%ba%b7/#respond</comments>
+		
+		<dc:creator><![CDATA[boris]]></dc:creator>
+		<pubDate>Mon, 24 Jul 2023 13:45:30 +0000</pubDate>
+				<category><![CDATA[科技]]></category>
+		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=106</guid>
+
+					<description><![CDATA[疫情期間，許多公司實行在家工作的政策，並使用員工監控軟體監測員工的工作情況。現在疫情過後，不論有沒有重返辦公室 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="1024" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/anonymous_hacker__icon__logo_Seed-8089026_Steps-32_Guidance-12.5-1024x1024.jpeg" alt="" class="has-border-color has-secondary-border-color wp-image-193" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/anonymous_hacker__icon__logo_Seed-8089026_Steps-32_Guidance-12.5-1024x1024.jpeg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/anonymous_hacker__icon__logo_Seed-8089026_Steps-32_Guidance-12.5-300x300.jpeg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/anonymous_hacker__icon__logo_Seed-8089026_Steps-32_Guidance-12.5-150x150.jpeg 150w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/anonymous_hacker__icon__logo_Seed-8089026_Steps-32_Guidance-12.5-768x768.jpeg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/anonymous_hacker__icon__logo_Seed-8089026_Steps-32_Guidance-12.5-1536x1536.jpeg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/anonymous_hacker__icon__logo_Seed-8089026_Steps-32_Guidance-12.5.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">疫情期間，許多公司實行在家工作的政策，並使用員工監控軟體監測員工的工作情況。現在疫情過後，不論有沒有重返辦公室，很多公司都繼續用著監控軟體。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">雖然員工監控軟體可能能增加工作效率，但是卻會讓員工隱私受到侵犯，也有可能破壞主管與員工的人際關係。員工監控軟體到底是好是壞?我們一起來看看。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">國外<a rel="noreferrer noopener" href="https://digital.com/6-in-10-employers-require-monitoring-software-for-remote-workers/" data-type="URL" data-id="https://digital.com/6-in-10-employers-require-monitoring-software-for-remote-workers/" target="_blank">研究</a>發現有高達60%的公司使用某種形式的員工監控軟體，而且其中又有88%的公司在使用員工監控軟體後，以工作不認真等相關理由開除員工。這些數字聽起來可能很恐怖，但是同一篇研究裡發現超過一半的員工每天在該工作的時間花超過3小時在非工作的事情上，所以被開除也沒有很誇張。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">我到網路上蒐集各個知名監控軟體的功能，最後整理出幾個最常見的監控項目:</p>
+
+
+
+<ul>
+<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">瀏覽器記錄</li>
+
+
+
+<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">螢幕畫面</li>
+
+
+
+<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">鍵盤輸入歷史</li>
+
+
+
+<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">GPS定位</li>
+
+
+
+<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">通訊軟體記錄</li>
+
+
+
+<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">電腦或手機鏡頭</li>
+</ul>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">如果站在主管的角度，這些功能可以帶來以下好處:</p>
+
+
+
+<ul>
+<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">增加工作效率</li>
+
+
+
+<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">快速了解工作進度</li>
+
+
+
+<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">保護公司的資料安全</li>
+</ul>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">其中「保護公司的資料安全」是常常被忽略的一點。現今的惡意軟體已經進化許多，除了能將各種形式的檔案類型(.exe, .scr等)偽裝成PDF，Microsoft Office的文件也能透過Macros執行惡意程式碼，所以確保來源不明的電子郵件或是網站不被開啟是對資料安全來說很重要的一個做法。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">不過從員工的角度看，監控軟體有以下幾個問題:</p>
+
+
+
+<ul>
+<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">隱私受到侵犯(私人通訊紀錄等)</li>
+
+
+
+<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">密碼問題(監控者可以透過鍵盤輸入紀錄找出員工所使用的各個密碼)</li>
+
+
+
+<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">員工健康</li>
+</ul>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">雖然隱私是最常被討論到的問題，但是我認為健康也是一個很大的缺點。在一份CDT(Center for Democracy and Technology)的<a rel="noreferrer noopener" href="https://cdt.org/wp-content/uploads/2021/07/2021-07-29-Warning-Bossware-May-Be-Hazardous-To-Your-Health-Final.pdf" data-type="URL" data-id="https://cdt.org/wp-content/uploads/2021/07/2021-07-29-Warning-Bossware-May-Be-Hazardous-To-Your-Health-Final.pdf" target="_blank">研究</a>裡發現，使用這種監控軟體可能對員工或其他被監控者造成身心健康的危害。除了實時監控下的工作壓力會影響心理健康以外，如果沒有讓工作者適當休息，或是強迫他們以更高的效率工作，可能會影響到生理健康。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">那麼，如果是主管，應該選擇使用監控軟體嗎?我認為有兩個條件需要達成，分別是法律保護及告知被監控對象。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">法律上除了應該規範監控軟體使用範圍(例如可以監控螢幕，但不得記錄鍵盤輸入)外，也應該保障身心障礙者不會在監控軟體下被迫達到和其他人、他們可能無法負荷的工作效率，並對違反相關規定的單位進行懲罰。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">告知被監控對象的部分，應該確保被監控對象知道自己會被監控、被監控的項目，且不會直接透過監控數據進行任何懲罰(因效率低下而扣薪等)，並確保蒐集到的數據會在不再被需要的時候進行刪除。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">你是否有在使用或被使用監控軟體? 你對它的看法又是什麼?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/07/%e5%b7%a5%e4%bd%9c%e5%a0%b4%e6%89%80%e4%b8%8d%e8%83%bd%e6%9c%89%e9%9a%b1%e7%a7%81%e5%97%8e-%e5%93%a1%e5%b7%a5%e7%9b%a3%e6%8e%a7%e8%bb%9f%e9%ab%94%e7%ab%9f%e6%9c%83%e5%8d%b1%e5%ae%b3%e5%81%a5%e5%ba%b7/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>為什麼OpenAI年賺300億，Meta卻賠了7000億?</title>
 		<link>https://treesheeptw.github.io/portfolio/2023/07/%e7%82%ba%e4%bb%80%e9%ba%bcopenai%e5%b9%b4%e8%b3%ba300%e5%84%84%ef%bc%8cmeta%e5%8d%bb%e8%b3%a0%e4%ba%867000%e5%84%84/</link>
 					<comments>https://treesheeptw.github.io/portfolio/2023/07/%e7%82%ba%e4%bb%80%e9%ba%bcopenai%e5%b9%b4%e8%b3%ba300%e5%84%84%ef%bc%8cmeta%e5%8d%bb%e8%b3%a0%e4%ba%867000%e5%84%84/#respond</comments>
@@ -83,7 +309,7 @@
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="1024" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1scene__wonderland__masterpiece__by_Lisa_Frank_Seed-2451196_Steps-50_Guidance-7.5-1024x1024.jpeg" alt="" class="has-border-color has-secondary-border-color wp-image-174" style="border-width:8px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1scene__wonderland__masterpiece__by_Lisa_Frank_Seed-2451196_Steps-50_Guidance-7.5-1024x1024.jpeg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1scene__wonderland__masterpiece__by_Lisa_Frank_Seed-2451196_Steps-50_Guidance-7.5-300x300.jpeg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1scene__wonderland__masterpiece__by_Lisa_Frank_Seed-2451196_Steps-50_Guidance-7.5-150x150.jpeg 150w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1scene__wonderland__masterpiece__by_Lisa_Frank_Seed-2451196_Steps-50_Guidance-7.5-768x768.jpeg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1scene__wonderland__masterpiece__by_Lisa_Frank_Seed-2451196_Steps-50_Guidance-7.5-1536x1536.jpeg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1scene__wonderland__masterpiece__by_Lisa_Frank_Seed-2451196_Steps-50_Guidance-7.5.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="1024" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1scene__wonderland__masterpiece__by_Lisa_Frank_Seed-2451196_Steps-50_Guidance-7.5-1024x1024.jpeg" alt="" class="has-border-color has-secondary-border-color wp-image-174" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1scene__wonderland__masterpiece__by_Lisa_Frank_Seed-2451196_Steps-50_Guidance-7.5-1024x1024.jpeg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1scene__wonderland__masterpiece__by_Lisa_Frank_Seed-2451196_Steps-50_Guidance-7.5-300x300.jpeg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1scene__wonderland__masterpiece__by_Lisa_Frank_Seed-2451196_Steps-50_Guidance-7.5-150x150.jpeg 150w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1scene__wonderland__masterpiece__by_Lisa_Frank_Seed-2451196_Steps-50_Guidance-7.5-768x768.jpeg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1scene__wonderland__masterpiece__by_Lisa_Frank_Seed-2451196_Steps-50_Guidance-7.5-1536x1536.jpeg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1scene__wonderland__masterpiece__by_Lisa_Frank_Seed-2451196_Steps-50_Guidance-7.5.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -173,7 +399,7 @@
 
 					<description><![CDATA[如果你有在用Instagram，你一定知道Meta近期推出的Threads。如果你有在用Twitter，一定知 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img decoding="async" width="796" height="818" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/home_sponsors_world.webp" alt="" class="wp-image-146" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/home_sponsors_world.webp 796w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/home_sponsors_world-292x300.webp 292w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/home_sponsors_world-768x789.webp 768w" sizes="(max-width: 796px) 100vw, 796px" /></figure>
+<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="796" height="818" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/home_sponsors_world.webp" alt="" class="has-border-color has-secondary-border-color wp-image-146" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/home_sponsors_world.webp 796w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/home_sponsors_world-292x300.webp 292w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/home_sponsors_world-768x789.webp 768w" sizes="(max-width: 796px) 100vw, 796px" /></figure>
 
 
 
@@ -181,7 +407,7 @@
 
 
 
-<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="323" height="336" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0720-1.png" alt="" class="has-border-color has-secondary-border-color wp-image-147" style="border-width:8px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0720-1.png 323w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0720-1-288x300.png 288w" sizes="(max-width: 323px) 100vw, 323px" /></figure>
+<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="323" height="336" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0720-1.png" alt="" class="has-border-color has-secondary-border-color wp-image-147" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0720-1.png 323w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0720-1-288x300.png 288w" sizes="(max-width: 323px) 100vw, 323px" /></figure>
 
 
 
@@ -213,7 +439,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="538" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/68747470733a2f2f6d656469612e6d7374646e2e736f6369616c2f736974655f75706c6f6164732f66696c65732f3030302f3030302f3030342f4031782f633131613264616239626235336162632e706e67-1024x538.png" alt="" class="wp-image-148" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/68747470733a2f2f6d656469612e6d7374646e2e736f6369616c2f736974655f75706c6f6164732f66696c65732f3030302f3030302f3030342f4031782f633131613264616239626235336162632e706e67-1024x538.png 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/68747470733a2f2f6d656469612e6d7374646e2e736f6369616c2f736974655f75706c6f6164732f66696c65732f3030302f3030302f3030342f4031782f633131613264616239626235336162632e706e67-300x158.png 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/68747470733a2f2f6d656469612e6d7374646e2e736f6369616c2f736974655f75706c6f6164732f66696c65732f3030302f3030302f3030342f4031782f633131613264616239626235336162632e706e67-768x403.png 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/68747470733a2f2f6d656469612e6d7374646e2e736f6369616c2f736974655f75706c6f6164732f66696c65732f3030302f3030302f3030342f4031782f633131613264616239626235336162632e706e67.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="538" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/68747470733a2f2f6d656469612e6d7374646e2e736f6369616c2f736974655f75706c6f6164732f66696c65732f3030302f3030302f3030342f4031782f633131613264616239626235336162632e706e67-1024x538.png" alt="" class="has-border-color has-secondary-border-color wp-image-148" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/68747470733a2f2f6d656469612e6d7374646e2e736f6369616c2f736974655f75706c6f6164732f66696c65732f3030302f3030302f3030342f4031782f633131613264616239626235336162632e706e67-1024x538.png 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/68747470733a2f2f6d656469612e6d7374646e2e736f6369616c2f736974655f75706c6f6164732f66696c65732f3030302f3030302f3030342f4031782f633131613264616239626235336162632e706e67-300x158.png 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/68747470733a2f2f6d656469612e6d7374646e2e736f6369616c2f736974655f75706c6f6164732f66696c65732f3030302f3030302f3030342f4031782f633131613264616239626235336162632e706e67-768x403.png 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/68747470733a2f2f6d656469612e6d7374646e2e736f6369616c2f736974655f75706c6f6164732f66696c65732f3030302f3030302f3030342f4031782f633131613264616239626235336162632e706e67.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -245,7 +471,7 @@
 
 					<description><![CDATA[本文章僅為研究用途，不論是否在暗網上，購毒、買凶、雇用駭客都是違法行為。 還記得我在上一篇暗網日記找到了一個低 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="576" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_14_05-1024x576.png" alt="" class="has-border-color has-secondary-border-color wp-image-154" style="border-width:8px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_14_05-1024x576.png 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_14_05-300x169.png 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_14_05-768x432.png 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_14_05-1536x864.png 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_14_05.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="576" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_14_05-1024x576.png" alt="" class="has-border-color has-secondary-border-color wp-image-154" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_14_05-1024x576.png 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_14_05-300x169.png 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_14_05-768x432.png 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_14_05-1536x864.png 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_14_05.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -261,7 +487,7 @@
 
 
 
-<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="530" height="286" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_14_16.png" alt="" class="has-border-color has-secondary-border-color wp-image-156" style="border-width:8px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_14_16.png 530w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_14_16-300x162.png 300w" sizes="(max-width: 530px) 100vw, 530px" /></figure>
+<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="530" height="286" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_14_16.png" alt="" class="has-border-color has-secondary-border-color wp-image-156" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_14_16.png 530w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_14_16-300x162.png 300w" sizes="(max-width: 530px) 100vw, 530px" /></figure>
 
 
 
@@ -269,7 +495,7 @@
 
 
 
-<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="530" height="286" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0721-3.png" alt="" class="has-border-color has-secondary-border-color wp-image-157" style="border-width:8px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0721-3.png 530w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0721-3-300x162.png 300w" sizes="(max-width: 530px) 100vw, 530px" /></figure>
+<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="530" height="286" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0721-3.png" alt="" class="has-border-color has-secondary-border-color wp-image-157" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0721-3.png 530w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0721-3-300x162.png 300w" sizes="(max-width: 530px) 100vw, 530px" /></figure>
 
 
 
@@ -277,7 +503,7 @@
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="769" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_15_53-1024x769.png" alt="" class="has-border-color has-secondary-border-color wp-image-158" style="border-width:8px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_15_53-1024x769.png 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_15_53-300x225.png 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_15_53-768x577.png 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_15_53.png 1170w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="769" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_15_53-1024x769.png" alt="" class="has-border-color has-secondary-border-color wp-image-158" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_15_53-1024x769.png 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_15_53-300x225.png 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_15_53-768x577.png 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_15_53.png 1170w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -285,7 +511,7 @@
 
 
 
-<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="1002" height="400" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_16_02.png" alt="" class="has-border-color has-secondary-border-color wp-image-159" style="border-width:8px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_16_02.png 1002w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_16_02-300x120.png 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_16_02-768x307.png 768w" sizes="(max-width: 1002px) 100vw, 1002px" /></figure>
+<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="1002" height="400" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_16_02.png" alt="" class="has-border-color has-secondary-border-color wp-image-159" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_16_02.png 1002w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_16_02-300x120.png 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_16_02-768x307.png 768w" sizes="(max-width: 1002px) 100vw, 1002px" /></figure>
 
 
 
@@ -293,7 +519,7 @@
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="770" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_16_12-1024x770.png" alt="" class="has-border-color has-secondary-border-color wp-image-161" style="border-width:8px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_16_12-1024x770.png 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_16_12-300x226.png 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_16_12-768x577.png 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_16_12.png 1153w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="770" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_16_12-1024x770.png" alt="" class="has-border-color has-secondary-border-color wp-image-161" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_16_12-1024x770.png 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_16_12-300x226.png 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_16_12-768x577.png 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_16_12.png 1153w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -301,7 +527,7 @@
 
 
 
-<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="889" height="127" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_17_05.png" alt="" class="has-border-color has-secondary-border-color wp-image-162" style="border-width:8px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_17_05.png 889w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_17_05-300x43.png 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_17_05-768x110.png 768w" sizes="(max-width: 889px) 100vw, 889px" /></figure>
+<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="889" height="127" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_17_05.png" alt="" class="has-border-color has-secondary-border-color wp-image-162" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_17_05.png 889w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_17_05-300x43.png 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_17_05-768x110.png 768w" sizes="(max-width: 889px) 100vw, 889px" /></figure>
 
 
 
@@ -309,7 +535,7 @@
 
 
 
-<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="374" height="181" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_17_26.png" alt="" class="has-border-color has-secondary-border-color wp-image-163" style="border-width:8px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_17_26.png 374w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_17_26-300x145.png 300w" sizes="(max-width: 374px) 100vw, 374px" /></figure>
+<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="374" height="181" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_17_26.png" alt="" class="has-border-color has-secondary-border-color wp-image-163" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_17_26.png 374w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_17_26-300x145.png 300w" sizes="(max-width: 374px) 100vw, 374px" /></figure>
 
 
 
@@ -317,7 +543,7 @@
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="768" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_21_34-1024x768.png" alt="" class="has-border-color has-secondary-border-color wp-image-164" style="border-width:8px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_21_34-1024x768.png 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_21_34-300x225.png 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_21_34-768x576.png 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_21_34.png 1151w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="768" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_21_34-1024x768.png" alt="" class="has-border-color has-secondary-border-color wp-image-164" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_21_34-1024x768.png 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_21_34-300x225.png 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_21_34-768x576.png 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_21_34.png 1151w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -325,7 +551,7 @@
 
 
 
-<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="540" height="361" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_21_42.png" alt="" class="has-border-color has-secondary-border-color wp-image-166" style="border-width:8px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_21_42.png 540w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_21_42-300x201.png 300w" sizes="(max-width: 540px) 100vw, 540px" /></figure>
+<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="540" height="361" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_21_42.png" alt="" class="has-border-color has-secondary-border-color wp-image-166" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_21_42.png 540w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/Screenshot_2023-07-21_16_21_42-300x201.png 300w" sizes="(max-width: 540px) 100vw, 540px" /></figure>
 
 
 
@@ -357,7 +583,7 @@
 
 					<description><![CDATA[這張圖也是AI創作。 雖然AI科技是這兩年非常熱門的話題，很多人都為新時代的來臨感到期待，但是很多人卻擔心自己 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="1024" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/brain_explosion__papercut_Seed-4335312_Steps-24_Guidance-10-1024x1024.jpeg" alt="" class="has-border-color has-secondary-border-color wp-image-134" style="border-width:8px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/brain_explosion__papercut_Seed-4335312_Steps-24_Guidance-10-1024x1024.jpeg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/brain_explosion__papercut_Seed-4335312_Steps-24_Guidance-10-300x300.jpeg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/brain_explosion__papercut_Seed-4335312_Steps-24_Guidance-10-150x150.jpeg 150w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/brain_explosion__papercut_Seed-4335312_Steps-24_Guidance-10-768x768.jpeg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/brain_explosion__papercut_Seed-4335312_Steps-24_Guidance-10-1536x1536.jpeg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/brain_explosion__papercut_Seed-4335312_Steps-24_Guidance-10.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="1024" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/brain_explosion__papercut_Seed-4335312_Steps-24_Guidance-10-1024x1024.jpeg" alt="" class="has-border-color has-secondary-border-color wp-image-134" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/brain_explosion__papercut_Seed-4335312_Steps-24_Guidance-10-1024x1024.jpeg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/brain_explosion__papercut_Seed-4335312_Steps-24_Guidance-10-300x300.jpeg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/brain_explosion__papercut_Seed-4335312_Steps-24_Guidance-10-150x150.jpeg 150w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/brain_explosion__papercut_Seed-4335312_Steps-24_Guidance-10-768x768.jpeg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/brain_explosion__papercut_Seed-4335312_Steps-24_Guidance-10-1536x1536.jpeg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/brain_explosion__papercut_Seed-4335312_Steps-24_Guidance-10.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
