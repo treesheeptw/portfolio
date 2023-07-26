@@ -12,7 +12,7 @@
 	<atom:link href="https://treesheeptw.github.io/portfolio/category/%E7%A7%91%E6%8A%80/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Tue, 25 Jul 2023 15:21:30 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Jul 2023 17:22:18 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,90 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>網路上沒有最安全的地方</title>
+		<link>https://treesheeptw.github.io/portfolio/2023/07/%e7%b6%b2%e8%b7%af%e4%b8%8a%e6%b2%92%e6%9c%89%e6%9c%80%e5%ae%89%e5%85%a8%e7%9a%84%e5%9c%b0%e6%96%b9/</link>
+					<comments>https://treesheeptw.github.io/portfolio/2023/07/%e7%b6%b2%e8%b7%af%e4%b8%8a%e6%b2%92%e6%9c%89%e6%9c%80%e5%ae%89%e5%85%a8%e7%9a%84%e5%9c%b0%e6%96%b9/#respond</comments>
+		
+		<dc:creator><![CDATA[boris]]></dc:creator>
+		<pubDate>Wed, 26 Jul 2023 17:20:06 +0000</pubDate>
+				<category><![CDATA[科技]]></category>
+		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=225</guid>
+
+					<description><![CDATA[雖然這個事件影響不大，更與不是開發員的一般人幾乎無關，但是這警告著我們不能全盤相信網路世界的任何事情&#823 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="512" height="512" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/kim_jong_un_launching_a_cyber_attack_S3530501236_St10_G7.5.jpeg" alt="" class="has-border-color has-secondary-border-color wp-image-228" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/kim_jong_un_launching_a_cyber_attack_S3530501236_St10_G7.5.jpeg 512w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/kim_jong_un_launching_a_cyber_attack_S3530501236_St10_G7.5-300x300.jpeg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/kim_jong_un_launching_a_cyber_attack_S3530501236_St10_G7.5-150x150.jpeg 150w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>雖然這個事件影響不大，更與不是開發員的一般人幾乎無關，但是這警告著我們不能全盤相信網路世界的任何事情&#8230;</p></blockquote></figure>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">說到國際間的駭客活動，很多人第一個想到的可能是俄羅斯對美國進行攻擊，或是中國對臺灣進行攻擊。雖然北韓被普遍認為科技較落後，但是會在軍事上投入相當多努力，例如核武器的研發。這點在資訊領域也不例外。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">約一週前，GitHub的部落格發表一篇<a rel="noreferrer noopener" href="https://github.blog/2023-07-18-security-alert-social-engineering-campaign-targets-technology-industry-employees/" data-type="URL" data-id="https://github.blog/2023-07-18-security-alert-social-engineering-campaign-targets-technology-industry-employees/" target="_blank">文章</a>，警告有北韓駭客組織(極有可能是國家駭客團隊Lazarus)發動社交工程攻擊，在GitHub上假冒成要招募人手的開發員，企圖誘導他人使用惡意npm套件。雖然GitHub已經開始動作，將相關帳號停權並下架惡意套件，但如果你覺得自己可能是受害者，可以到<a rel="noreferrer noopener" href="https://github.blog/2023-07-18-security-alert-social-engineering-campaign-targets-technology-industry-employees/#indicators" data-type="URL" data-id="https://github.blog/2023-07-18-security-alert-social-engineering-campaign-targets-technology-industry-employees/#indicators" target="_blank">原始文章</a>看看惡意套件清單。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">根據我的找到的記錄，這個攻擊始於六月11日(最初的惡意套件發表)。駭客透過邀請受害者進行專案協作，由於開發過程會用到多組套件，而且很多套件都是開源的，所以不易讓人起疑，駭客利用這一點將惡意套件混入所需套件中，就像把毒藥偽裝成正常食材一樣，讓受害者安裝惡意npm套件。這些npm套件能作為後門，讓攻擊者透過它將更多惡意軟體安裝到受害者的裝置上。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">雖然這個事件影響不大，更與不是開發員的一般人幾乎無關，但是這警告著我們不能全盤相信網路世界的任何事情，即使它是在以開源程式為主的GitHub上。有的時候最安全的地方最容易讓人放下戒心。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">順帶一提，我現在在頁尾加上了我的門羅幣地址，如果你有能力支持我的文章，歡迎透過它贊助我。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">如果想透過其他方式支持我，或是有問題/建議，也可以透過頁尾的其他平臺聯絡我!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/07/%e7%b6%b2%e8%b7%af%e4%b8%8a%e6%b2%92%e6%9c%89%e6%9c%80%e5%ae%89%e5%85%a8%e7%9a%84%e5%9c%b0%e6%96%b9/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>「不感興趣」是什麼?</title>
+		<link>https://treesheeptw.github.io/portfolio/2023/07/%e3%80%8c%e4%b8%8d%e6%84%9f%e8%88%88%e8%b6%a3%e3%80%8d%e6%98%af%e4%bb%80%e9%ba%bc/</link>
+					<comments>https://treesheeptw.github.io/portfolio/2023/07/%e3%80%8c%e4%b8%8d%e6%84%9f%e8%88%88%e8%b6%a3%e3%80%8d%e6%98%af%e4%bb%80%e9%ba%bc/#respond</comments>
+		
+		<dc:creator><![CDATA[boris]]></dc:creator>
+		<pubDate>Wed, 26 Jul 2023 14:29:16 +0000</pubDate>
+				<category><![CDATA[科技]]></category>
+		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=220</guid>
+
+					<description><![CDATA[說到演算法，很多人第一個想到的是社群平臺或是影音平臺的演算法，其中最常被討論的之一是YouTube的影片推薦演 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="365" height="227" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0726-1.png" alt="" class="has-border-color has-secondary-border-color wp-image-221" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0726-1.png 365w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0726-1-300x187.png 300w" sizes="(max-width: 365px) 100vw, 365px" /></figure>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">說到演算法，很多人第一個想到的是社群平臺或是影音平臺的演算法，其中最常被討論的之一是YouTube的影片推薦演算法。雖然有時候很厲害，能讓你意外發掘你沒有想過你會有興趣的影片主題或類型，但是為什麼有時候會出現跟你的觀看習慣格格不入的影片，或是不遵從你的指令?</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">你是否有注意過你能在YouTube首頁的推薦影片中，你可以從旁邊的選項選擇「不感興趣」或「不要推薦這個頻道」，讓類似的內容不要出現? 如果你有用過這個功能，你可能會發現它沒什麼效果。Mozilla(Firefox的公司)最近在它們的網站上發起一個<a rel="noreferrer noopener" href="https://foundation.mozilla.org/en/campaigns/youtube-user-controls/?term=en" data-type="URL" data-id="https://foundation.mozilla.org/en/campaigns/youtube-user-controls/?term=en" target="_blank">連署活動</a>，其中提到，在他們的測試及統計下的結果顯示，使用者沒有權利控制任何內容，甚至即使按下「不感興趣」或「不要推薦這個頻道」，都不會改變演算法的運作。所以如果你也覺得沒有效果，它可能不是錯覺。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">另外，有些人有注意到推薦裡偶爾會出現跟自己的興趣毫無相關的影片，而且可能是觀看次數很低的冷門影片。這是為什麼? 雖然沒有證據，但是我覺得YouTube可能在模仿抖音的演算法。雖然我沒有用過抖音，但是有看過很多相關的研究甚至是論文，其中發現抖音的演算法不同於YouTube，使用者是沒有「首頁」的: 它可以強制撥放內容給使用者，畢竟使用者只有往下滑的選項，而不是像YouTube一樣從多個影片選擇。演算法會不論創作者的追蹤數或觀看樹，先給所有影片差不多的曝光，再依照使用者的回饋(停留時間、是否留言&#8230;等)決定這支影片未來的曝光率。這個方法可以確保新手創作者只要品質好也能跟知名創作者獲得一樣的結果，但是缺點是使用者偶爾會看到品質較低的內容。我猜YouTube也在實驗這套方法，嘗試給新手創作者更多機會。你覺得這個改變是否有影響到你? 如果有的話，是好還是壞?</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">如果你覺得YouTube演算法需要改善，你可以按<a rel="noreferrer noopener" href="https://foundation.mozilla.org/en/campaigns/youtube-user-controls/?term=en" data-type="URL" data-id="https://foundation.mozilla.org/en/campaigns/youtube-user-controls/?term=en" target="_blank">這裡</a>參加Mozilla的連署。我是沒差，因為我都用第三方介面，根本不會被演算法影響。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/07/%e3%80%8c%e4%b8%8d%e6%84%9f%e8%88%88%e8%b6%a3%e3%80%8d%e6%98%af%e4%bb%80%e9%ba%bc/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>勒索軟體也有等級之分! 暗網日記III</title>
 		<link>https://treesheeptw.github.io/portfolio/2023/07/%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94%e4%b9%9f%e6%9c%89%e7%ad%89%e7%b4%9a%e4%b9%8b%e5%88%86-%e6%9a%97%e7%b6%b2%e6%97%a5%e8%a8%98iii/</link>
 					<comments>https://treesheeptw.github.io/portfolio/2023/07/%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94%e4%b9%9f%e6%9c%89%e7%ad%89%e7%b4%9a%e4%b9%8b%e5%88%86-%e6%9a%97%e7%b6%b2%e6%97%a5%e8%a8%98iii/#respond</comments>
