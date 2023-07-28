@@ -12,7 +12,7 @@
 	<atom:link href="https://treesheeptw.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Wed, 26 Jul 2023 17:22:18 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 28 Jul 2023 13:37:14 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,78 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>為什麼AI繪圖時，人手最容易崩壞?</title>
+		<link>https://treesheeptw.github.io/portfolio/2023/07/%e7%82%ba%e4%bb%80%e9%ba%bcai%e7%b9%aa%e5%9c%96%e6%99%82%ef%bc%8c%e4%ba%ba%e6%89%8b%e6%9c%80%e5%ae%b9%e6%98%93%e5%b4%a9%e5%a3%9e/</link>
+					<comments>https://treesheeptw.github.io/portfolio/2023/07/%e7%82%ba%e4%bb%80%e9%ba%bcai%e7%b9%aa%e5%9c%96%e6%99%82%ef%bc%8c%e4%ba%ba%e6%89%8b%e6%9c%80%e5%ae%b9%e6%98%93%e5%b4%a9%e5%a3%9e/#respond</comments>
+		
+		<dc:creator><![CDATA[boris]]></dc:creator>
+		<pubDate>Fri, 28 Jul 2023 13:37:14 +0000</pubDate>
+				<category><![CDATA[科技]]></category>
+		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=239</guid>
+
+					<description><![CDATA[雖然AI繪圖越來越逼真，但是卻有些地方很難克服，例如手部細節，手指數量常常不正常，或是沒有拇指與其他手指的形狀 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full has-custom-border is-style-default"><img decoding="async" width="512" height="512" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/handsome_portrait_of_Asian_high_school_student__Modern_Art__Manga_Seed-427727_Steps-50_Guidance-7.5.jpeg" alt="" class="has-border-color has-secondary-border-color wp-image-240" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/handsome_portrait_of_Asian_high_school_student__Modern_Art__Manga_Seed-427727_Steps-50_Guidance-7.5.jpeg 512w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/handsome_portrait_of_Asian_high_school_student__Modern_Art__Manga_Seed-427727_Steps-50_Guidance-7.5-300x300.jpeg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/handsome_portrait_of_Asian_high_school_student__Modern_Art__Manga_Seed-427727_Steps-50_Guidance-7.5-150x150.jpeg 150w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">雖然AI繪圖越來越逼真，但是卻有些地方很難克服，例如手部細節，手指數量常常不正常，或是沒有拇指與其他手指的形狀之分。這是為什麼? 這篇文章裡會從AI繪圖的基本原理講起，了解造成這個現象的原因。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">目前幾乎所有AI繪圖程式都是使用Diffuse的原理，中文的直接翻譯為擴散，但是我覺得用降噪來形容比較精準。不同於大部分人類的繪圖方式，這些程式不會先從線條處理開始再進行上色，而是一個步驟直接完成。這可能很難理解，所以要先從它們是怎麼被訓練的開始講解。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">首先，開發人員會先收集訓練用的圖片，並且為每一張圖片製作有噪點的副本，就像下圖一樣，左邊是原始圖片，右邊是加上噪點後。</p>
+
+
+
+<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="1000" height="500" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/NOISE.png" alt="" class="has-border-color has-secondary-border-color wp-image-242" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/NOISE.png 1000w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/NOISE-300x150.png 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/NOISE-768x384.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">開發人員會輸入數以萬計的圖片和有加入噪點的副本，訓練這個程式學習噪點的特性，就像數學老師給你題目和答案，要你寫出算式或計算過程一樣。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">那麼，要讓AI畫圖，只要反轉這個過程就好了。首先，會隨機生成一張充滿造點的圖像，我們看起來只是一些色塊而已，但是我們可以騙程式說這是一張正常的圖片，只是被加上很多噪點而已。這時候AI就會嘗試回推原本圖像的樣貌，就像你在數學中學會了特定算法後，把答案套進計算過程去猜題目是什麼一樣，只是這個題目根本是虛構的。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">舉例來說，你想要AI畫出一隻綿羊。這時候，程式會隨機生成一張充滿色塊的圖像，接著就會騙AI模型說這是一張模糊或充滿噪點的綿羊圖片，AI就會想辦法把這些色塊調整成一個綿羊的形狀。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">當然，這背後還有更多原理，例如不同的採樣法(ddim, PLMS&#8230;等等)，我都有在我的小論文裡說明，但是這些都跟今天的主題無關。你只要知道AI畫圖不是無中生有，而是像捏黏土一樣把無法辨認的奇形怪狀捏成指定的樣子而已。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">回到今天的大問題: 為什麼AI很不擅長生成正常的手? 這是因為AI沒有對三維空間的認識，也沒有對人類器官的認知，所以從有限的訓練資料來學習，就會因為某些用於訓練的圖片沒有拍到整隻手或是其他類似原因而根本不知道「正確的手」應該要長怎樣，就像你看過的樹木數量遠超過浮游植物，可能以為樹木是地球上的主要氧氣來源一樣，但是其實是海裡的浮游植物。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">另外，手部是一個非常複雜的形狀，加上人類每天都使用著它、看著它，因此手部只要一有什麼奇怪的地方，人們就很容易感覺不對勁，不同於其他身體部位(例如鼻子，看看大部分漫畫人物的鼻子細節程度，再怎麼簡單都不會很不自然)。</p>
+
+
+
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="1024" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1boy__colorful__winter__lighting__blue_sky__Nijisanji__vtuber_Seed-5320365_Steps-32_Guidance-10-1024x1024.jpeg" alt="" class="has-border-color has-secondary-border-color wp-image-243" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1boy__colorful__winter__lighting__blue_sky__Nijisanji__vtuber_Seed-5320365_Steps-32_Guidance-10-1024x1024.jpeg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1boy__colorful__winter__lighting__blue_sky__Nijisanji__vtuber_Seed-5320365_Steps-32_Guidance-10-300x300.jpeg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1boy__colorful__winter__lighting__blue_sky__Nijisanji__vtuber_Seed-5320365_Steps-32_Guidance-10-150x150.jpeg 150w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1boy__colorful__winter__lighting__blue_sky__Nijisanji__vtuber_Seed-5320365_Steps-32_Guidance-10-768x768.jpeg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1boy__colorful__winter__lighting__blue_sky__Nijisanji__vtuber_Seed-5320365_Steps-32_Guidance-10-1536x1536.jpeg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1boy__colorful__winter__lighting__blue_sky__Nijisanji__vtuber_Seed-5320365_Steps-32_Guidance-10.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">例如這張圖片，我想最明顯很奇怪的地方是他有六隻長度比例很奇怪的手指，而不是他的左耳跟頭髮末端融合在一起了。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">希望我今天有幫你解到惑，也希望你一併學會了AI繪圖的基本原理! 我的門羅幣跟比特幣地址都新增到文章頁尾了，如果你想透過金錢支持我，我會很開心的!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/07/%e7%82%ba%e4%bb%80%e9%ba%bcai%e7%b9%aa%e5%9c%96%e6%99%82%ef%bc%8c%e4%ba%ba%e6%89%8b%e6%9c%80%e5%ae%b9%e6%98%93%e5%b4%a9%e5%a3%9e/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>網路上沒有最安全的地方</title>
 		<link>https://treesheeptw.github.io/portfolio/2023/07/%e7%b6%b2%e8%b7%af%e4%b8%8a%e6%b2%92%e6%9c%89%e6%9c%80%e5%ae%89%e5%85%a8%e7%9a%84%e5%9c%b0%e6%96%b9/</link>
 					<comments>https://treesheeptw.github.io/portfolio/2023/07/%e7%b6%b2%e8%b7%af%e4%b8%8a%e6%b2%92%e6%9c%89%e6%9c%80%e5%ae%89%e5%85%a8%e7%9a%84%e5%9c%b0%e6%96%b9/#respond</comments>
