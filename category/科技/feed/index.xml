@@ -12,7 +12,7 @@
 	<atom:link href="https://treesheeptw.github.io/portfolio/category/%E7%A7%91%E6%8A%80/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Mon, 31 Jul 2023 16:05:28 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 01 Aug 2023 12:18:35 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,49 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>留言功能開放了</title>
+		<link>https://treesheeptw.github.io/portfolio/2023/08/%e7%95%99%e8%a8%80%e5%8a%9f%e8%83%bd%e9%96%8b%e6%94%be%e4%ba%86/</link>
+					<comments>https://treesheeptw.github.io/portfolio/2023/08/%e7%95%99%e8%a8%80%e5%8a%9f%e8%83%bd%e9%96%8b%e6%94%be%e4%ba%86/#respond</comments>
+		
+		<dc:creator><![CDATA[boris]]></dc:creator>
+		<pubDate>Tue, 01 Aug 2023 12:13:47 +0000</pubDate>
+				<category><![CDATA[科技]]></category>
+		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=304</guid>
+
+					<description><![CDATA[嘿，我今天花了點時間研究怎麼在網站加入留言的功能。原本想要用Disqus，但是不但使用者端會看到廣告，而且我沒 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="927" height="590" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/0801-1.png" alt="" class="has-border-color has-secondary-border-color wp-image-305" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/0801-1.png 927w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/0801-1-300x191.png 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/0801-1-768x489.png 768w" sizes="(max-width: 927px) 100vw, 927px" /></figure>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">嘿，我今天花了點時間研究怎麼在網站加入留言的功能。原本想要用Disqus，但是不但使用者端會看到廣告，而且我沒有對資料的掌控權，有隱私疑慮，所以我找到了這個替代方案，名叫<a rel="noreferrer noopener" href="https://cusdis.com/" data-type="URL" data-id="https://cusdis.com/" target="_blank">Cusdis</a>，是<a rel="noreferrer noopener" href="https://github.com/djyde/cusdis" data-type="URL" data-id="https://github.com/djyde/cusdis" target="_blank">開源</a>的。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">這是第一個可以留言的文章，不過我會陸續加入到舊文章裡，所以你以後就可以在我的文章底下留言了，開源萬歲!</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div id="cusdis_thread"
+  data-host="https://cusdis.com/"
+  data-app-id="87b84668-a924-4eb7-87c4-97a52f79f089"
+  data-page-id="{{ 留言功能開放了 }}"
+  data-page-url="{{ PAGE_URL }}"
+  data-page-title="{{ PAGE_TITLE }}"
+></div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/%e7%95%99%e8%a8%80%e5%8a%9f%e8%83%bd%e9%96%8b%e6%94%be%e4%ba%86/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>什麼個資才能賣?</title>
 		<link>https://treesheeptw.github.io/portfolio/2023/07/%e4%bb%80%e9%ba%bc%e5%80%8b%e8%b3%87%e6%89%8d%e8%83%bd%e8%b3%a3/</link>
 					<comments>https://treesheeptw.github.io/portfolio/2023/07/%e4%bb%80%e9%ba%bc%e5%80%8b%e8%b3%87%e6%89%8d%e8%83%bd%e8%b3%a3/#respond</comments>
@@ -60,6 +103,22 @@
 
 
 <p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">祝你心理健康:-)</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div id="cusdis_thread"
+  data-host="https://cusdis.com/"
+  data-app-id="87b84668-a924-4eb7-87c4-97a52f79f089"
+  data-page-id="{{ 什麼個資才能賣? }}"
+  data-page-url="{{ PAGE_URL }}"
+  data-page-title="{{ PAGE_TITLE }}"
+></div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/07/%e4%bb%80%e9%ba%bc%e5%80%8b%e8%b3%87%e6%89%8d%e8%83%bd%e8%b3%a3/feed/</wfw:commentRss>
@@ -785,78 +844,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/07/%e7%82%ba%e4%bb%80%e9%ba%bcopenai%e5%b9%b4%e8%b3%ba300%e5%84%84%ef%bc%8cmeta%e5%8d%bb%e8%b3%a0%e4%ba%867000%e5%84%84/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Twitter? Threads? 太落後了吧! 用Mastodon!</title>
-		<link>https://treesheeptw.github.io/portfolio/2023/07/twitter-threads-%e5%a4%aa%e8%90%bd%e5%be%8c%e4%ba%86%e5%90%a7-%e7%94%a8mastodon/</link>
-					<comments>https://treesheeptw.github.io/portfolio/2023/07/twitter-threads-%e5%a4%aa%e8%90%bd%e5%be%8c%e4%ba%86%e5%90%a7-%e7%94%a8mastodon/#respond</comments>
-		
-		<dc:creator><![CDATA[boris]]></dc:creator>
-		<pubDate>Sat, 22 Jul 2023 11:45:22 +0000</pubDate>
-				<category><![CDATA[科技]]></category>
-		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=145</guid>
-
-					<description><![CDATA[如果你有在用Instagram，你一定知道Meta近期推出的Threads。如果你有在用Twitter，一定知 [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="796" height="818" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/home_sponsors_world.webp" alt="" class="has-border-color has-secondary-border-color wp-image-146" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/home_sponsors_world.webp 796w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/home_sponsors_world-292x300.webp 292w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/home_sponsors_world-768x789.webp 768w" sizes="(max-width: 796px) 100vw, 796px" /></figure>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">如果你有在用Instagram，你一定知道Meta近期推出的Threads。如果你有在用Twitter，一定知道他們新增了推文瀏覽上限規則，造成很多人的不滿。</p>
-
-
-
-<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="323" height="336" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0720-1.png" alt="" class="has-border-color has-secondary-border-color wp-image-147" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0720-1.png 323w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0720-1-288x300.png 288w" sizes="(max-width: 323px) 100vw, 323px" /></figure>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">如果你不知道Reddit是什麼，它就是類似PTT的地方，以歐美使用者為主。如果你是臺灣少數有在用Reddit的人(對，大概不到0.1%)，你可能知道Reddit在上個月(六月)推出了<a rel="noreferrer noopener" href="https://www.reddit.com/r/reddit/comments/145bram/addressing_the_community_about_changes_to_our_api/" data-type="URL" data-id="https://www.reddit.com/r/reddit/comments/145bram/addressing_the_community_about_changes_to_our_api/" target="_blank">新的API政策</a>，大幅上調價格。雖然對一般使用者影響不大，但是一些盲人使用者或是對使用體驗要求很高的人會使用第三方軟體，而第三方軟體要存取頁面資訊都要透過它的API。沒錯，作為英語圈最大的論壇平臺之一，它的應用程式是沒有無障礙功能的，需要朗讀之類的功能都只能使用第三方軟體。不過這也沒有很令人意外，畢竟它剛開始只有網頁版，現在的官方應用程式是當時直接買下一個第三方應用程式而成的。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">雖然Reddit使用者集體抗議，還發動<a rel="noreferrer noopener" href="https://www.reddit.com/r/Save3rdPartyApps/comments/13yh0jf/dont_let_reddit_kill_3rd_party_apps/" data-type="URL" data-id="https://www.reddit.com/r/Save3rdPartyApps/comments/13yh0jf/dont_let_reddit_kill_3rd_party_apps/" target="_blank">罷版行動</a>，各大版主將各個討論區封存，短時間內造成Reddit的廣告收入大幅下降。不過Reddit非但沒有妥協，還威脅各大版主若是繼續維持封存狀態，就要強制換人並重新開放討論區。要知道版主們原本都是無償經營各個討論區的。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">說了這麼多，這跟Twitter或Threads有什麼關係?</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">Reddit罷版進行的同時，就跟很多人從Twitter跳槽Threads一樣，開始改用<a rel="noreferrer noopener" href="https://join-lemmy.org/instances" data-type="URL" data-id="https://join-lemmy.org/instances" target="_blank">Lemmy</a>。Lemmy是一個開源(AGPL)版本的Reddit，由使用者自己架設伺服器，功能幾乎一樣，而且因為是開源的，所以不但沒有廣告，而且自訂性非常高。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">不過Lemmy有一個致命的問題，那就是各個伺服器是獨立運作的。這代表A伺服器上的貼文不會跟B伺服器上同步，而且使用者分布在各個不同的伺服器上，所以以Reddit作為問問題的平臺的人，在單一伺服器使用者量少很多的情況下，很難得到他要的回應。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">打個比方，就像電視臺一樣，如果是公視，不管在什麼地區、什麼業者的方案下，看到的內容都一樣；不過如果你想看體育臺或是XX電影臺，可能是中華電信獨家。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">這樣有好有壞，好處是一個Lemmy站點可以聚集類似興趣的人，就像Mobile01上面都是汽機車和3C產品的討論一樣；壞處就是使用者不一定知道他要找的內容在什麼站點上。</p>
-
-
-
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="538" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/68747470733a2f2f6d656469612e6d7374646e2e736f6369616c2f736974655f75706c6f6164732f66696c65732f3030302f3030302f3030342f4031782f633131613264616239626235336162632e706e67-1024x538.png" alt="" class="has-border-color has-secondary-border-color wp-image-148" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/68747470733a2f2f6d656469612e6d7374646e2e736f6369616c2f736974655f75706c6f6164732f66696c65732f3030302f3030302f3030342f4031782f633131613264616239626235336162632e706e67-1024x538.png 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/68747470733a2f2f6d656469612e6d7374646e2e736f6369616c2f736974655f75706c6f6164732f66696c65732f3030302f3030302f3030342f4031782f633131613264616239626235336162632e706e67-300x158.png 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/68747470733a2f2f6d656469612e6d7374646e2e736f6369616c2f736974655f75706c6f6164732f66696c65732f3030302f3030302f3030342f4031782f633131613264616239626235336162632e706e67-768x403.png 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/68747470733a2f2f6d656469612e6d7374646e2e736f6369616c2f736974655f75706c6f6164732f66696c65732f3030302f3030302f3030342f4031782f633131613264616239626235336162632e706e67.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">但是Twitter和Threads就不一樣，如果你討厭廣告、怕被內容被篩選或封鎖、怕邪惡的演算法、不想要瀏覽次數限制，你可以跳槽到<a href="https://joinmastodon.org/servers" data-type="URL" data-id="https://joinmastodon.org/servers" target="_blank" rel="noreferrer noopener">Mastodon</a>。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">Mastodon是一個類似Twitter的<s>廢文平臺</s>SNS。不同於Lemmy，它類似於電子郵件，使用者是可以跨站點互動的，使用者地址會是[使用者名稱]@[站點網址]，例如我的主要帳號是 <a rel="noreferrer noopener" href="https://wxw.moe/@treesheep" data-type="URL" data-id="https://wxw.moe/@treesheep" target="_blank">treesheep@wxw.moe</a> ，伺服器是wxw.moe，但是我可以看到其他站點上的貼文，也能轉推、留言，就像你能用你的Gmail電子郵件傳信件到我的非Gmail帳號一樣。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">心動了? 辦個帳號追蹤我吧! 我有些(廢)文是只有追蹤者看得到的。開源萬歲。</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/07/twitter-threads-%e5%a4%aa%e8%90%bd%e5%be%8c%e4%ba%86%e5%90%a7-%e7%94%a8mastodon/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
