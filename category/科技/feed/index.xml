@@ -12,7 +12,7 @@
 	<atom:link href="https://treesheeptw.github.io/portfolio/category/%E7%A7%91%E6%8A%80/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Tue, 01 Aug 2023 12:18:35 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 02 Aug 2023 15:50:21 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -188,6 +188,17 @@
 
 
 <p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">以上就是我的故事，我也是打到這邊才發現其實沒有什麼心得，不過如果我未來又回到大量使用社群平臺的生活，那可能就會再寫一篇心得。如果你也是社群恐慌症患者，不妨跟著我一起練習戒掉社群平臺，不要找太多藉口，越早開始越好!</p>
+
+
+
+<div id="cusdis_thread"
+  data-host="https://cusdis.com/"
+  data-app-id="87b84668-a924-4eb7-87c4-97a52f79f089"
+  data-page-id="{{ 戒掉社群平臺的心得 }}"
+  data-page-url="{{ PAGE_URL }}"
+  data-page-title="{{ PAGE_TITLE }}"
+></div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/07/%e6%88%92%e6%8e%89%e7%a4%be%e7%be%a4%e5%b9%b3%e8%87%ba%e7%9a%84%e5%bf%83%e5%be%97/feed/</wfw:commentRss>
