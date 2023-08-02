@@ -12,7 +12,7 @@
 	<atom:link href="https://treesheeptw.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Wed, 02 Aug 2023 15:50:21 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 02 Aug 2023 16:20:52 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,61 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>AI 正在摧毀資安</title>
+		<link>https://treesheeptw.github.io/portfolio/2023/08/ai-%e8%b7%9f%e8%b3%87%e5%ae%89%e6%9c%89%e4%bb%80%e9%ba%bc%e9%97%9c%e4%bf%82/</link>
+					<comments>https://treesheeptw.github.io/portfolio/2023/08/ai-%e8%b7%9f%e8%b3%87%e5%ae%89%e6%9c%89%e4%bb%80%e9%ba%bc%e9%97%9c%e4%bf%82/#respond</comments>
+		
+		<dc:creator><![CDATA[boris]]></dc:creator>
+		<pubDate>Wed, 02 Aug 2023 15:53:23 +0000</pubDate>
+				<category><![CDATA[科技]]></category>
+		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=312</guid>
+
+					<description><![CDATA[你是否曾經嘗試讓ChatGPT幫你寫程式? 結果如何? 我在自學程式開發的時候，因為要一個人完成前後端所有的開 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="696" height="345" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormgpt.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-313" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormgpt.jpg 696w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormgpt-300x149.jpg 300w" sizes="(max-width: 696px) 100vw, 696px" /></figure>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">你是否曾經嘗試讓ChatGPT幫你寫程式? 結果如何? 我在自學程式開發的時候，因為要一個人完成前後端所有的開發工作，所以難免會遇到不會的地方。正常來講，我會到網路上尋找答案，或是直接在國外論壇上發問。但是自從ChatGPT推出，這些工作變得非常簡單，因為不會找到沒有精準符合我的需求的資料，也不需要等待好幾個小時直到有好心人願意回答我的問題。好心人非常少見。即使我有詳細敘述我遇到的問題，也確定這個問題沒有被其他人問過，我在Stack Overflow問的第一個問題沒幾分鐘就被噓了。不過用ChatGPT有一些缺點，最大的就是它永遠認為自己是對的，所以就算拿它生成的程式來用時出現問題，也不一定能解決。不過，這只是個小問題，因為頂多是它幫不上忙，但是如果它會幫倒忙，甚至會危害你，那問題可就大了。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">根據一份<a rel="noreferrer noopener" href="https://22601473.fs1.hubspotusercontent-na1.net/hubfs/22601473/Assets%20and%20Collaterals/State%20of%20Dependency%20Management%202023%20-%20FINAL%20(3).pdf?__hstc=184581494.44c30f0b2e904f6e5f5659f7d0887362.1689242780612.1689837317210.1689841956915.7&amp;__hssc=184581494.1.1689841956915&amp;__hsfp=4237720305" data-type="URL" data-id="https://22601473.fs1.hubspotusercontent-na1.net/hubfs/22601473/Assets%20and%20Collaterals/State%20of%20Dependency%20Management%202023%20-%20FINAL%20(3).pdf?__hstc=184581494.44c30f0b2e904f6e5f5659f7d0887362.1689242780612.1689837317210.1689841956915.7&amp;__hssc=184581494.1.1689841956915&amp;__hsfp=4237720305" target="_blank">Endor Labs的報告</a>顯示，<a rel="noreferrer noopener" href="https://treesheeptw.github.io/portfolio/2023/07/ai%e9%80%b2%e5%8c%96%e9%82%a3%e9%ba%bc%e5%bf%ab%ef%bc%8c%e4%bb%80%e9%ba%bc%e5%b7%a5%e4%bd%9c%e6%9c%80%e5%ae%b9%e6%98%93%e8%a2%abgpt%e5%8f%96%e4%bb%a3/" data-type="URL" data-id="https://treesheeptw.github.io/portfolio/2023/07/ai%e9%80%b2%e5%8c%96%e9%82%a3%e9%ba%bc%e5%bf%ab%ef%bc%8c%e4%bb%80%e9%ba%bc%e5%b7%a5%e4%bd%9c%e6%9c%80%e5%ae%b9%e6%98%93%e8%a2%abgpt%e5%8f%96%e4%bb%a3/" target="_blank">現階段的大型語言模型</a>，對於惡意程式碼的辨識率低於一成。這聽起來可能危害不大，畢竟會接觸並分析惡意程式的人，通常是這個領域的專家。不過，想像一個情境: 你在GitHub(或任何開源平臺)上看到一些很喜歡的程式，雖然是開源的，但是不代表它是安全的，尤其是很冷門、沒有被很多使用者詳細閱讀過程式碼的程式。這時候你可能看不懂程式碼，或是懶得看，於是複製下來丟給ChatGPT看看。這時候，對惡意軟體的辨識率低下就造成了嚴重的問題，因為它回報程式是安全的時候，很有可能是它的失誤，而且一旦程式碼被AI分析過是安全的，你在執行的時候也會更容易放下戒心。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">這個報告的作者也發現，在開源的AI專案中，有超過一半都被發現有使用到有安全漏洞的套件甚至是惡意套件，有些甚至有超過100個。說到惡意套件，同一份報告指出，在OpenAI的ChatGPT API推出的短短五個月內，就被超過900個可疑的npm及PyPi套件使用。<a rel="noreferrer noopener" href="https://treesheeptw.github.io/portfolio/2023/07/%e7%b6%b2%e8%b7%af%e4%b8%8a%e6%b2%92%e6%9c%89%e6%9c%80%e5%ae%89%e5%85%a8%e7%9a%84%e5%9c%b0%e6%96%b9/" data-type="URL" data-id="https://treesheeptw.github.io/portfolio/2023/07/%e7%b6%b2%e8%b7%af%e4%b8%8a%e6%b2%92%e6%9c%89%e6%9c%80%e5%ae%89%e5%85%a8%e7%9a%84%e5%9c%b0%e6%96%b9/" target="_blank">前幾天的文章</a>裡，我就有提到惡意npm套件能帶來的危害。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">如果你不是程式開發者，你大概不會擔心以上提到的問題，不過最近AI還被拿來做很邪惡的事。雖然一般的大型語言模型對惡意程式的辨識率很低，不過這是指普通的多用途大型語言模型，如果是特別訓練的就不一樣了。就在幾天前，某知名駭客論壇上有人開始販售WormGPT，這是一個使用大量惡意程式碼進行訓練而成的模型，目的是快速生成惡意程式。雖然它可能沒辦法獨力完成一整個惡意程式，但是它大大降低了製作惡意軟體的技術門檻，原本要寫一個惡意軟體，必須精通多個程式語言，並學會如何迴避防毒軟體、防止被資安專家破解，但是有了這個AI，只要能看懂它生成的程式碼，並有基本的除錯能力，就一樣能做出惡意軟體來。這就像一個學生只要看得懂題目，並且會操作計算機，解題速度與正確率就可能打敗數學老師一樣。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">不過你可以暫時放心，因為它的能力還是有限。WormGPT雖然可能會讓一些新手駭客快速學會惡意軟體開發，但是從它的販售頁面的截圖，它的能力還是很弱，所以不太可能在短期內突然冒出大量的高階惡意軟體，就像你很難用普通的非工程計算機解微積分問題一樣。即便如此，隨著這種技術快速進化，你也應該建立更高的網路安全意識，保護自己的隱私、資料與金錢的安全，而你能做的事情中，最簡單的就是持續追蹤我每天的新文章，因為我會針對這些議題進行討論。如果你有任何意見或建議，都可以在新開放的留言區留言!</p>
+
+
+
+<p></p>
+
+
+
+<div id="cusdis_thread"
+  data-host="https://cusdis.com/"
+  data-app-id="87b84668-a924-4eb7-87c4-97a52f79f089"
+  data-page-id="{{ AI 正在摧毀資安 }}"
+  data-page-url="{{ PAGE_URL }}"
+  data-page-title="{{ PAGE_TITLE }}"
+></div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/ai-%e8%b7%9f%e8%b3%87%e5%ae%89%e6%9c%89%e4%bb%80%e9%ba%bc%e9%97%9c%e4%bf%82/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>留言功能開放了</title>
 		<link>https://treesheeptw.github.io/portfolio/2023/08/%e7%95%99%e8%a8%80%e5%8a%9f%e8%83%bd%e9%96%8b%e6%94%be%e4%ba%86/</link>
 					<comments>https://treesheeptw.github.io/portfolio/2023/08/%e7%95%99%e8%a8%80%e5%8a%9f%e8%83%bd%e9%96%8b%e6%94%be%e4%ba%86/#respond</comments>
@@ -721,140 +776,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/07/%e5%b7%a5%e4%bd%9c%e5%a0%b4%e6%89%80%e4%b8%8d%e8%83%bd%e6%9c%89%e9%9a%b1%e7%a7%81%e5%97%8e-%e5%93%a1%e5%b7%a5%e7%9b%a3%e6%8e%a7%e8%bb%9f%e9%ab%94%e7%ab%9f%e6%9c%83%e5%8d%b1%e5%ae%b3%e5%81%a5%e5%ba%b7/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>為什麼OpenAI年賺300億，Meta卻賠了7000億?</title>
-		<link>https://treesheeptw.github.io/portfolio/2023/07/%e7%82%ba%e4%bb%80%e9%ba%bcopenai%e5%b9%b4%e8%b3%ba300%e5%84%84%ef%bc%8cmeta%e5%8d%bb%e8%b3%a0%e4%ba%867000%e5%84%84/</link>
-					<comments>https://treesheeptw.github.io/portfolio/2023/07/%e7%82%ba%e4%bb%80%e9%ba%bcopenai%e5%b9%b4%e8%b3%ba300%e5%84%84%ef%bc%8cmeta%e5%8d%bb%e8%b3%a0%e4%ba%867000%e5%84%84/#respond</comments>
-		
-		<dc:creator><![CDATA[boris]]></dc:creator>
-		<pubDate>Sun, 23 Jul 2023 14:17:09 +0000</pubDate>
-				<category><![CDATA[科技]]></category>
-		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=173</guid>
-
-					<description><![CDATA[根據路透社報導，OpenAI的2023年度利潤預估為2億美金(約60億臺幣)，2024更是有預計達到10億美金 [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">根據路透社報導，OpenAI的2023年度利潤預估為2億美金(約60億臺幣)，2024更是有預計達到10億美金(約300億臺幣)；Meta在2021年在元宇宙部門投入102億美金(約3200億臺幣)，卻只有23億美金(約690億臺幣)的收入，2022年又投入137億美金，收入卻小幅下跌到22億美金。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">雖然微軟投資OpenAI的130億美金還沒賺回來，但是OpenAI已經取得AI領域的龍頭地位，而且利潤也呈上升趨勢，相比Meta越投越賠，情況可以說是天差地遠。是Meta做錯了什麼? 還是元宇宙根本沒有那麼大的市場?</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">疫情期間，科技產業蓬勃發展，熱門趨勢從元宇宙、NFT，到最近的AI，為什麼元宇宙和NFT話題漸漸冷卻，AI卻持續發展?</p>
-
-
-
-<h1 class="wp-block-heading">元宇宙、NFT是什麼?</h1>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">如果你看過電影(或小說)一級玩家，那大概不太需要解釋，一級玩家中的綠洲就是元宇宙的終極型態，是透過VR等技術構成的虛擬世界，而如果該世界的貨幣或物品交易系統是建立在區塊鏈上的，那虛擬世界中的商品就是NFT。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">簡單來說，元宇宙是集成了虛擬現實技術和虛擬環境的大型虛擬世界，人們可以在其中進行各種虛擬交互活動。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">NFT則是一種基於區塊鏈(跟比特幣等虛擬貨幣一樣)技術的數位資產，它具有唯一性和不可互換性，因此可以作為元宇宙中資產的形式應用，就像房屋契約或持有證明一樣。它使用區塊鏈技術，因此幾乎沒有偽造的可能性，而且是去中心化的(不是由單一政府或公司控管的)。由於元宇宙技術還沒成熟，所以數位藝術就成為NFT最大的應用。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">既然涉及藝術這一主觀的領域，加上人們對虛擬貨幣的認知還不成熟，所以NFT成為了炒作或詐騙的溫床。一些名人以高價買下NFT創作，持有NFT成為一種科技時尚，就像拿著一支有摺疊螢幕的手機一樣。同時，由於製作門檻不高，NFT漸漸平民化，網紅紛紛推出自己的NFT吸引粉絲購買，卻可能造成雙方損失。你可以把NFT想成一種作畫材料，名畫家在一張紙上作畫，可以賣出很高的價格，但是一名網紅在「名畫家同款紙張」上作畫，不代表能賣一樣的價格吧? 況且NFT是數位形式的，網紅推出的NFT也往往不具獨特性(可能只是LOGO而已，或是沒有嚴格限量)，所以也不會有很大的漲價空間。不要的股票還能當壁紙或蓋泡麵，NFT可不行啊!</p>
-
-
-
-<h1 class="wp-block-heading">AI 又憑什麼?</h1>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">雖然AI<a rel="noreferrer noopener" href="https://treesheeptw.github.io/portfolio/2023/07/ai%e9%80%b2%e5%8c%96%e9%82%a3%e9%ba%bc%e5%bf%ab%ef%bc%8c%e4%bb%80%e9%ba%bc%e5%b7%a5%e4%bd%9c%e6%9c%80%e5%ae%b9%e6%98%93%e8%a2%abgpt%e5%8f%96%e4%bb%a3/" data-type="URL" data-id="https://treesheeptw.github.io/portfolio/2023/07/ai%e9%80%b2%e5%8c%96%e9%82%a3%e9%ba%bc%e5%bf%ab%ef%bc%8c%e4%bb%80%e9%ba%bc%e5%b7%a5%e4%bd%9c%e6%9c%80%e5%ae%b9%e6%98%93%e8%a2%abgpt%e5%8f%96%e4%bb%a3/" target="_blank">成本高昂</a>，離如手機般普及還有很長一段距離，但是對於小型應用，有雲端運算可以租用，不用耗資數十萬購買硬體。此外，相對於元宇宙，AI的應用層面十分廣泛，從科技產業到農業，都有能應用的地方，且不一定要是獨立產品，可以讓很多既有的產品提升競爭力，最明顯的例子就是微軟的Edgex瀏覽器以及Bing搜尋引擎，導入GPT-4後，可以讓AI幫忙整合搜尋結果，吸引很多Chrome及Google的使用者改使用他們的產品。</p>
-
-
-
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="1024" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1scene__wonderland__masterpiece__by_Lisa_Frank_Seed-2451196_Steps-50_Guidance-7.5-1024x1024.jpeg" alt="" class="has-border-color has-secondary-border-color wp-image-174" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1scene__wonderland__masterpiece__by_Lisa_Frank_Seed-2451196_Steps-50_Guidance-7.5-1024x1024.jpeg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1scene__wonderland__masterpiece__by_Lisa_Frank_Seed-2451196_Steps-50_Guidance-7.5-300x300.jpeg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1scene__wonderland__masterpiece__by_Lisa_Frank_Seed-2451196_Steps-50_Guidance-7.5-150x150.jpeg 150w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1scene__wonderland__masterpiece__by_Lisa_Frank_Seed-2451196_Steps-50_Guidance-7.5-768x768.jpeg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1scene__wonderland__masterpiece__by_Lisa_Frank_Seed-2451196_Steps-50_Guidance-7.5-1536x1536.jpeg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/1scene__wonderland__masterpiece__by_Lisa_Frank_Seed-2451196_Steps-50_Guidance-7.5.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">AI 技術還有一個特性是元宇宙及NFT所沒有的，那就是運作的獨立性。一級玩家中的那種虛擬世界，除了需要很強的伺服器處理發生於世界中得一切，還要讓VR設備有很強的圖形運算能力，並且需要在網路技術再更進步的條件下才能運作。相比之下，部分較簡單的AI模型已經能在消費級硬體上運行，例如去年相當熱門的Stable Diffusion繪圖(但是Midjourney不是用你的電腦或手機運算的，第三方網頁版Stable Diffusion也不是!)，或是Meta推出的開源模型LLaMA(一個類似ChatGPT的語言模型)，都能在不到2萬元上的顯示卡上運行。</p>
-
-
-
-<h1 class="wp-block-heading">元宇宙還有機會嗎?</h1>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">雖然Meta漸漸退出了元宇宙領域(名字不知道什麼時候猜會改回來)，但是在前面提及的技術持續發展下，我認為元宇宙總有一天會實現，例如圖形運算晶片更先進後，用於運行VR的主機價格可以大幅降低，將來6G行動網路問世後，甚至是5G技術再更成熟一點，說不定就能實現超低延遲的互動。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">隨著元宇宙及NFT的熱潮持續衰退，還有一個主題被忽略了: 虛擬貨幣。虛擬貨幣跟NFT一樣，是區塊鏈技術下的產品，雖然仍未普及，但是能不受國境限制、去中心化等優勢不會消失，所以我認為它在短期的未來內很有可能持續成長。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">事實上，我也開始研究虛擬貨幣的投資甚至是自動化，也有幾個詳細研究優劣後推薦的平臺，也都有我的推薦碼可以用!</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">是不是把你殺個措手不及?</p>
-
-
-
-<div class="wp-block-columns is-layout-flex wp-container-3">
-<div class="wp-block-column is-layout-flow">
-<p class="has-luminous-vivid-amber-background-color has-background" style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);"><a href="https://www.pionex.com/zh-TW/sign/ref/0gxwe2afRKM" data-type="URL" data-id="https://www.pionex.com/zh-TW/sign/ref/0gxwe2afRKM" target="_blank" rel="noreferrer noopener">Pionex</a></p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">主打:自動化交易</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">推薦碼: 0gxwe2afRKM</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">或直接<a href="https://www.pionex.com/zh-TW/sign/ref/0gxwe2afRKM" data-type="URL" data-id="https://www.pionex.com/zh-TW/sign/ref/0gxwe2afRKM" target="_blank" rel="noreferrer noopener">點擊這裡</a></p>
-</div>
-
-
-
-<div class="wp-block-column is-layout-flow">
-<p class="has-pale-cyan-blue-background-color has-background" style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);"><a href="https://www.mexc.com/zh-TW/register?inviteCode=mexc-treesheep" data-type="URL" data-id="https://www.mexc.com/zh-TW/register?inviteCode=mexc-treesheep" target="_blank" rel="noreferrer noopener">MEXC</a></p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">主打: 低手續費</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">推薦碼: mexc-treesheep</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">或直接<a rel="noreferrer noopener" href="https://www.mexc.com/zh-TW/register?inviteCode=mexc-treesheep" data-type="URL" data-id="https://www.mexc.com/zh-TW/register?inviteCode=mexc-treesheep" target="_blank">點擊這裡</a></p>
-</div>
-</div>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">我也有向長期研究虛擬貨幣投資的同學請教，並在社群裡進行相關討論與研究，如果有興趣可以一起加入，裡面有大量的資源共享，而且對像我這樣的新手很友善。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);"><a rel="noreferrer noopener" href="https://discord.gg/J8xN3ap9" data-type="URL" data-id="https://discord.gg/J8xN3ap9" target="_blank">Discord</a>(較活躍) <a rel="noreferrer noopener" href="https://line.me/ti/g2/D935IJFvD_up2aVeugnKFJsRtuHMS7lL3zUdVw" data-type="URL" data-id="https://line.me/ti/g2/D935IJFvD_up2aVeugnKFJsRtuHMS7lL3zUdVw" target="_blank">Line社群</a>(較不活躍)</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/07/%e7%82%ba%e4%bb%80%e9%ba%bcopenai%e5%b9%b4%e8%b3%ba300%e5%84%84%ef%bc%8cmeta%e5%8d%bb%e8%b3%a0%e4%ba%867000%e5%84%84/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
