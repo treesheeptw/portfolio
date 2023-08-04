@@ -12,7 +12,7 @@
 	<atom:link href="https://treesheeptw.github.io/portfolio/category/%E7%A7%91%E6%8A%80/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Thu, 03 Aug 2023 15:08:53 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 04 Aug 2023 10:06:10 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,49 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>YouTube 聽到我們了</title>
+		<link>https://treesheeptw.github.io/portfolio/2023/08/youtube-%e8%81%bd%e5%88%b0%e6%88%91%e5%80%91%e4%ba%86/</link>
+					<comments>https://treesheeptw.github.io/portfolio/2023/08/youtube-%e8%81%bd%e5%88%b0%e6%88%91%e5%80%91%e4%ba%86/#respond</comments>
+		
+		<dc:creator><![CDATA[boris]]></dc:creator>
+		<pubDate>Fri, 04 Aug 2023 10:06:10 +0000</pubDate>
+				<category><![CDATA[科技]]></category>
+		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=324</guid>
+
+					<description><![CDATA[大約一個禮拜前，我發布過一個文章，討論YouTube的演算法忽略使用者回饋的事情。雖然我平常看影片時會使用第三 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="323" height="360" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/0804.png" alt="" class="has-border-color has-secondary-border-color wp-image-325" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/0804.png 323w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/0804-269x300.png 269w" sizes="(max-width: 323px) 100vw, 323px" /></figure>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">大約一個禮拜前，我發布過<a rel="noreferrer noopener" href="https://treesheeptw.github.io/portfolio/2023/07/%e3%80%8c%e4%b8%8d%e6%84%9f%e8%88%88%e8%b6%a3%e3%80%8d%e6%98%af%e4%bb%80%e9%ba%bc/" data-type="URL" data-id="https://treesheeptw.github.io/portfolio/2023/07/%e3%80%8c%e4%b8%8d%e6%84%9f%e8%88%88%e8%b6%a3%e3%80%8d%e6%98%af%e4%bb%80%e9%ba%bc/" target="_blank">一個文章</a>，討論YouTube的演算法忽略使用者回饋的事情。雖然我平常看影片時會使用第三方程式，但是因為有這個連署，所以最近常常到網站上看看有什麼變化。就在今天，我看到了上圖這個小視窗。這個連署似乎有效果了，因為連署裡提到的兩個問題都有出現: 「不感興趣」、「不要推薦這個頻道」的問題。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">我很開心連署對YouTube造成了影響，並希望可以透過同樣的方式解決或改善網路世界的其他問題，因此未來若是有其他相關的連署活動，我也會寫一篇文章來討論，而你也可以主動關注<a href="https://foundation.mozilla.org/en/campaigns/" data-type="URL" data-id="https://foundation.mozilla.org/en/campaigns/" target="_blank" rel="noreferrer noopener">Mozilla的連署頁面</a>。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div id="cusdis_thread"
+  data-host="https://cusdis.com/"
+  data-app-id="87b84668-a924-4eb7-87c4-97a52f79f089"
+  data-page-id="{{ YouTube 聽到我們了 }}"
+  data-page-url="{{ PAGE_URL }}"
+  data-page-title="{{ PAGE_TITLE }}"
+></div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/youtube-%e8%81%bd%e5%88%b0%e6%88%91%e5%80%91%e4%ba%86/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>在自己的電腦上玩AI有多難?</title>
 		<link>https://treesheeptw.github.io/portfolio/2023/08/%e5%9c%a8%e8%87%aa%e5%b7%b1%e7%9a%84%e9%9b%bb%e8%85%a6%e4%b8%8a%e7%8e%a9ai%e6%9c%89%e5%a4%9a%e9%9b%a3/</link>
 					<comments>https://treesheeptw.github.io/portfolio/2023/08/%e5%9c%a8%e8%87%aa%e5%b7%b1%e7%9a%84%e9%9b%bb%e8%85%a6%e4%b8%8a%e7%8e%a9ai%e6%9c%89%e5%a4%9a%e9%9b%a3/#respond</comments>
@@ -601,110 +644,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/07/%e3%80%8c%e4%b8%8d%e6%84%9f%e8%88%88%e8%b6%a3%e3%80%8d%e6%98%af%e4%bb%80%e9%ba%bc/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>勒索軟體也有等級之分! 暗網日記III</title>
-		<link>https://treesheeptw.github.io/portfolio/2023/07/%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94%e4%b9%9f%e6%9c%89%e7%ad%89%e7%b4%9a%e4%b9%8b%e5%88%86-%e6%9a%97%e7%b6%b2%e6%97%a5%e8%a8%98iii/</link>
-					<comments>https://treesheeptw.github.io/portfolio/2023/07/%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94%e4%b9%9f%e6%9c%89%e7%ad%89%e7%b4%9a%e4%b9%8b%e5%88%86-%e6%9a%97%e7%b6%b2%e6%97%a5%e8%a8%98iii/#respond</comments>
-		
-		<dc:creator><![CDATA[boris]]></dc:creator>
-		<pubDate>Tue, 25 Jul 2023 15:05:36 +0000</pubDate>
-				<category><![CDATA[科技]]></category>
-		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=196</guid>
-
-					<description><![CDATA[本文章僅為研究用途，不論是否在暗網上，購毒、買凶、雇用駭客都是違法行為。 上次的暗網日記裡，我跟一個暗網上的賣 [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="375" height="185" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-7.png" alt="" class="has-border-color has-secondary-border-color wp-image-198" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-7.png 375w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-7-300x148.png 300w" sizes="(max-width: 375px) 100vw, 375px" /></figure>
-
-
-
-<p>本文章僅為研究用途，不論是否在暗網上，購毒、買凶、雇用駭客都是違法行為。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);"><a rel="noreferrer noopener" href="https://treesheeptw.github.io/portfolio/2023/07/%e7%ac%ac%e4%b8%80%e6%ac%a1%e5%9c%a8%e6%9a%97%e7%b6%b2%e8%b2%b7%e6%9d%b1%e8%a5%bf-%e6%9a%97%e7%b6%b2%e6%97%a5%e8%a8%98ii/" data-type="URL" data-id="https://treesheeptw.github.io/portfolio/2023/07/%e7%ac%ac%e4%b8%80%e6%ac%a1%e5%9c%a8%e6%9a%97%e7%b6%b2%e8%b2%b7%e6%9d%b1%e8%a5%bf-%e6%9a%97%e7%b6%b2%e6%97%a5%e8%a8%98ii/" target="_blank">上次的暗網日記</a>裡，我跟一個暗網上的賣家買了一款勒索軟體，並且實測給大家看。不過第一次測試的時候其實有觸發Windows內建的防毒程式，沒有成功執行，是我手動將它解除，才再次測試並寫成文章的。由於大部分的Windows使用者都沒有關閉這個功能，所以這款勒索軟體威脅性不大，因為連資料庫大小以及防護力都遠不及付費防毒軟體的內建防毒都能偵測到。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">因此，我再次寄信給賣家，<s>質</s>問他為什麼會這樣。幾個小時過後就收到了他的回覆。</p>
-
-
-
-<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="527" height="309" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-8.png" alt="" class="has-border-color has-secondary-border-color wp-image-201" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-8.png 527w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-8-300x176.png 300w" sizes="(max-width: 527px) 100vw, 527px" /></figure>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">原來是我的等級問題(?)</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">所謂的RAT，就是remote access trojan的縮寫，中文翻譯是遠端存取木馬，通常比勒索軟體更恐怖，因為它能在背景執行，偷取你的密碼、虛擬貨幣，也能透過它把更多惡意軟體傳送到受害者的裝置上，甚至將其變成母體，把惡意軟體散布到更多裝置上。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">OSX就是蘋果Mac OS的別稱。Windows Defender、OSX、Android都是專有名詞，沒有大寫開頭看了真的很不舒服。</p>
-
-
-
-<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="91" height="182" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-4.png" alt="" class="has-border-color has-secondary-border-color wp-image-202" style="border-width:4px"/></figure>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">所以我就買了更貴的版本，寄過來的附件多了一個batch file，名稱是init，所以應該是要先執行它之後再執行主程式。主程式則一樣是.exe，名稱是thursday_v2，但是我不知道是真的跟上一次的程式一樣，或是更過的版本只是多附一個batch file而已。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">不同於.exe，batch file是可以看到執行內容的，於是我先點開batch file看看內容。不過因為如果被不當使用(現在這個情況就是)會相當危險，所以這邊不附上截圖。</p>
-
-
-
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="612" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-1-1024x612.png" alt="" class="has-border-color has-secondary-border-color wp-image-203" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-1-1024x612.png 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-1-300x179.png 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-1-768x459.png 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-1.png 1168w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="574" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-2-1024x574.png" alt="" class="has-border-color has-secondary-border-color wp-image-204" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-2-1024x574.png 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-2-300x168.png 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-2-768x431.png 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-2.png 1136w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">在執行之前的電腦長這樣，更新與安全性內有安全性設定。</p>
-
-
-
-<figure class="wp-block-image size-large is-resized has-custom-border"><img decoding="async" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-3-1024x595.png" alt="" class="has-border-color has-secondary-border-color wp-image-205" style="border-width:4px" width="582" height="338" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-3-1024x595.png 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-3-300x174.png 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-3-768x446.png 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-3.png 1086w" sizes="(max-width: 582px) 100vw, 582px" /></figure>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">點開之後，確認所有功能都是運作中的後，我執行了那個batch file。執行後只花了約四秒就關閉了，我來不及計時。</p>
-
-
-
-<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="800" height="572" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-6.png" alt="" class="has-border-color has-secondary-border-color wp-image-206" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-6.png 800w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-6-300x215.png 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-6-768x549.png 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">於是Windows安全性就被關&#8230;欸不對，整個消失了? 這在我的意料之外，因為以前接觸到的類似程式都是透過背景程式反覆關閉Windows Defender的功能，也就是它本身依然存在，但是你只要嘗試打開任何功能就會馬上被強制關閉，就像下面這個影片一樣。</p>
-
-
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Nqk_nWAjBus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="768" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-8-1-1024x768.png" alt="" class="has-border-color has-secondary-border-color wp-image-207" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-8-1-1024x768.png 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-8-1-300x225.png 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-8-1-768x576.png 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0725-8-1.png 1152w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">最後執行了主程式，花費24秒，比上次的20秒慢，並沒有像賣家標榜的一樣比較快，不過可能是因為它有迴避防毒軟體或其它額外功能。跟上次不一樣的地方還有不會更換背景。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">以上就是這次的惡意軟體「開箱」，如果對暗網上的各種內容感興趣，請持續追蹤我的網站新文!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/07/%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94%e4%b9%9f%e6%9c%89%e7%ad%89%e7%b4%9a%e4%b9%8b%e5%88%86-%e6%9a%97%e7%b6%b2%e6%97%a5%e8%a8%98iii/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
