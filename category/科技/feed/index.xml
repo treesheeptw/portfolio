@@ -12,7 +12,7 @@
 	<atom:link href="https://treesheeptw.github.io/portfolio/category/%E7%A7%91%E6%8A%80/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Fri, 04 Aug 2023 10:06:10 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 05 Aug 2023 15:26:37 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,85 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>手機惡意軟體從何而來?</title>
+		<link>https://treesheeptw.github.io/portfolio/2023/08/%e6%89%8b%e6%a9%9f%e6%83%a1%e6%84%8f%e8%bb%9f%e9%ab%94%e5%be%9e%e4%bd%95%e8%80%8c%e4%be%86/</link>
+					<comments>https://treesheeptw.github.io/portfolio/2023/08/%e6%89%8b%e6%a9%9f%e6%83%a1%e6%84%8f%e8%bb%9f%e9%ab%94%e5%be%9e%e4%bd%95%e8%80%8c%e4%be%86/#respond</comments>
+		
+		<dc:creator><![CDATA[boris]]></dc:creator>
+		<pubDate>Sat, 05 Aug 2023 15:26:37 +0000</pubDate>
+				<category><![CDATA[科技]]></category>
+		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=327</guid>
+
+					<description><![CDATA[你是否常常在新聞上看到「快刪! 這幾款App會盜走信用卡資料」之類的標題? 你會不會好奇這些惡意軟體是怎麼進到 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="681" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/phone-smartphone-display-on-the-phone-63747db12bac72b766267aba2e47d04d-1024x681.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-328" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/phone-smartphone-display-on-the-phone-63747db12bac72b766267aba2e47d04d-1024x681.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/phone-smartphone-display-on-the-phone-63747db12bac72b766267aba2e47d04d-300x199.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/phone-smartphone-display-on-the-phone-63747db12bac72b766267aba2e47d04d-768x511.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/phone-smartphone-display-on-the-phone-63747db12bac72b766267aba2e47d04d-1536x1021.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/phone-smartphone-display-on-the-phone-63747db12bac72b766267aba2e47d04d-2048x1362.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">你是否常常在新聞上看到「快刪! 這幾款App會盜走信用卡資料」之類的標題? 你會不會好奇這些惡意軟體是怎麼進到手機的? 不論是Google Play Store還是Apple App Store，都有安全審核機制，它們是怎麼繞過的? 今天的文章會討論這是怎麼達成的。</p>
+
+
+
+<h1 class="wp-block-heading">一、網頁型</h1>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">這個是最簡單、最省力的方式。駭客會先寫一個網頁，內容可以是任何正常的東西，只要能吸引人下載使用就好。接著，等到累積到一定數量的使用者，這個App就會卸下偽裝，進行新用卡資料竊取或是其他攻擊。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">例如: 我開發一款手機惡意軟體，表面上偽裝成「樹羊文章閱讀器」，由於我已經有網頁版的文章，所以我只要學會開發手機惡意軟體就好，網頁介面可以直接使用第三方的套件，就像你在LINE、IG裡也能直接點開網頁，不用使用瀏覽器應用程式一樣。這個例子發揮了網頁型城市開發的簡單性。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">另一個網頁型應用程式的優勢是它卸下偽裝的方便性。因為應用程式只是一個包裝過的瀏覽器，所以要更新顯示內容的時候，根本不需要更新應用程式，只要修改網頁內容，用戶端就會跟著改變，並發動攻擊，例如把原本的正常網頁替換成釣魚網頁。直接更新網頁而不更新應用程式就意味著它可以繞過應用程式商店的審核機制。</p>
+
+
+
+<h1 class="wp-block-heading">二、後門更新</h1>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">雖然前面才剛提到，網頁型應用程式卸下偽裝時，因為不需要更新應用程式本身，所以可以繞過平臺審核，那是不是代表透過商店更新App時，惡意軟體就會被偵測到? 我只能說半對半錯，因為如果一個應用程式透過更新來安裝惡意軟體，那很又可能被商店的安全審核機制發現，不過還是有方法可以規避。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">如果你有在玩手機上的線上遊戲，你或許會發現由時候明明到商店更新過了，為什麼打開遊戲還要下載新資源一次? 這是因為會需要商店更新的，只有涉及程式碼變更的時候，也就是需要重新安裝的時候，但是更新圖像、角色模型等資料的時候不用。這有點類似你的電腦安裝新的驅動程式後可能需要重新開機，但是下載文件時不用的概念。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">因此，駭客可以利用這個規則，透過應用程式商店更新新增一個後門，使用者更新完後再透過後門下載惡意程式。這就像你一定不能攜帶毒品過海關，但是你拿再多的量杯都可以。把量杯(或其他儀器)攜帶入境後，就能製造毒品。不要問我原料怎麼來，這只是舉例。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">事實上，這個手法也會被利用在電腦的惡意軟體上。雖然電腦上比較不需要規避應用程式商店審核，但是會有資安專家分析、舉報惡意軟體，而一旦被舉報，防毒軟體看到這個惡意程式時就有辦法認得。為了避免被分析，有些惡意軟體會分成執行器和被執行的程式。執行器會被安裝在A位置、惡意程式碼會放在B位置，而執行器的內容就是「讀取B位置的內容並執行它」。如果資安專家只有取得執行器，沒有取得被放在B位置的程式碼，那會被當作無害的執行器，因為沒有惡意程式碼的執行器是無害的。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">有的時候，這個機制會被簡化，例如要輸入密碼才能執行。如果資安專家在分析惡意軟體時不知道密碼，那就算執行惡意軟體，什麼事都不會發生。這就像藏頭詩一樣，如果不知道要看每一行的第一個字，就會以為這個信件只是普通的內容。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div id="cusdis_thread"
+  data-host="https://cusdis.com/"
+  data-app-id="87b84668-a924-4eb7-87c4-97a52f79f089"
+  data-page-id="{{ 手機惡意軟體從何而來 }}"
+  data-page-url="{{ PAGE_URL }}"
+  data-page-title="{{ PAGE_TITLE }}"
+></div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/%e6%89%8b%e6%a9%9f%e6%83%a1%e6%84%8f%e8%bb%9f%e9%ab%94%e5%be%9e%e4%bd%95%e8%80%8c%e4%be%86/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>YouTube 聽到我們了</title>
 		<link>https://treesheeptw.github.io/portfolio/2023/08/youtube-%e8%81%bd%e5%88%b0%e6%88%91%e5%80%91%e4%ba%86/</link>
 					<comments>https://treesheeptw.github.io/portfolio/2023/08/youtube-%e8%81%bd%e5%88%b0%e6%88%91%e5%80%91%e4%ba%86/#respond</comments>
@@ -608,42 +687,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/07/%e7%b6%b2%e8%b7%af%e4%b8%8a%e6%b2%92%e6%9c%89%e6%9c%80%e5%ae%89%e5%85%a8%e7%9a%84%e5%9c%b0%e6%96%b9/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>「不感興趣」是什麼?</title>
-		<link>https://treesheeptw.github.io/portfolio/2023/07/%e3%80%8c%e4%b8%8d%e6%84%9f%e8%88%88%e8%b6%a3%e3%80%8d%e6%98%af%e4%bb%80%e9%ba%bc/</link>
-					<comments>https://treesheeptw.github.io/portfolio/2023/07/%e3%80%8c%e4%b8%8d%e6%84%9f%e8%88%88%e8%b6%a3%e3%80%8d%e6%98%af%e4%bb%80%e9%ba%bc/#respond</comments>
-		
-		<dc:creator><![CDATA[boris]]></dc:creator>
-		<pubDate>Wed, 26 Jul 2023 14:29:16 +0000</pubDate>
-				<category><![CDATA[科技]]></category>
-		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=220</guid>
-
-					<description><![CDATA[說到演算法，很多人第一個想到的是社群平臺或是影音平臺的演算法，其中最常被討論的之一是YouTube的影片推薦演 [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="365" height="227" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0726-1.png" alt="" class="has-border-color has-secondary-border-color wp-image-221" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0726-1.png 365w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0726-1-300x187.png 300w" sizes="(max-width: 365px) 100vw, 365px" /></figure>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">說到演算法，很多人第一個想到的是社群平臺或是影音平臺的演算法，其中最常被討論的之一是YouTube的影片推薦演算法。雖然有時候很厲害，能讓你意外發掘你沒有想過你會有興趣的影片主題或類型，但是為什麼有時候會出現跟你的觀看習慣格格不入的影片，或是不遵從你的指令?</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">你是否有注意過你能在YouTube首頁的推薦影片中，你可以從旁邊的選項選擇「不感興趣」或「不要推薦這個頻道」，讓類似的內容不要出現? 如果你有用過這個功能，你可能會發現它沒什麼效果。Mozilla(Firefox的公司)最近在它們的網站上發起一個<a rel="noreferrer noopener" href="https://foundation.mozilla.org/en/campaigns/youtube-user-controls/?term=en" data-type="URL" data-id="https://foundation.mozilla.org/en/campaigns/youtube-user-controls/?term=en" target="_blank">連署活動</a>，其中提到，在他們的測試及統計下的結果顯示，使用者沒有權利控制任何內容，甚至即使按下「不感興趣」或「不要推薦這個頻道」，都不會改變演算法的運作。所以如果你也覺得沒有效果，它可能不是錯覺。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">另外，有些人有注意到推薦裡偶爾會出現跟自己的興趣毫無相關的影片，而且可能是觀看次數很低的冷門影片。這是為什麼? 雖然沒有證據，但是我覺得YouTube可能在模仿抖音的演算法。雖然我沒有用過抖音，但是有看過很多相關的研究甚至是論文，其中發現抖音的演算法不同於YouTube，使用者是沒有「首頁」的: 它可以強制撥放內容給使用者，畢竟使用者只有往下滑的選項，而不是像YouTube一樣從多個影片選擇。演算法會不論創作者的追蹤數或觀看樹，先給所有影片差不多的曝光，再依照使用者的回饋(停留時間、是否留言&#8230;等)決定這支影片未來的曝光率。這個方法可以確保新手創作者只要品質好也能跟知名創作者獲得一樣的結果，但是缺點是使用者偶爾會看到品質較低的內容。我猜YouTube也在實驗這套方法，嘗試給新手創作者更多機會。你覺得這個改變是否有影響到你? 如果有的話，是好還是壞?</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">如果你覺得YouTube演算法需要改善，你可以按<a rel="noreferrer noopener" href="https://foundation.mozilla.org/en/campaigns/youtube-user-controls/?term=en" data-type="URL" data-id="https://foundation.mozilla.org/en/campaigns/youtube-user-controls/?term=en" target="_blank">這裡</a>參加Mozilla的連署。我是沒差，因為我都用第三方介面，根本不會被演算法影響。</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/07/%e3%80%8c%e4%b8%8d%e6%84%9f%e8%88%88%e8%b6%a3%e3%80%8d%e6%98%af%e4%bb%80%e9%ba%bc/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
