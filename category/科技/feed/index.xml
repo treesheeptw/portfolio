@@ -12,7 +12,7 @@
 	<atom:link href="https://treesheeptw.github.io/portfolio/category/%E7%A7%91%E6%8A%80/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Sat, 05 Aug 2023 15:26:37 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 06 Aug 2023 14:46:34 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,60 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>用鍵盤聲判斷輸入內容? 奇葩駭客手法I</title>
+		<link>https://treesheeptw.github.io/portfolio/2023/08/%e7%94%a8%e9%8d%b5%e7%9b%a4%e8%81%b2%e5%88%a4%e6%96%b7%e8%bc%b8%e5%85%a5%e5%85%a7%e5%ae%b9-%e5%a5%87%e8%91%a9%e9%a7%ad%e5%ae%a2%e6%89%8b%e6%b3%95i/</link>
+					<comments>https://treesheeptw.github.io/portfolio/2023/08/%e7%94%a8%e9%8d%b5%e7%9b%a4%e8%81%b2%e5%88%a4%e6%96%b7%e8%bc%b8%e5%85%a5%e5%85%a7%e5%ae%b9-%e5%a5%87%e8%91%a9%e9%a7%ad%e5%ae%a2%e6%89%8b%e6%b3%95i/#respond</comments>
+		
+		<dc:creator><![CDATA[boris]]></dc:creator>
+		<pubDate>Sun, 06 Aug 2023 14:46:34 +0000</pubDate>
+				<category><![CDATA[科技]]></category>
+		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=337</guid>
+
+					<description><![CDATA[你可能有聽過釣魚網站、勒索軟體這些常見的惡意軟體，但是針對防護力很強的設備，例如實體隔離(簡單來說是沒有連上網 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spyware-cyber-cyber-crime-security-035ac30a58251cbd6892fe538158b221-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-338" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spyware-cyber-cyber-crime-security-035ac30a58251cbd6892fe538158b221-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spyware-cyber-cyber-crime-security-035ac30a58251cbd6892fe538158b221-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spyware-cyber-cyber-crime-security-035ac30a58251cbd6892fe538158b221-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spyware-cyber-cyber-crime-security-035ac30a58251cbd6892fe538158b221-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spyware-cyber-cyber-crime-security-035ac30a58251cbd6892fe538158b221.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">你可能有聽過釣魚網站、勒索軟體這些常見的惡意軟體，但是針對防護力很強的設備，例如實體隔離(簡單來說是沒有連上網路)的裝置，如果要竊取敏感資料的話，駭客就會用上各種奇葩的手法。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">一個<a rel="noreferrer noopener" href="https://arxiv.org/pdf/2308.01074.pdf" data-type="URL" data-id="https://arxiv.org/pdf/2308.01074.pdf" target="_blank">英國研究</a>(真的是英國研究)的團隊透過深度學習，成功從鍵盤輸入的聲音判斷了輸入的內容，而且正確率高達95%。你說不定能從別人打字的影片判斷他們打了什麼，但是這個模型可以用聽的。雖然需要有一段樣本，但是要取得這個樣本非常簡單，只要記錄一小段已知輸入內容的鍵盤聲就好，而且聲音不用很清楚，因為研究團隊在測試時使用的是Macbook Pro，鍵盤音量是非常小的，更別說普通鍵盤甚至是機械鍵盤，準確率可能又會高上不少。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">你可能認為95%的正確率是在收音品質控制良好的情況下達成的，而事實也確實如此，不過同一個團隊也用了幾款線上通訊軟體，透過通話錄製音訊測試準確度，都很驚人地有超過90%地正確率，不過如果是Discord或其他內建降噪功能的通訊軟體就沒用了。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">雖然這個方法幾乎還沒被不當利用過，不過假設真的盛行起來，論文裡也很有趣地提供了一些應對方法，包含:</p>
+
+
+
+<ul>
+<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">像電動車模擬引擎聲浪一樣模擬鍵盤聲</li>
+
+
+
+<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">播放白噪音干擾</li>
+
+
+
+<li style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">使用麥克風降噪軟體</li>
+</ul>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">用鍵盤聲來竊取敏感資訊可能沒有非常奇葩，畢竟以前也有人用熱像儀監控ATM鍵盤並從溫度較高的按鍵推測使用者的密碼，不過這只是作為奇葩駭客手法第一集的開胃菜等級手法而已，要知道更多更奇特的手法，且聽下回分解。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/%e7%94%a8%e9%8d%b5%e7%9b%a4%e8%81%b2%e5%88%a4%e6%96%b7%e8%bc%b8%e5%85%a5%e5%85%a7%e5%ae%b9-%e5%a5%87%e8%91%a9%e9%a7%ad%e5%ae%a2%e6%89%8b%e6%b3%95i/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>手機惡意軟體從何而來?</title>
 		<link>https://treesheeptw.github.io/portfolio/2023/08/%e6%89%8b%e6%a9%9f%e6%83%a1%e6%84%8f%e8%bb%9f%e9%ab%94%e5%be%9e%e4%bd%95%e8%80%8c%e4%be%86/</link>
 					<comments>https://treesheeptw.github.io/portfolio/2023/08/%e6%89%8b%e6%a9%9f%e6%83%a1%e6%84%8f%e8%bb%9f%e9%ab%94%e5%be%9e%e4%bd%95%e8%80%8c%e4%be%86/#respond</comments>
@@ -639,54 +693,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/07/%e7%82%ba%e4%bb%80%e9%ba%bcai%e7%b9%aa%e5%9c%96%e6%99%82%ef%bc%8c%e4%ba%ba%e6%89%8b%e6%9c%80%e5%ae%b9%e6%98%93%e5%b4%a9%e5%a3%9e/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>網路上沒有最安全的地方</title>
-		<link>https://treesheeptw.github.io/portfolio/2023/07/%e7%b6%b2%e8%b7%af%e4%b8%8a%e6%b2%92%e6%9c%89%e6%9c%80%e5%ae%89%e5%85%a8%e7%9a%84%e5%9c%b0%e6%96%b9/</link>
-					<comments>https://treesheeptw.github.io/portfolio/2023/07/%e7%b6%b2%e8%b7%af%e4%b8%8a%e6%b2%92%e6%9c%89%e6%9c%80%e5%ae%89%e5%85%a8%e7%9a%84%e5%9c%b0%e6%96%b9/#respond</comments>
-		
-		<dc:creator><![CDATA[boris]]></dc:creator>
-		<pubDate>Wed, 26 Jul 2023 17:20:06 +0000</pubDate>
-				<category><![CDATA[科技]]></category>
-		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=225</guid>
-
-					<description><![CDATA[雖然這個事件影響不大，更與不是開發員的一般人幾乎無關，但是這警告著我們不能全盤相信網路世界的任何事情&#823 [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="512" height="512" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/kim_jong_un_launching_a_cyber_attack_S3530501236_St10_G7.5.jpeg" alt="" class="has-border-color has-secondary-border-color wp-image-228" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/kim_jong_un_launching_a_cyber_attack_S3530501236_St10_G7.5.jpeg 512w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/kim_jong_un_launching_a_cyber_attack_S3530501236_St10_G7.5-300x300.jpeg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/kim_jong_un_launching_a_cyber_attack_S3530501236_St10_G7.5-150x150.jpeg 150w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
-
-
-
-<figure class="wp-block-pullquote"><blockquote><p>雖然這個事件影響不大，更與不是開發員的一般人幾乎無關，但是這警告著我們不能全盤相信網路世界的任何事情&#8230;</p></blockquote></figure>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">說到國際間的駭客活動，很多人第一個想到的可能是俄羅斯對美國進行攻擊，或是中國對臺灣進行攻擊。雖然北韓被普遍認為科技較落後，但是會在軍事上投入相當多努力，例如核武器的研發。這點在資訊領域也不例外。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">約一週前，GitHub的部落格發表一篇<a rel="noreferrer noopener" href="https://github.blog/2023-07-18-security-alert-social-engineering-campaign-targets-technology-industry-employees/" data-type="URL" data-id="https://github.blog/2023-07-18-security-alert-social-engineering-campaign-targets-technology-industry-employees/" target="_blank">文章</a>，警告有北韓駭客組織(極有可能是國家駭客團隊Lazarus)發動社交工程攻擊，在GitHub上假冒成要招募人手的開發員，企圖誘導他人使用惡意npm套件。雖然GitHub已經開始動作，將相關帳號停權並下架惡意套件，但如果你覺得自己可能是受害者，可以到<a rel="noreferrer noopener" href="https://github.blog/2023-07-18-security-alert-social-engineering-campaign-targets-technology-industry-employees/#indicators" data-type="URL" data-id="https://github.blog/2023-07-18-security-alert-social-engineering-campaign-targets-technology-industry-employees/#indicators" target="_blank">原始文章</a>看看惡意套件清單。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">根據我的找到的記錄，這個攻擊始於六月11日(最初的惡意套件發表)。駭客透過邀請受害者進行專案協作，由於開發過程會用到多組套件，而且很多套件都是開源的，所以不易讓人起疑，駭客利用這一點將惡意套件混入所需套件中，就像把毒藥偽裝成正常食材一樣，讓受害者安裝惡意npm套件。這些npm套件能作為後門，讓攻擊者透過它將更多惡意軟體安裝到受害者的裝置上。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">雖然這個事件影響不大，更與不是開發員的一般人幾乎無關，但是這警告著我們不能全盤相信網路世界的任何事情，即使它是在以開源程式為主的GitHub上。有的時候最安全的地方最容易讓人放下戒心。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">順帶一提，我現在在頁尾加上了我的門羅幣地址，如果你有能力支持我的文章，歡迎透過它贊助我。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">如果想透過其他方式支持我，或是有問題/建議，也可以透過頁尾的其他平臺聯絡我!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/07/%e7%b6%b2%e8%b7%af%e4%b8%8a%e6%b2%92%e6%9c%89%e6%9c%80%e5%ae%89%e5%85%a8%e7%9a%84%e5%9c%b0%e6%96%b9/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
