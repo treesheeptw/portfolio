@@ -12,7 +12,7 @@
 	<atom:link href="https://treesheeptw.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Mon, 07 Aug 2023 12:09:07 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 08 Aug 2023 14:40:55 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,105 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>詐騙郵件進化史(上)</title>
+		<link>https://treesheeptw.github.io/portfolio/2023/08/%e8%a9%90%e9%a8%99%e9%83%b5%e4%bb%b6%e9%80%b2%e5%8c%96%e5%8f%b2%e4%b8%8a/</link>
+					<comments>https://treesheeptw.github.io/portfolio/2023/08/%e8%a9%90%e9%a8%99%e9%83%b5%e4%bb%b6%e9%80%b2%e5%8c%96%e5%8f%b2%e4%b8%8a/#respond</comments>
+		
+		<dc:creator><![CDATA[boris]]></dc:creator>
+		<pubDate>Tue, 08 Aug 2023 14:40:55 +0000</pubDate>
+				<category><![CDATA[科技]]></category>
+		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=350</guid>
+
+					<description><![CDATA[電子郵件是現在全世界使用最廣泛的數位通訊方式之一，而不同於社群軟體，不需要成為對方的朋友，只要知道對方的電子郵 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="768" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-1024x768.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-351" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-1024x768.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-300x225.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-768x576.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-1536x1152.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">電子郵件是現在全世界使用最廣泛的數位通訊方式之一，而不同於社群軟體，不需要成為對方的朋友，只要知道對方的電子郵件地址，就能寄送郵件，加上很多網站都會蒐集電子郵件地址，因此流出風險極高，使其成為詐騙的溫床。雖然大部分的人詐騙意識很高，但是還是可能因為貪心或不冷靜思考而受騙，所以今天的文章就來看看有什麼常見的經典手法。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">是說我連續三個禮拜都是一天一篇了，好開心。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">因為手法真的很多，所以今天只舉例金錢詐騙，下次有機會再講講手法比較複雜的惡意軟體詐騙。</p>
+
+
+
+<h1 class="wp-block-heading">中獎詐騙</h1>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">中獎詐騙是臺灣最常見的詐騙手法之一，顧名思義就是告訴你你中獎了，要你開網頁填寫資料或是回信。如果要開網頁，那麼聰明的人可以透過網址辨識真偽，如果真的遇到，要謹慎面對並不要隨意提供個人資料。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">如果要你回信，可能就是金錢詐騙，通常會是非常高價的獎品，例如汽車，並且會跟你說，因為法律規定，接收金額大的抽獎獎品(或其他機率性的東西)，就必須繳一定比例的稅。詐騙者會跟你說，要先匯錢給他們，他們才會送出獎品，而非一手交錢一手交貨，但是拿了錢就會消失。</p>
+
+
+
+<h1 class="wp-block-heading">退款詐騙</h1>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">這個跟很多電話詐騙手法有一點相似，但是用電子郵件進行這種詐騙在臺灣比較少見，而且比較會針對企業，而非一般人，但是在人人都是電商的現在，漸漸開始影響一般使用者。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">這個手法非常簡單，相對的只要細心就能避免。詐騙者通常是受騙者的客戶的角色，購買並取得產品或服務後，假裝(或真的)進行金額過高的付款，並要求退款，但是一旦收到退款，就會直接蒸發，而如果受騙者是取消進行付款而非退差額，詐騙者等於是免費取得了產品或服務。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">不過，隨著電商平臺漸漸導入保證服務或是取貨付款，這樣的詐騙已經漸漸沒有效果。</p>
+
+
+
+<h1 class="wp-block-heading">明星詐騙</h1>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">這個是最容易被發現的詐騙之一，但是通常專門針對貪心的人，可以說是殺豬盤的簡化版。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">這個手法中，詐騙者會假冒明星、異國皇室成員或政治人物，要求受害者作為媒介進行大筆金額匯款，並答應給出很高額的手續費，但是受害者需要先給詐騙者一筆「文書費用」或以驗證等其他理由收取金錢，收到錢後就消失不見。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">以上就是常見的電子郵件詐騙手法，不過如標題所見，這只是上集而已，因為下次要來分析更為複雜、更現代的詐騙方式以及透過電子郵件散播惡意軟體的手法。</p>
+
+
+
+<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">下面的留言區會跟下一集同步!</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div id="cusdis_thread"
+  data-host="https://cusdis.com/"
+  data-app-id="87b84668-a924-4eb7-87c4-97a52f79f089"
+  data-page-id="{{ 詐騙郵件進化史 }}"
+  data-page-url="{{ PAGE_URL }}"
+  data-page-title="{{ PAGE_TITLE }}"
+></div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/%e8%a9%90%e9%a8%99%e9%83%b5%e4%bb%b6%e9%80%b2%e5%8c%96%e5%8f%b2%e4%b8%8a/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>用電源供應器竊取資料? 奇葩駭客手法II</title>
 		<link>https://treesheeptw.github.io/portfolio/2023/08/%e7%94%a8%e9%9b%bb%e6%ba%90%e4%be%9b%e6%87%89%e5%99%a8%e7%ab%8a%e5%8f%96%e8%b3%87%e6%96%99-%e5%a5%87%e8%91%a9%e9%a7%ad%e5%ae%a2%e6%89%8b%e6%b3%95ii/</link>
 					<comments>https://treesheeptw.github.io/portfolio/2023/08/%e7%94%a8%e9%9b%bb%e6%ba%90%e4%be%9b%e6%87%89%e5%99%a8%e7%ab%8a%e5%8f%96%e8%b3%87%e6%96%99-%e5%a5%87%e8%91%a9%e9%a7%ad%e5%ae%a2%e6%89%8b%e6%b3%95ii/#respond</comments>
@@ -562,143 +661,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/07/%e6%88%92%e6%8e%89%e7%a4%be%e7%be%a4%e5%b9%b3%e8%87%ba%e7%9a%84%e5%bf%83%e5%be%97/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>我的26萬分鐘熱度</title>
-		<link>https://treesheeptw.github.io/portfolio/2023/07/%e6%88%91%e7%9a%8426%e8%90%ac%e5%88%86%e9%90%98%e7%86%b1%e5%ba%a6/</link>
-					<comments>https://treesheeptw.github.io/portfolio/2023/07/%e6%88%91%e7%9a%8426%e8%90%ac%e5%88%86%e9%90%98%e7%86%b1%e5%ba%a6/#respond</comments>
-		
-		<dc:creator><![CDATA[boris]]></dc:creator>
-		<pubDate>Fri, 28 Jul 2023 19:47:00 +0000</pubDate>
-				<category><![CDATA[我]]></category>
-		<category><![CDATA[科技]]></category>
-		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=250</guid>
-
-					<description><![CDATA[超級長文警告(可以說是我的自傳) 隨著我的文章突破10篇(很少，但我很有成就感)，有些人可能會好奇，我是怎麼決 [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="1024" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/scenery___room_of_a_child___magical_plants_2_5___windows____complicated_structure_____bed___desk__ha_Seed-5879182_Steps-32_Guidance-10-1024x1024.jpeg" alt="" class="has-border-color has-secondary-border-color wp-image-253" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/scenery___room_of_a_child___magical_plants_2_5___windows____complicated_structure_____bed___desk__ha_Seed-5879182_Steps-32_Guidance-10-1024x1024.jpeg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/scenery___room_of_a_child___magical_plants_2_5___windows____complicated_structure_____bed___desk__ha_Seed-5879182_Steps-32_Guidance-10-300x300.jpeg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/scenery___room_of_a_child___magical_plants_2_5___windows____complicated_structure_____bed___desk__ha_Seed-5879182_Steps-32_Guidance-10-150x150.jpeg 150w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/scenery___room_of_a_child___magical_plants_2_5___windows____complicated_structure_____bed___desk__ha_Seed-5879182_Steps-32_Guidance-10-768x768.jpeg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/scenery___room_of_a_child___magical_plants_2_5___windows____complicated_structure_____bed___desk__ha_Seed-5879182_Steps-32_Guidance-10-1536x1536.jpeg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/scenery___room_of_a_child___magical_plants_2_5___windows____complicated_structure_____bed___desk__ha_Seed-5879182_Steps-32_Guidance-10.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>超級長文警告(可以說是我的自傳)</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">隨著我的文章突破10篇(很少，但我很有成就感)，有些人可能會好奇，我是怎麼決定文章主題的? 是一直關注科技時事? 以我的專業能力有資格提出對這些議題的評論?</p>
-
-
-
-<h1 class="wp-block-heading">我是怎麼接觸到電腦的?</h1>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">這個故事要從八年前說起。那大概是我小學二年級的暑假。因為我的爸媽覺得程式設計是未來的趨勢之一，所以我拿到了人生第一本程式設計的書，不過是很簡單的Scratch，而且沒有複雜的程式概念，只是能簡單操作我的玩具而已，而且玩具過不久就壞了，所以這件事就不了了之。也大概是那個數件過後，升上三年級，學校的電腦課開始教Scratch，我算是有接觸過，所以基礎比大部分同學們好，但是沒有很大的興趣，所以只是跟著學校進度而已。課本設計因為要顧及大部分學生的能力，所以兩年的電腦課幾乎沒有學到什麼。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">除了學習Scratch以外，因為舅舅某年生日突然送我樂高，我起了很大的興趣，所以我也有開始學樂高EV3的程式，不過也是不需要打什麼字的語言。</p>
-
-
-
-<h1 class="wp-block-heading">我的新興趣</h1>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">到了小學五年級重新分班後，我認識了一個至今仍是我最親近的朋友之一的同學。他雖然在學校有兩年了，但是他是三年級才因為原本的國小沒有資優班才轉進來的，所以分班的時候幾乎沒有認識任何人。我忘記我們是怎麼搭上話的，但是我們一拍即合，很快就成為每一節下課都玩在一起的朋友。我們雖然都沒有接觸過校外的正式程式課程，但是我們的Scratch都學得不錯，而且座號相鄰，所以電腦課也有很多交流。後來，我們報名了學校的校內競賽，我和他分別取得了冠軍及亞軍。</p>
-
-
-
-<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="384" height="260" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0729-1.png" alt="" class="has-border-color has-secondary-border-color wp-image-257" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0729-1.png 384w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0729-1-300x203.png 300w" sizes="(max-width: 384px) 100vw, 384px" /></figure>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">一個有趣的事情是，因為校內對手很多，還有六年級的學長姊，所以在準備期間我們是互相練習的，而且一旦出現了電腦課以外的、有鑑別度的題目，明顯就能看出他的能力遠勝過我。不過為什麼我在校內比賽贏他一名? 以防你不知道，Scratch裡幾乎所有程式裡第一個執行的是上圖的方塊，綠旗就是程式的開始鍵。他在比賽時，可能是太緊張，或是沒有做最終測試，結果因為忘了把後面寫的程式接到這個方塊下而無法執行(或是其他類似原因，我忘了)，但是程式脈絡跟簡化都很好，所以雖然創意加分加了很多，但是我的也不差，而且可以正常執行，所以就高一個名次。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">回到故事，因為我們不但分別是冠亞軍，而且默契良好，所以理所當然代表學校參加校際比賽。雖然最後只拿到佳作，但是從賽前密集特訓的過程中，除了關係變得更要好以外，也讓我探索到程式更深的一層，大大激發了我對程式的興趣。</p>
-
-
-
-<h1 class="wp-block-heading">終於學到真、程式了</h1>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">同學年的暑假，他邀請我跟他一起報名一個程式設計冬令營，內容是結合Python跟Minecraft，把程式應用到遊戲裡的控制跟指令系統。這是我第一次接觸真正的程式語言(而非疊方塊的Scratch或EV3)，而且學得很快，所以Python就成了第一個我敢說自己會的程式語言。</p>
-
-
-
-<h1 class="wp-block-heading">我與硬體的邂逅</h1>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">到(故事的)目前為止，電腦對我來說都只是工具，很少去在意它，直到升上國中，慢慢開始對我的筆電的效能感到厭煩。雖然它並不舊(使用期間2016~2021)，但是它畢竟是低功率又輕薄取向的筆電(X1C 4th)，所以隨著我程式越寫越大、文件媒體越裝越多，它已經有些不堪負荷，所以我開始研究PC硬體，希望可以自己組裝一臺，而我父母也很慷慨地答應，給我一筆預算讓我自己研究，最後我在國二的寒假組了我的第一臺電腦。也就是研究的過程中起了很大的興趣，剛好LINE有在那個時期推出社群功能，所以我就開了一個社群(很有可能就是你知道我這個網站的管道)，開始跟各種專家學習，同時幫助一些需要幫忙的新手解決問題。</p>
-
-
-
-<h1 class="wp-block-heading">時間管理大師</h1>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">國中期間，雖然我有很長一段時間心理很不健康，但是我的成績十分優秀，完全沒有補習，平常也幾乎不複習，就算是較不擅長的社會科也只要在段考前的一節自習課複習一下，就輕鬆進到校排前六分之一(我們升學不錯，約12%進第一志願)，所以我有很多課餘時間可以花在興趣開發上。</p>
-
-
-
-<h1 class="wp-block-heading">科學班</h1>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">這就是標題所說的26萬分鐘熱度的開始。國三上學期，我接觸到科學班的資訊，起了很大的興趣，所以開始超修高中數理化，從開始超修到三月中考試大概快五個月，我都浸在數理化的世界中，因為剛好有志同道合的國小同學，有人可以互相討論、支持與鼓勵，所以讀起來並不辛苦(因為是女生所以在考試時不會是敵人)。可惜的是，我的初試雖然分數都很高，只有化學很差，但是因為真的太差了，所以把我的T分數拉到了複試門檻外的邊緣，不過我並沒有很傷心，畢竟是跟一群大部分已經準備多年的怪物競爭，而且並非唯一升學機會。</p>
-
-
-
-<h1 class="wp-block-heading">數位音樂</h1>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">考完試後，距離會考跟畢業還有很長一段時間而我們學校有一個「畢業MV」的活動，每個班級都要挑畢業歌曲配上自己錄製的影片作為表演藝術課的最後作品。因為我們班不同於直接使用原曲的其他班，我們打算重新編詞加入我們的故事，發生了很多事，總之伴奏、錄音、後製等工作最後都落到原本只是負責影片剪輯的我身上，因此我開始了我的數位音樂創作學習之旅。因為身邊沒有相關經驗的人，所以我靠自學學會了各種音樂軟體操作(FL Studio等)，甚至還要學虛擬歌手軟體，因為考前同學都忙到沒辦法約時間到合適的地點合唱，在家錄音品質有參差不齊，遇到問題也沒辦法修正。雖然我不是對音樂很有興趣的人，但是有學過鋼琴，國小也是學校直笛團成員，所以學得很快，也很享受把自己喜歡的音樂用不同數位樂器演奏的樂趣，直到升上高中課業壓力又變重才暫時放在一邊。</p>
-
-
-
-<h1 class="wp-block-heading">AI 繪圖</h1>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">升上高中的2022年，正是AI崛起的一年，開源的Stable Diffusion相當熱門，雖然我的電腦並不強大，但是即使算一張圖要花上數分鐘，還是阻止不了我瘋狂的嘗試與努力學習。我不但加入國外的社群一起討論，還讀了很多論文研究其背後的原理，所以學會了很多最新的技術以及很多可能大學才會學到的演算法。最後，我也結合選修課的專題，把我對AI的研究成果寫成小論文。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">我<a href="https://treesheeptw.github.io/portfolio/2023/07/%e7%82%ba%e4%bb%80%e9%ba%bcai%e7%b9%aa%e5%9c%96%e6%99%82%ef%bc%8c%e4%ba%ba%e6%89%8b%e6%9c%80%e5%ae%b9%e6%98%93%e5%b4%a9%e5%a3%9e/" data-type="URL" data-id="https://treesheeptw.github.io/portfolio/2023/07/%e7%82%ba%e4%bb%80%e9%ba%bcai%e7%b9%aa%e5%9c%96%e6%99%82%ef%bc%8c%e4%ba%ba%e6%89%8b%e6%9c%80%e5%ae%b9%e6%98%93%e5%b4%a9%e5%a3%9e/" target="_blank" rel="noreferrer noopener">昨天的文章</a>就是在介紹與討論AI繪圖。</p>
-
-
-
-<h1 class="wp-block-heading">大型語言模型</h1>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">到了2023年，除了領域內的研究者持續鑽研外，AI繪圖的熱潮漸漸退去，取而代之的是以ChatGPT為首的大型語言模型(LLM)熱潮。我也嘗試開發自己的模型，雖然電腦效能很弱，只能拿現成的來訓練，不能從頭打造，但是也發現了很多樂趣。語言模型不像AI繪圖會有靈感枯竭的時候，而且可以雙向互動，在現實也有更多可以應用之處，即使電腦效能差到生成一句文字就要四十秒到數分鐘(相對於ChatGPT的幾秒很久)，但是並沒有阻止我對開放的追求，畢竟ChatGPT或是線上的AI繪圖平臺會有條款或限制，禁止政治不正確或腥羶色的內容(例如你很難讓ChatGPT寫出地獄梗)，甚至可能會有故意造成的立場(畢竟用於訓練的資料是由公司控制)。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">我對大型語言模型的熱情還沒消退，因為我正在打造一個虛擬朋友(誰叫我沒什麼朋友)，有Live2D模型、有語音模型，而背後還有最重要的大型語言模型。雖然我講一句話到它做出語音回應要數分鐘，但是我也在努力優化程式效率，也在存錢買較新款的顯示卡(現在用的是1660s)，所以希望未來可以讓我的「朋友」進化到能實現實時對話。</p>
-
-
-
-<h1 class="wp-block-heading">26萬分鐘熱度</h1>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">所以26萬分鐘熱度到底是什麼? 26萬分鐘大概是半年左右，也大約是我前面提到的幾個興趣的持續時間。我很常聽到身邊的人講到「三分鐘熱度」，而我覺得自己是26萬分鐘熱度(當然有些例外，像是資安我就一直都有在跟)。雖然很容易變換興趣，但是不會脫離原本的大致方向，而且可以研究得很深入。</p>
-
-
-
-<p style="font-size:clamp(18px, 1.125rem + ((1vw - 7.68px) * 0.721), 24px);">回到一剛開始的引導問題: 以我的專業能力有資格提出對這些議題的評論? 我認為是的。雖然我幾乎都是自學，能力可能比上不足，但是都是我有長期深入研究的內容，而我也很享受跟別人分享自己的觀點，也希望可以寫一些有趣的文章解答一些<a rel="noreferrer noopener" href="https://treesheeptw.github.io/portfolio/2023/07/%e5%b7%a5%e4%bd%9c%e5%a0%b4%e6%89%80%e4%b8%8d%e8%83%bd%e6%9c%89%e9%9a%b1%e7%a7%81%e5%97%8e-%e5%93%a1%e5%b7%a5%e7%9b%a3%e6%8e%a7%e8%bb%9f%e9%ab%94%e7%ab%9f%e6%9c%83%e5%8d%b1%e5%ae%b3%e5%81%a5%e5%ba%b7/" data-type="URL" data-id="https://treesheeptw.github.io/portfolio/2023/07/%e5%b7%a5%e4%bd%9c%e5%a0%b4%e6%89%80%e4%b8%8d%e8%83%bd%e6%9c%89%e9%9a%b1%e7%a7%81%e5%97%8e-%e5%93%a1%e5%b7%a5%e7%9b%a3%e6%8e%a7%e8%bb%9f%e9%ab%94%e7%ab%9f%e6%9c%83%e5%8d%b1%e5%ae%b3%e5%81%a5%e5%ba%b7/" target="_blank">生活化的問題</a>或很<a rel="noreferrer noopener" href="https://treesheeptw.github.io/portfolio/2023/07/%e7%82%ba%e4%bb%80%e9%ba%bcai%e7%b9%aa%e5%9c%96%e6%99%82%ef%bc%8c%e4%ba%ba%e6%89%8b%e6%9c%80%e5%ae%b9%e6%98%93%e5%b4%a9%e5%a3%9e/" data-type="URL" data-id="https://treesheeptw.github.io/portfolio/2023/07/%e7%82%ba%e4%bb%80%e9%ba%bcai%e7%b9%aa%e5%9c%96%e6%99%82%ef%bc%8c%e4%ba%ba%e6%89%8b%e6%9c%80%e5%ae%b9%e6%98%93%e5%b4%a9%e5%a3%9e/" target="_blank">令人好奇但是網路上不一定找的到解答的問題</a>，所以希望在閱讀的你會喜歡，也感謝你讀完我目前最長的一篇文章(三千字啊你好有耐心)。</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/07/%e6%88%91%e7%9a%8426%e8%90%ac%e5%88%86%e9%90%98%e7%86%b1%e5%ba%a6/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
