@@ -12,7 +12,7 @@
 	<atom:link href="https://treesheeptw.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Fri, 11 Aug 2023 14:20:50 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 11 Aug 2023 17:40:35 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,53 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>搜尋功能開放了</title>
+		<link>https://treesheeptw.github.io/portfolio/2023/08/%e6%90%9c%e5%b0%8b%e5%8a%9f%e8%83%bd%e9%96%8b%e6%94%be%e4%ba%86/</link>
+					<comments>https://treesheeptw.github.io/portfolio/2023/08/%e6%90%9c%e5%b0%8b%e5%8a%9f%e8%83%bd%e9%96%8b%e6%94%be%e4%ba%86/#respond</comments>
+		
+		<dc:creator><![CDATA[boris]]></dc:creator>
+		<pubDate>Fri, 11 Aug 2023 17:40:35 +0000</pubDate>
+				<category><![CDATA[科技]]></category>
+		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=379</guid>
+
+					<description><![CDATA[現在的搜尋區可以搜尋文章標題和內文了! 不過我還在想辦法把它加入到導覽列裡。]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/magnifying-glass-glass-increase-lens-536164b7dd02d786ee396398ab89608a-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-380" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/magnifying-glass-glass-increase-lens-536164b7dd02d786ee396398ab89608a-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/magnifying-glass-glass-increase-lens-536164b7dd02d786ee396398ab89608a-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/magnifying-glass-glass-increase-lens-536164b7dd02d786ee396398ab89608a-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/magnifying-glass-glass-increase-lens-536164b7dd02d786ee396398ab89608a-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/magnifying-glass-glass-increase-lens-536164b7dd02d786ee396398ab89608a-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+[ivory-search]
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">現在的搜尋區可以搜尋文章標題和內文了!</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">不過我還在想辦法把它加入到導覽列裡。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div id="cusdis_thread"
+  data-host="https://cusdis.com/"
+  data-app-id="87b84668-a924-4eb7-87c4-97a52f79f089"
+  data-page-id="{{ 搜尋功能開放了 }}"
+  data-page-url="{{ PAGE_URL }}"
+  data-page-title="{{ PAGE_TITLE }}"
+></div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/%e6%90%9c%e5%b0%8b%e5%8a%9f%e8%83%bd%e9%96%8b%e6%94%be%e4%ba%86/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>整理、分享、翻譯、抄襲的界線是什麼?</title>
 		<link>https://treesheeptw.github.io/portfolio/2023/08/%e6%95%b4%e7%90%86%e3%80%81%e5%88%86%e4%ba%ab%e3%80%81%e7%bf%bb%e8%ad%af%e3%80%81%e6%8a%84%e8%a5%b2%e7%9a%84%e7%95%8c%e7%b7%9a%e6%98%af%e4%bb%80%e9%ba%bc/</link>
 					<comments>https://treesheeptw.github.io/portfolio/2023/08/%e6%95%b4%e7%90%86%e3%80%81%e5%88%86%e4%ba%ab%e3%80%81%e7%bf%bb%e8%ad%af%e3%80%81%e6%8a%84%e8%a5%b2%e7%9a%84%e7%95%8c%e7%b7%9a%e6%98%af%e4%bb%80%e9%ba%bc/#respond</comments>
@@ -39,7 +86,7 @@
 
 					<description><![CDATA[近期，臺灣YouTube圈開始出現多個抄襲爭議，引起抄襲界線的討論。正好，今天有人傳給我這篇文章，主題跟我一篇 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="1024" height="678" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/copyright-magnifier-magnifying-glass-loupe-57c4f296af597a414478c74a59346048-1024x678.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-370" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/copyright-magnifier-magnifying-glass-loupe-57c4f296af597a414478c74a59346048-1024x678.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/copyright-magnifier-magnifying-glass-loupe-57c4f296af597a414478c74a59346048-300x199.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/copyright-magnifier-magnifying-glass-loupe-57c4f296af597a414478c74a59346048-768x509.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/copyright-magnifier-magnifying-glass-loupe-57c4f296af597a414478c74a59346048-1536x1017.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/copyright-magnifier-magnifying-glass-loupe-57c4f296af597a414478c74a59346048-2048x1356.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="678" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/copyright-magnifier-magnifying-glass-loupe-57c4f296af597a414478c74a59346048-1024x678.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-370" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/copyright-magnifier-magnifying-glass-loupe-57c4f296af597a414478c74a59346048-1024x678.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/copyright-magnifier-magnifying-glass-loupe-57c4f296af597a414478c74a59346048-300x199.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/copyright-magnifier-magnifying-glass-loupe-57c4f296af597a414478c74a59346048-768x509.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/copyright-magnifier-magnifying-glass-loupe-57c4f296af597a414478c74a59346048-1536x1017.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/copyright-magnifier-magnifying-glass-loupe-57c4f296af597a414478c74a59346048-2048x1356.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -94,7 +141,7 @@
 
 					<description><![CDATA[今天(8/10)，我到新竹的國網中心觀摩第二屆的HiPAC比賽。雖然是第二屆，但是六、七年前就有舉辦過，只是中 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="768" height="1024" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/signal-2023-08-10-214020-768x1024.jpeg" alt="" class="has-border-color has-secondary-border-color wp-image-367" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/signal-2023-08-10-214020-768x1024.jpeg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/signal-2023-08-10-214020-225x300.jpeg 225w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/signal-2023-08-10-214020.jpeg 1108w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" loading="lazy" width="768" height="1024" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/signal-2023-08-10-214020-768x1024.jpeg" alt="" class="has-border-color has-secondary-border-color wp-image-367" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/signal-2023-08-10-214020-768x1024.jpeg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/signal-2023-08-10-214020-225x300.jpeg 225w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/signal-2023-08-10-214020.jpeg 1108w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
 
 
 
@@ -592,61 +639,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/%e5%9c%a8%e8%87%aa%e5%b7%b1%e7%9a%84%e9%9b%bb%e8%85%a6%e4%b8%8a%e7%8e%a9ai%e6%9c%89%e5%a4%9a%e9%9b%a3/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>AI 正在摧毀資安</title>
-		<link>https://treesheeptw.github.io/portfolio/2023/08/ai-%e8%b7%9f%e8%b3%87%e5%ae%89%e6%9c%89%e4%bb%80%e9%ba%bc%e9%97%9c%e4%bf%82/</link>
-					<comments>https://treesheeptw.github.io/portfolio/2023/08/ai-%e8%b7%9f%e8%b3%87%e5%ae%89%e6%9c%89%e4%bb%80%e9%ba%bc%e9%97%9c%e4%bf%82/#respond</comments>
-		
-		<dc:creator><![CDATA[boris]]></dc:creator>
-		<pubDate>Wed, 02 Aug 2023 15:53:23 +0000</pubDate>
-				<category><![CDATA[科技]]></category>
-		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=312</guid>
-
-					<description><![CDATA[你是否曾經嘗試讓ChatGPT幫你寫程式? 結果如何? 我在自學程式開發的時候，因為要一個人完成前後端所有的開 [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full has-custom-border"><img decoding="async" loading="lazy" width="696" height="345" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormgpt.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-313" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormgpt.jpg 696w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormgpt-300x149.jpg 300w" sizes="(max-width: 696px) 100vw, 696px" /></figure>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">你是否曾經嘗試讓ChatGPT幫你寫程式? 結果如何? 我在自學程式開發的時候，因為要一個人完成前後端所有的開發工作，所以難免會遇到不會的地方。正常來講，我會到網路上尋找答案，或是直接在國外論壇上發問。但是自從ChatGPT推出，這些工作變得非常簡單，因為不會找到沒有精準符合我的需求的資料，也不需要等待好幾個小時直到有好心人願意回答我的問題。好心人非常少見。即使我有詳細敘述我遇到的問題，也確定這個問題沒有被其他人問過，我在Stack Overflow問的第一個問題沒幾分鐘就被噓了。不過用ChatGPT有一些缺點，最大的就是它永遠認為自己是對的，所以就算拿它生成的程式來用時出現問題，也不一定能解決。不過，這只是個小問題，因為頂多是它幫不上忙，但是如果它會幫倒忙，甚至會危害你，那問題可就大了。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">根據一份<a rel="noreferrer noopener" href="https://22601473.fs1.hubspotusercontent-na1.net/hubfs/22601473/Assets%20and%20Collaterals/State%20of%20Dependency%20Management%202023%20-%20FINAL%20(3).pdf?__hstc=184581494.44c30f0b2e904f6e5f5659f7d0887362.1689242780612.1689837317210.1689841956915.7&amp;__hssc=184581494.1.1689841956915&amp;__hsfp=4237720305" data-type="URL" data-id="https://22601473.fs1.hubspotusercontent-na1.net/hubfs/22601473/Assets%20and%20Collaterals/State%20of%20Dependency%20Management%202023%20-%20FINAL%20(3).pdf?__hstc=184581494.44c30f0b2e904f6e5f5659f7d0887362.1689242780612.1689837317210.1689841956915.7&amp;__hssc=184581494.1.1689841956915&amp;__hsfp=4237720305" target="_blank">Endor Labs的報告</a>顯示，<a rel="noreferrer noopener" href="https://treesheeptw.github.io/portfolio/2023/07/ai%e9%80%b2%e5%8c%96%e9%82%a3%e9%ba%bc%e5%bf%ab%ef%bc%8c%e4%bb%80%e9%ba%bc%e5%b7%a5%e4%bd%9c%e6%9c%80%e5%ae%b9%e6%98%93%e8%a2%abgpt%e5%8f%96%e4%bb%a3/" data-type="URL" data-id="https://treesheeptw.github.io/portfolio/2023/07/ai%e9%80%b2%e5%8c%96%e9%82%a3%e9%ba%bc%e5%bf%ab%ef%bc%8c%e4%bb%80%e9%ba%bc%e5%b7%a5%e4%bd%9c%e6%9c%80%e5%ae%b9%e6%98%93%e8%a2%abgpt%e5%8f%96%e4%bb%a3/" target="_blank">現階段的大型語言模型</a>，對於惡意程式碼的辨識率低於一成。這聽起來可能危害不大，畢竟會接觸並分析惡意程式的人，通常是這個領域的專家。不過，想像一個情境: 你在GitHub(或任何開源平臺)上看到一些很喜歡的程式，雖然是開源的，但是不代表它是安全的，尤其是很冷門、沒有被很多使用者詳細閱讀過程式碼的程式。這時候你可能看不懂程式碼，或是懶得看，於是複製下來丟給ChatGPT看看。這時候，對惡意軟體的辨識率低下就造成了嚴重的問題，因為它回報程式是安全的時候，很有可能是它的失誤，而且一旦程式碼被AI分析過是安全的，你在執行的時候也會更容易放下戒心。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">這個報告的作者也發現，在開源的AI專案中，有超過一半都被發現有使用到有安全漏洞的套件甚至是惡意套件，有些甚至有超過100個。說到惡意套件，同一份報告指出，在OpenAI的ChatGPT API推出的短短五個月內，就被超過900個可疑的npm及PyPi套件使用。<a rel="noreferrer noopener" href="https://treesheeptw.github.io/portfolio/2023/07/%e7%b6%b2%e8%b7%af%e4%b8%8a%e6%b2%92%e6%9c%89%e6%9c%80%e5%ae%89%e5%85%a8%e7%9a%84%e5%9c%b0%e6%96%b9/" data-type="URL" data-id="https://treesheeptw.github.io/portfolio/2023/07/%e7%b6%b2%e8%b7%af%e4%b8%8a%e6%b2%92%e6%9c%89%e6%9c%80%e5%ae%89%e5%85%a8%e7%9a%84%e5%9c%b0%e6%96%b9/" target="_blank">前幾天的文章</a>裡，我就有提到惡意npm套件能帶來的危害。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">如果你不是程式開發者，你大概不會擔心以上提到的問題，不過最近AI還被拿來做很邪惡的事。雖然一般的大型語言模型對惡意程式的辨識率很低，不過這是指普通的多用途大型語言模型，如果是特別訓練的就不一樣了。就在幾天前，某知名駭客論壇上有人開始販售WormGPT，這是一個使用大量惡意程式碼進行訓練而成的模型，目的是快速生成惡意程式。雖然它可能沒辦法獨力完成一整個惡意程式，但是它大大降低了製作惡意軟體的技術門檻，原本要寫一個惡意軟體，必須精通多個程式語言，並學會如何迴避防毒軟體、防止被資安專家破解，但是有了這個AI，只要能看懂它生成的程式碼，並有基本的除錯能力，就一樣能做出惡意軟體來。這就像一個學生只要看得懂題目，並且會操作計算機，解題速度與正確率就可能打敗數學老師一樣。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">不過你可以暫時放心，因為它的能力還是有限。WormGPT雖然可能會讓一些新手駭客快速學會惡意軟體開發，但是從它的販售頁面的截圖，它的能力還是很弱，所以不太可能在短期內突然冒出大量的高階惡意軟體，就像你很難用普通的非工程計算機解微積分問題一樣。即便如此，隨著這種技術快速進化，你也應該建立更高的網路安全意識，保護自己的隱私、資料與金錢的安全，而你能做的事情中，最簡單的就是持續追蹤我每天的新文章，因為我會針對這些議題進行討論。如果你有任何意見或建議，都可以在新開放的留言區留言!</p>
-
-
-
-<p></p>
-
-
-
-<div id="cusdis_thread"
-  data-host="https://cusdis.com/"
-  data-app-id="87b84668-a924-4eb7-87c4-97a52f79f089"
-  data-page-id="{{ AI 正在摧毀資安 }}"
-  data-page-url="{{ PAGE_URL }}"
-  data-page-title="{{ PAGE_TITLE }}"
-></div>
-<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/ai-%e8%b7%9f%e8%b3%87%e5%ae%89%e6%9c%89%e4%bb%80%e9%ba%bc%e9%97%9c%e4%bf%82/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
