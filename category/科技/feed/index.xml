@@ -12,7 +12,7 @@
 	<atom:link href="https://treesheeptw.github.io/portfolio/category/%E7%A7%91%E6%8A%80/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Fri, 18 Aug 2023 08:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 19 Aug 2023 15:47:00 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,42 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>飛航模式(假)</title>
+		<link>https://treesheeptw.github.io/portfolio/2023/08/%e9%a3%9b%e8%88%aa%e6%a8%a1%e5%bc%8f%e5%81%87/</link>
+					<comments>https://treesheeptw.github.io/portfolio/2023/08/%e9%a3%9b%e8%88%aa%e6%a8%a1%e5%bc%8f%e5%81%87/#respond</comments>
+		
+		<dc:creator><![CDATA[boris]]></dc:creator>
+		<pubDate>Sat, 19 Aug 2023 15:47:00 +0000</pubDate>
+				<category><![CDATA[科技]]></category>
+		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=412</guid>
+
+					<description><![CDATA[前天，知名蘋果MDM供應商Jamf發表一篇文章，說明有漏洞使iOS16裝置有辦法被駭客操控並錯誤顯示飛航模式( [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="1024" height="684" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/airplane-travel-adventure-plane-81c7c1400c7b9b69fb83c057885fb2b1-1024x684.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-413" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/airplane-travel-adventure-plane-81c7c1400c7b9b69fb83c057885fb2b1-1024x684.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/airplane-travel-adventure-plane-81c7c1400c7b9b69fb83c057885fb2b1-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/airplane-travel-adventure-plane-81c7c1400c7b9b69fb83c057885fb2b1-768x513.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/airplane-travel-adventure-plane-81c7c1400c7b9b69fb83c057885fb2b1-1536x1025.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/airplane-travel-adventure-plane-81c7c1400c7b9b69fb83c057885fb2b1-2048x1367.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">前天，知名蘋果MDM供應商Jamf發表一篇<a href="https://www.jamf.com/blog/fake-airplane-mode-a-mobile-tampering-technique-to-maintain-connectivity/" data-type="link" data-id="https://www.jamf.com/blog/fake-airplane-mode-a-mobile-tampering-technique-to-maintain-connectivity/">文章</a>，說明有漏洞使iOS16裝置有辦法被駭客操控並錯誤顯示飛航模式(偽飛航模式陽性)。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">雖然飛航模式本身不是什麼很危險的東西，但是沒有在飛航模式的狀態下欺騙使用者裝置在飛航模式卻很危險。這有辦法讓駭客在(使用者認為)沒有連上網路的情況下透過網路存取使用者的裝置。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">在研究團隊的示範裡，他們用一個空的函數取代了原本的程式碼，但是由於使用者介面與網路控制是由不同常駐程式(daemon)操作的，導致表面上已經進入飛航模式，但是沒有斷開網路。到目前為止沒有很危險，因為使用者會發現其裝置還接著網路，不過更恐怖的是，駭客可以修改網路控制的常駐程式，讓特定應用程式無法存取網路。這表示駭客可以關掉所有應用程式的網路存取權，只保留讓駭客存取裝置的後門程式的網路存取，讓使用者真的以為裝置處於飛航模式。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">但是你或許還不用擔心，因為要進行這樣的攻擊，駭客必須對目標裝置有完全控制。雖然如此，但是這是一種相對前衛、稀有的攻擊方式，所以不論你是否使用iOS16裝置都要小心，因為其他系統也有可能存在漏洞，使其有面臨類似攻擊的風險。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/%e9%a3%9b%e8%88%aa%e6%a8%a1%e5%bc%8f%e5%81%87/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>駭客是如何使用Ngrok的 &#124; 剖析勒索軟體II</title>
 		<link>https://treesheeptw.github.io/portfolio/2023/08/%e9%a7%ad%e5%ae%a2%e6%98%af%e5%a6%82%e4%bd%95%e4%bd%bf%e7%94%a8ngrok%e7%9a%84-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94ii/</link>
 					<comments>https://treesheeptw.github.io/portfolio/2023/08/%e9%a7%ad%e5%ae%a2%e6%98%af%e5%a6%82%e4%bd%95%e4%bd%bf%e7%94%a8ngrok%e7%9a%84-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94ii/#respond</comments>
@@ -39,7 +75,7 @@
 
 					<description><![CDATA[如果你是個軟體開發人員，你或許有使用過Ngrok。它可以透過安全通道將本機伺服器公開到一個臨時的公共域名，從而 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="1024" height="640" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1024x640.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-409" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1024x640.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-300x188.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-768x480.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1536x960.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="640" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1024x640.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-409" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1024x640.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-300x188.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-768x480.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1536x960.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -127,7 +163,7 @@
 
 					<description><![CDATA[我在昨天的文章裡簡單講解了AES的加密原理，並且有提到對稱加密與非對稱加密，而今天要來講講最有名的現代非對稱加 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-389" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" loading="lazy" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-389" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -621,53 +657,6 @@ b3   b7   b11  b15</code></pre>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/hipac-%e8%a7%80%e6%91%a9%e7%9f%ad%e5%bf%83%e5%be%97-%e7%9c%9f%e7%9a%84%e6%97%a5%e8%a8%98i/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>處理器為什麼會有安全性漏洞?</title>
-		<link>https://treesheeptw.github.io/portfolio/2023/08/%e8%99%95%e7%90%86%e5%99%a8%e7%82%ba%e4%bb%80%e9%ba%bc%e6%9c%83%e6%9c%89%e5%ae%89%e5%85%a8%e6%80%a7%e6%bc%8f%e6%b4%9e/</link>
-					<comments>https://treesheeptw.github.io/portfolio/2023/08/%e8%99%95%e7%90%86%e5%99%a8%e7%82%ba%e4%bb%80%e9%ba%bc%e6%9c%83%e6%9c%89%e5%ae%89%e5%85%a8%e6%80%a7%e6%bc%8f%e6%b4%9e/#respond</comments>
-		
-		<dc:creator><![CDATA[boris]]></dc:creator>
-		<pubDate>Wed, 09 Aug 2023 13:48:27 +0000</pubDate>
-				<category><![CDATA[科技]]></category>
-		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=355</guid>
-
-					<description><![CDATA[現在的惡意軟體滿天飛，安全漏洞無處不在，從網頁登入、文書文件、路由器&#8230;等等，都有可能存在安全性漏洞 [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" loading="lazy" width="1024" height="678" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/amd-cpu-processor-microprocessor-a754d2e65f891a71f408772ac9d40078-1024x678.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-356" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/amd-cpu-processor-microprocessor-a754d2e65f891a71f408772ac9d40078-1024x678.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/amd-cpu-processor-microprocessor-a754d2e65f891a71f408772ac9d40078-300x199.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/amd-cpu-processor-microprocessor-a754d2e65f891a71f408772ac9d40078-768x509.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/amd-cpu-processor-microprocessor-a754d2e65f891a71f408772ac9d40078-1536x1017.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/amd-cpu-processor-microprocessor-a754d2e65f891a71f408772ac9d40078-2048x1356.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">現在的惡意軟體滿天飛，安全漏洞無處不在，從網頁登入、文書文件、路由器&#8230;等等，都有可能存在安全性漏洞，讓駭客可以利用。前幾天，有人發現AMD Zen3、Zen4處理器存在安全漏洞，讓駭客有辦法竊取敏感資料，但是處理器又跟網路沒有關係，也沒有辦法像記憶體或儲存裝置一樣存取資料，為什麼會有安全漏洞?</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">由於現代電腦處理器常常使用「推測執行」的功能，也就是「根據現有資訊，利用空轉時間提前執行一些將來可能用得上，也可能用不上的指令(<a href="https://wikiless.tiekoetter.com/wiki/%E6%8E%A8%E6%B5%8B%E6%89%A7%E8%A1%8C?lang=zh-tw" data-type="link" data-id="https://wikiless.tiekoetter.com/wiki/%E6%8E%A8%E6%B5%8B%E6%89%A7%E8%A1%8C?lang=zh-tw">引用自維基百科</a>)」，而進行推測時，可能會留下能讓駭客利用的痕跡。假設你寫作業時違規使用ChatGPT，即使從你的作答無法判斷，只要老師能存取你的網站瀏覽紀錄，一樣能抓到你。同樣的道理，如果你的處理器在處理或計算機密資料，雖然駭客軟體上可能無法存取這些資料，但是能讀取處理器的預測內容。這樣的漏洞被拿來使用，結合以前就出現過的CVE-2022-23825和瞬態執行訓練，產生新的<a href="https://comsec.ethz.ch/wp-content/files/inception_sec23.pdf" data-type="link" data-id="https://comsec.ethz.ch/wp-content/files/inception_sec23.pdf">CVE-2023-20569</a>，能被用來竊取密碼，雖然資料洩漏速率只有每秒39個位元組，但是只要半秒就能竊取一組16個字元的RSA密碼組合。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">雖然先前的CVE-2022-23825已經被解決了，但是這個新的攻擊目前還沒有任何防護措施，所以可能只能等待AMD釋出BIOS更新了。</p>
-
-
-
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<div id="cusdis_thread"
-  data-host="https://cusdis.com/"
-  data-app-id="87b84668-a924-4eb7-87c4-97a52f79f089"
-  data-page-id="{{ 處理器為什麼會有安全性漏洞 }}"
-  data-page-url="{{ PAGE_URL }}"
-  data-page-title="{{ PAGE_TITLE }}"
-></div>
-<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/%e8%99%95%e7%90%86%e5%99%a8%e7%82%ba%e4%bb%80%e9%ba%bc%e6%9c%83%e6%9c%89%e5%ae%89%e5%85%a8%e6%80%a7%e6%bc%8f%e6%b4%9e/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
