@@ -4,11 +4,11 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="max-image-preview:large">
-<title>整理、分享、翻譯、抄襲的界線是什麼? &#8211; 樹羊</title>
+<title>駭客是如何使用Ngrok的 | 剖析勒索軟體II &#8211; 樹羊</title>
 <link href="https://fonts.gstatic.com/" crossorigin rel="preconnect">
 <link rel="alternate" type="application/rss+xml" title="訂閱《樹羊》&raquo; 資訊提供" href="https://treesheeptw.github.io/portfolio/feed/">
 <link rel="alternate" type="application/rss+xml" title="訂閱《樹羊》&raquo; 留言的資訊提供" href="https://treesheeptw.github.io/portfolio/comments/feed/">
-<link rel="alternate" type="application/rss+xml" title="訂閱《樹羊 》&raquo;〈整理、分享、翻譯、抄襲的界線是什麼?〉留言的資訊提供" href="https://treesheeptw.github.io/portfolio/2023/08/%e6%95%b4%e7%90%86%e3%80%81%e5%88%86%e4%ba%ab%e3%80%81%e7%bf%bb%e8%ad%af%e3%80%81%e6%8a%84%e8%a5%b2%e7%9a%84%e7%95%8c%e7%b7%9a%e6%98%af%e4%bb%80%e9%ba%bc/feed/">
+<link rel="alternate" type="application/rss+xml" title="訂閱《樹羊 》&raquo;〈駭客是如何使用Ngrok的 | 剖析勒索軟體II〉留言的資訊提供" href="https://treesheeptw.github.io/portfolio/2023/08/%e9%a7%ad%e5%ae%a2%e6%98%af%e5%a6%82%e4%bd%95%e4%bd%bf%e7%94%a8ngrok%e7%9a%84-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94ii/feed/">
 <script>
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/treesheeptw.github.io\/portfolio\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.3"}};
 /*! This file is auto-generated */
@@ -48,8 +48,8 @@ img.emoji {
 .wp-block-post-title a:where(:not(.wp-element-button)):active{color: var(--wp--preset--color--secondary);text-decoration: none;}</style>
 <style id="wp-block-image-inline-css">.wp-block-image img{box-sizing:border-box;height:auto;max-width:100%;vertical-align:bottom}.wp-block-image[style*=border-radius] img,.wp-block-image[style*=border-radius]>a{border-radius:inherit}.wp-block-image.has-custom-border img{box-sizing:border-box}.wp-block-image.aligncenter{text-align:center}.wp-block-image.alignfull img,.wp-block-image.alignwide img{height:auto;width:100%}.wp-block-image .aligncenter,.wp-block-image .alignleft,.wp-block-image .alignright,.wp-block-image.aligncenter,.wp-block-image.alignleft,.wp-block-image.alignright{display:table}.wp-block-image .aligncenter>figcaption,.wp-block-image .alignleft>figcaption,.wp-block-image .alignright>figcaption,.wp-block-image.aligncenter>figcaption,.wp-block-image.alignleft>figcaption,.wp-block-image.alignright>figcaption{caption-side:bottom;display:table-caption}.wp-block-image .alignleft{float:left;margin:.5em 1em .5em 0}.wp-block-image .alignright{float:right;margin:.5em 0 .5em 1em}.wp-block-image .aligncenter{margin-left:auto;margin-right:auto}.wp-block-image figcaption{margin-bottom:1em;margin-top:.5em}.wp-block-image .is-style-rounded img,.wp-block-image.is-style-circle-mask img,.wp-block-image.is-style-rounded img{border-radius:9999px}@supports ((-webkit-mask-image:none) or (mask-image:none)) or (-webkit-mask-image:none){.wp-block-image.is-style-circle-mask img{border-radius:0;-webkit-mask-image:url('data:image/svg+xml;utf8,<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50"/></svg>');mask-image:url('data:image/svg+xml;utf8,<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50"/></svg>');mask-mode:alpha;-webkit-mask-position:center;mask-position:center;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat;-webkit-mask-size:contain;mask-size:contain}}.wp-block-image :where(.has-border-color){border-style:solid}.wp-block-image :where([style*=border-top-color]){border-top-style:solid}.wp-block-image :where([style*=border-right-color]){border-right-style:solid}.wp-block-image :where([style*=border-bottom-color]){border-bottom-style:solid}.wp-block-image :where([style*=border-left-color]){border-left-style:solid}.wp-block-image :where([style*=border-width]){border-style:solid}.wp-block-image :where([style*=border-top-width]){border-top-style:solid}.wp-block-image :where([style*=border-right-width]){border-right-style:solid}.wp-block-image :where([style*=border-bottom-width]){border-bottom-style:solid}.wp-block-image :where([style*=border-left-width]){border-left-style:solid}.wp-block-image figure{margin:0}.wp-lightbox-container .img-container{position:relative}.wp-lightbox-container button{background:none;border:none;cursor:zoom-in;height:100%;position:absolute;width:100%;z-index:100}.wp-lightbox-container button:focus-visible{outline:5px auto #212121;outline:5px auto -webkit-focus-ring-color;outline-offset:5px}.wp-lightbox-overlay{height:100vh;left:0;overflow:hidden;position:fixed;top:0;visibility:hidden;width:100vw;z-index:100000}.wp-lightbox-overlay .close-button{cursor:pointer;padding:0;position:absolute;right:12.5px;top:12.5px;z-index:5000000}.wp-lightbox-overlay .wp-block-image{align-items:center;box-sizing:border-box;display:flex;flex-direction:column;height:100%;justify-content:center;position:absolute;width:100%;z-index:3000000}.wp-lightbox-overlay .wp-block-image figcaption{display:none}.wp-lightbox-overlay .wp-block-image img{max-height:100%;max-width:100%;width:auto}.wp-lightbox-overlay button{background:none;border:none}.wp-lightbox-overlay .scrim{background-color:#fff;height:100%;opacity:.9;position:absolute;width:100%;z-index:2000000}.wp-lightbox-overlay.fade.active{animation:turn-on-visibility .25s both;visibility:visible}.wp-lightbox-overlay.fade.active img{animation:turn-on-visibility .3s both}.wp-lightbox-overlay.fade.hideanimationenabled:not(.active){animation:turn-off-visibility .3s both}.wp-lightbox-overlay.fade.hideanimationenabled:not(.active) img{animation:turn-off-visibility .25s both}.wp-lightbox-overlay.zoom img{height:var(--lightbox-image-max-height);position:absolute;transform-origin:top left;width:var(--lightbox-image-max-width)}.wp-lightbox-overlay.zoom.active{opacity:1;visibility:visible}.wp-lightbox-overlay.zoom.active .wp-block-image img{animation:lightbox-zoom-in .4s forwards}@media (prefers-reduced-motion){.wp-lightbox-overlay.zoom.active .wp-block-image img{animation:turn-on-visibility .4s both}}.wp-lightbox-overlay.zoom.active .scrim{animation:turn-on-visibility .4s forwards}.wp-lightbox-overlay.zoom.hideanimationenabled:not(.active) .wp-block-image img{animation:lightbox-zoom-out .4s forwards}@media (prefers-reduced-motion){.wp-lightbox-overlay.zoom.hideanimationenabled:not(.active) .wp-block-image img{animation:turn-off-visibility .4s both}}.wp-lightbox-overlay.zoom.hideanimationenabled:not(.active) .scrim{animation:turn-off-visibility .4s forwards}html.has-lightbox-open{overflow:hidden}@keyframes turn-on-visibility{0%{opacity:0}to{opacity:1}}@keyframes turn-off-visibility{0%{opacity:1;visibility:visible}99%{opacity:0;visibility:visible}to{opacity:0;visibility:hidden}}@keyframes lightbox-zoom-in{0%{left:var(--lightbox-initial-left-position);top:var(--lightbox-initial-top-position);transform:scale(var(--lightbox-scale-width),var(--lightbox-scale-height))}to{left:var(--lightbox-target-left-position);top:var(--lightbox-target-top-position);transform:scale(1)}}@keyframes lightbox-zoom-out{0%{left:var(--lightbox-target-left-position);top:var(--lightbox-target-top-position);transform:scale(1);visibility:visible}99%{visibility:visible}to{left:var(--lightbox-initial-left-position);top:var(--lightbox-initial-top-position);transform:scale(var(--lightbox-scale-width),var(--lightbox-scale-height))}}</style>
 <style id="wp-block-paragraph-inline-css">.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}p.has-background{padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}</style>
-<style id="wp-block-spacer-inline-css">.wp-block-spacer{clear:both}</style>
 <style id="wp-block-post-content-inline-css">.wp-block-post-content a:where(:not(.wp-element-button)){color: var(--wp--preset--color--secondary);}</style>
+<style id="wp-block-spacer-inline-css">.wp-block-spacer{clear:both}</style>
 <style id="wp-block-separator-inline-css">@charset "UTF-8";.wp-block-separator{border:1px solid;border-left:none;border-right:none}.wp-block-separator.is-style-dots{background:none!important;border:none;height:auto;line-height:1;text-align:center}.wp-block-separator.is-style-dots:before{color:currentColor;content:"···";font-family:serif;font-size:1.5em;letter-spacing:2em;padding-left:2em}</style>
 <style id="wp-block-post-date-inline-css">.wp-block-post-date{box-sizing:border-box}
 .wp-block-post-date{font-size: var(--wp--preset--font-size--small);font-weight: 400;}
@@ -70,13 +70,13 @@ img.emoji {
 <script src="https://treesheeptw.github.io/portfolio/wp-includes/js/jquery/jquery.min.js?ver=3.7.0" id="jquery-core-js"></script>
 <script src="https://treesheeptw.github.io/portfolio/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
 <link rel="https://api.w.org/" href="https://treesheeptw.github.io/portfolio/wp-json/">
-<link rel="alternate" type="application/json" href="https://treesheeptw.github.io/portfolio/wp-json/wp/v2/posts/369">
+<link rel="alternate" type="application/json" href="https://treesheeptw.github.io/portfolio/wp-json/wp/v2/posts/408">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://treesheeptw.github.io/portfolio/xmlrpc.php?rsd">
 <meta name="generator" content="WordPress 6.3">
-<link rel="canonical" href="https://treesheeptw.github.io/portfolio/2023/08/%e6%95%b4%e7%90%86%e3%80%81%e5%88%86%e4%ba%ab%e3%80%81%e7%bf%bb%e8%ad%af%e3%80%81%e6%8a%84%e8%a5%b2%e7%9a%84%e7%95%8c%e7%b7%9a%e6%98%af%e4%bb%80%e9%ba%bc/">
-<link rel="shortlink" href="https://treesheeptw.github.io/portfolio/?p=369">
-<link rel="alternate" type="application/json+oembed" href="https://treesheeptw.github.io/portfolio/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftreesheeptw.github.io%2Fportfolio%2F2023%2F08%2F%25e6%2595%25b4%25e7%2590%2586%25e3%2580%2581%25e5%2588%2586%25e4%25ba%25ab%25e3%2580%2581%25e7%25bf%25bb%25e8%25ad%25af%25e3%2580%2581%25e6%258a%2584%25e8%25a5%25b2%25e7%259a%2584%25e7%2595%258c%25e7%25b7%259a%25e6%2598%25af%25e4%25bb%2580%25e9%25ba%25bc%2F">
-<link rel="alternate" type="text/xml+oembed" href="https://treesheeptw.github.io/portfolio/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftreesheeptw.github.io%2Fportfolio%2F2023%2F08%2F%25e6%2595%25b4%25e7%2590%2586%25e3%2580%2581%25e5%2588%2586%25e4%25ba%25ab%25e3%2580%2581%25e7%25bf%25bb%25e8%25ad%25af%25e3%2580%2581%25e6%258a%2584%25e8%25a5%25b2%25e7%259a%2584%25e7%2595%258c%25e7%25b7%259a%25e6%2598%25af%25e4%25bb%2580%25e9%25ba%25bc%2F#038;format=xml">
+<link rel="canonical" href="https://treesheeptw.github.io/portfolio/2023/08/%e9%a7%ad%e5%ae%a2%e6%98%af%e5%a6%82%e4%bd%95%e4%bd%bf%e7%94%a8ngrok%e7%9a%84-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94ii/">
+<link rel="shortlink" href="https://treesheeptw.github.io/portfolio/?p=408">
+<link rel="alternate" type="application/json+oembed" href="https://treesheeptw.github.io/portfolio/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftreesheeptw.github.io%2Fportfolio%2F2023%2F08%2F%25e9%25a7%25ad%25e5%25ae%25a2%25e6%2598%25af%25e5%25a6%2582%25e4%25bd%2595%25e4%25bd%25bf%25e7%2594%25a8ngrok%25e7%259a%2584-%25e5%2589%2596%25e6%259e%2590%25e5%258b%2592%25e7%25b4%25a2%25e8%25bb%259f%25e9%25ab%2594ii%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://treesheeptw.github.io/portfolio/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftreesheeptw.github.io%2Fportfolio%2F2023%2F08%2F%25e9%25a7%25ad%25e5%25ae%25a2%25e6%2598%25af%25e5%25a6%2582%25e4%25bd%2595%25e4%25bd%25bf%25e7%2594%25a8ngrok%25e7%259a%2584-%25e5%2589%2596%25e6%259e%2590%25e5%258b%2592%25e7%25b4%25a2%25e8%25bb%259f%25e9%25ab%2594ii%2F#038;format=xml">
 <link rel="icon" href="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/cropped-newstl_Seed-1203039_Steps-24_Guidance-10-32x32.png" sizes="32x32">
 <link rel="icon" href="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/cropped-newstl_Seed-1203039_Steps-24_Guidance-10-192x192.png" sizes="192x192">
 <link rel="apple-touch-icon" href="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/cropped-newstl_Seed-1203039_Steps-24_Guidance-10-180x180.png">
@@ -2306,7 +2306,7 @@ font-family: "Klee One" !important;
 	<!-- Fonts Plugin CSS -->
 	</head>
 
-<body class="post-template-default single single-post postid-369 single-format-standard wp-custom-logo wp-embed-responsive twentytwentythree">
+<body class="post-template-default single single-post postid-408 single-format-standard wp-custom-logo wp-embed-responsive twentytwentythree">
 
 <div class="wp-site-blocks">
 <header class="wp-block-template-part">
@@ -2331,40 +2331,27 @@ font-family: "Klee One" !important;
 
 
 <main class="wp-block-group is-layout-flow wp-block-group-is-layout-flow" style="margin-top:var(--wp--preset--spacing--50)">
-<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained"><h1 style="margin-bottom:var(--wp--preset--spacing--40);" class="wp-block-post-title">整理、分享、翻譯、抄襲的界線是什麼?</h1></div>
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained"><h1 style="margin-bottom:var(--wp--preset--spacing--40);" class="wp-block-post-title">駭客是如何使用Ngrok的 | 剖析勒索軟體II</h1></div>
 
 
 <div class="entry-content wp-block-post-content has-global-padding is-layout-constrained wp-block-post-content-is-layout-constrained">
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="1024" height="678" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/copyright-magnifier-magnifying-glass-loupe-57c4f296af597a414478c74a59346048-1024x678.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-370" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/copyright-magnifier-magnifying-glass-loupe-57c4f296af597a414478c74a59346048-1024x678.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/copyright-magnifier-magnifying-glass-loupe-57c4f296af597a414478c74a59346048-300x199.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/copyright-magnifier-magnifying-glass-loupe-57c4f296af597a414478c74a59346048-768x509.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/copyright-magnifier-magnifying-glass-loupe-57c4f296af597a414478c74a59346048-1536x1017.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/copyright-magnifier-magnifying-glass-loupe-57c4f296af597a414478c74a59346048-2048x1356.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="1024" height="640" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1024x640.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-409" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1024x640.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-300x188.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-768x480.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1536x960.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
 
 
 
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">近期，臺灣YouTube圈開始出現多個抄襲爭議，引起抄襲界線的討論。正好，今天有人傳給我<a href="https://technews.tw/2023/08/08/deep-learning-attack-keystrokes/" data-type="link" data-id="https://technews.tw/2023/08/08/deep-learning-attack-keystrokes/">這篇文章</a>，主題跟我一篇<a href="https://treesheeptw.github.io/portfolio/2023/08/%e7%94%a8%e9%8d%b5%e7%9b%a4%e8%81%b2%e5%88%a4%e6%96%b7%e8%bc%b8%e5%85%a5%e5%85%a7%e5%ae%b9-%e5%a5%87%e8%91%a9%e9%a7%ad%e5%ae%a2%e6%89%8b%e6%b3%95i/" data-type="link" data-id="https://treesheeptw.github.io/portfolio/2023/08/%e7%94%a8%e9%8d%b5%e7%9b%a4%e8%81%b2%e5%88%a4%e6%96%b7%e8%bc%b8%e5%85%a5%e5%85%a7%e5%ae%b9-%e5%a5%87%e8%91%a9%e9%a7%ad%e5%ae%a2%e6%89%8b%e6%b3%95i/">前幾天的文章</a>一樣，所以我就稍微看了一下，發現都是針對同一份研究的討論，不過分享給我的這篇「科技新報」文章，是直接翻譯了「Bleeping Computer」這個網站的<a href="https://www.bleepingcomputer.com/news/security/new-acoustic-attack-steals-data-from-keystrokes-with-95-percent-accuracy/" data-type="link" data-id="https://www.bleepingcomputer.com/news/security/new-acoustic-attack-steals-data-from-keystrokes-with-95-percent-accuracy/">報導</a>。按照時間順序，原研究團隊的<a href="https://arxiv.org/pdf/2308.01074.pdf" data-type="link" data-id="https://arxiv.org/pdf/2308.01074.pdf">文章</a>發表於8月3日；Bleeping Computer在5日報導了這個研究；我是在6日讀完了研究並寫了一個整理；科技新報則是在8日從Bleeping Computer轉報導了這個研究。</p>
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">如果你是個軟體開發人員，你或許有使用過Ngrok。它可以透過安全通道將本機伺服器公開到一個臨時的公共域名，從而可以在外部網路上訪問本地的服務或網站。</p>
 
 
 
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">雖然把這樣的消息分享給大家是很好的一件是，不過科技新報並沒有像我或Bleeping Computer一樣加入原研究的連結，也幾乎沒有加上個人觀點，而是直接寫「據《Bleeping Computer》報導&#8230;」，所以除了可能未經同意直接翻譯並刊登營利的嫌疑(有點像<a href="https://youtu.be/wB6HpAObvpg" data-type="link" data-id="https://youtu.be/wB6HpAObvpg">尼克星</a>那樣)，更讓我好奇作者(更像是譯者)由沒有實際讀過這個研究報告，因為如果再沒有讀過就翻譯的情況下，可能會像口耳相傳的謠言一樣失去原本應該要有的正確性。</p>
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">Ngrok最常見的用途包括在開發和測試階段分享本地網站或API，不需要將它們部署到真正的生產環境。這對於開發人員和測試人員來說非常實用。更方便的是，只要在命令行裡輸入指令，指定端口或其他選項，Ngrok就會生成臨時域名指向本地伺服器，而且基本功能不需要付費。</p>
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="948" height="1024" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/Untitled-30-948x1024.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-371" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/Untitled-30-948x1024.jpg 948w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/Untitled-30-278x300.jpg 278w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/Untitled-30-768x830.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/Untitled-30-1422x1536.jpg 1422w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/Untitled-30.jpg 1481w" sizes="(max-width: 948px) 100vw, 948px"></figure>
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">不過，正是它的方便、低成本等特性，導致它常常被駭客作為惡意用途。他們不但可以利用它的安全通道功能規避防火牆的保護，還能<a href="https://blog.netlab.360.com/miner-delivery-sample-via-ngrok-tunnel/" data-type="link" data-id="https://blog.netlab.360.com/miner-delivery-sample-via-ngrok-tunnel/">藉由動態生成隨機URL字串隱藏背後的真實地址</a>。另外，Ngrok還可用於<a href="https://www.malwarebytes.com/blog/news/2020/02/fraudsters-cloak-credit-card-skimmer-with-fake-content-delivery-network-ngrok-server" data-type="link" data-id="https://www.malwarebytes.com/blog/news/2020/02/fraudsters-cloak-credit-card-skimmer-with-fake-content-delivery-network-ngrok-server">代理(proxy)與NAT或防火牆後面的電腦的連線</a>。</p>
 
 
 
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">所以關係如上圖，沒辦法確定科技新報有沒有參考到原本的研究。這讓我很好奇，「參考」的限度是什麼? 是像Bleeping Computer一樣的整理? 還是像我這樣的整理+翻譯? 還是像科技新報一樣的翻譯別人的整理?</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">我不是法律專家，也不是被抄襲的對象，但是雖然我不覺得科技新報的行為需要被譴責，但是的確應該探究一下這樣做到底好不好? 我目前還不知道該做出怎麼樣的評論，但是你要是有任何想法，都可以在下面留言。</p>
-
-
-
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<div id="cusdis_thread" data-host="https://cusdis.com" data-app-id="87b84668-a924-4eb7-87c4-97a52f79f089" data-page-id="{{ 整理、分享、翻譯、抄襲的界線是什麼? }}" data-page-url="{{ PAGE_URL }}" data-page-title="{{ PAGE_TITLE }}"></div>
-<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">總結來說，Ngrok的便利性和多功能性使其成為許多軟體開發人員和測試人員的首選工具，能快速輕鬆地在開發過程中共享本地網站或API。然而，正如許多技術一樣，它也存在著雙刃劍的一面。其被廣泛用於惡意目的的情況提醒我們，科技的進步不僅為我們帶來方便，同時也需要我們保持警覺，確保其使用不會對安全和隱私造成威脅。</p>
 </div>
 
 <div class="wp-block-template-part">
@@ -2383,7 +2370,7 @@ font-family: "Klee One" !important;
 <p>  </p>
 
 
-<div class="wp-block-post-date"><time datetime="2023-08-11T22:20:50+08:00">2023 年 8 月 11 日</time></div>
+<div class="wp-block-post-date"><time datetime="2023-08-18T16:00:00+08:00">2023 年 8 月 18 日</time></div>
 
 
 <p>
