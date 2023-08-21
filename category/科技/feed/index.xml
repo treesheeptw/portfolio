@@ -12,7 +12,7 @@
 	<atom:link href="https://treesheeptw.github.io/portfolio/category/%E7%A7%91%E6%8A%80/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Sun, 20 Aug 2023 14:56:57 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 21 Aug 2023 15:34:15 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,65 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>到底該不該付贖金? &#124; 剖析勒索軟體番外篇</title>
+		<link>https://treesheeptw.github.io/portfolio/2023/08/%e5%88%b0%e5%ba%95%e8%a9%b2%e4%b8%8d%e8%a9%b2%e4%bb%98%e8%b4%96%e9%87%91-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94%e7%95%aa%e5%a4%96%e7%af%87/</link>
+					<comments>https://treesheeptw.github.io/portfolio/2023/08/%e5%88%b0%e5%ba%95%e8%a9%b2%e4%b8%8d%e8%a9%b2%e4%bb%98%e8%b4%96%e9%87%91-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94%e7%95%aa%e5%a4%96%e7%af%87/#respond</comments>
+		
+		<dc:creator><![CDATA[boris]]></dc:creator>
+		<pubDate>Mon, 21 Aug 2023 15:34:15 +0000</pubDate>
+				<category><![CDATA[科技]]></category>
+		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=418</guid>
+
+					<description><![CDATA[以前的文章裡，常常做勒索軟體的原理解說、功能展示，但是幾乎沒有提到比較接近受害者的一面: 贖金。除了少數特別的 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-389" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">以前的文章裡，常常做勒索軟體的原理解說、功能展示，但是幾乎沒有提到比較接近受害者的一面: 贖金。除了少數<a href="https://www.cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need" data-type="link" data-id="https://www.cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need">特別的案例</a>以外，大部分的勒索軟體攻擊都是為了金錢利益的，所以通常會要求受感染者一定的贖金，但是到底該不該付這筆贖金? 駭客收到贖金到底會不會解除你的資料加密?</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">如果你聽過專家的說法，通常會建議你不要支付贖金，因為很多流行已久的知名勒索軟體都已經被資安研究者破解，或是解碼器不小心外流了。不過這是最樂觀的情況，因為那麼知名的勒索軟體，有很大的機會早就被防毒軟體發現了，真正的勒索軟體案件常常都是還沒被防毒軟體列入黑名單的新興勒索軟體家族。因此，以下會討論的情況，都是建立在唯一救回資料的方法是攻擊者的解碼程式，且這些被加密的資料是重要到不能直接放棄的。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">先不論受害者的資料問題，繳交贖金本身就不是一個很好的選擇，因為它是道德上不對的，甚至在有些國家或地區是違法的。第二個問題就是，繳交贖金除了等於是在直接贊助違法駭客活動，更是直接把自己標示成很好的目標。繳交贖金就像穿著不道地的觀光客或穿金戴銀的富二代一樣，對觀光地區的店家跟扒手而言都是待宰的肥羊，一旦繳交贖金就很有可能被針對而面臨第二次的攻擊。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">回到資料本身，就算繳交贖金，受害者也不一定能取回資料。如果普通的路人撿到錢包都不一定會還(ㄏㄞˊ )，那你覺得心中沒有道德感的罪犯駭客恢復資料的可能性有多高? 除此之外，如果受影響的資料有敏感資料，如果勒索軟體功能強大，如果被駭客拿去賣，就算支付贖金還是有可能會有損失。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">所以，雖然面對攻擊沒有好的作法，但是一個比較沒那麼差的做法是等待該款勒索軟體被資安研究者破解，或是解碼程式被外流。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">以上都在講為什麼不該繳交贖金，但是還是有些情況下繳交贖金會是比較好的選項。請記得，這邊討論都是在資料重要到不能直接捨棄的等級。就算資料是能恢復的，但是要花費巨大的時間成本，這個時候或許就該考慮繳交贖金。另一個情況是一些企業等級的受害者，因為有些企業光是停機幾分鐘，就會損失幾千萬甚至幾億元，那相對於收益損失，贖金金額有時根本微不足道。最後一個情況是，受害者有錢到根本不在意贖金金額，那這種人應該要透過頁尾的地址捐錢給我。就算你不有錢，也能捐點錢鼓勵我繼續寫這些文章，畢竟只要建立好的資安觀念，先防禦好外來的攻擊，就不需要考慮贖金的問題。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div id="cusdis_thread"
+  data-host="https://cusdis.com/"
+  data-app-id="87b84668-a924-4eb7-87c4-97a52f79f089"
+  data-page-id="{{ 到底該不該付贖金? | 剖析勒索軟體番外篇 }}"
+  data-page-url="{{ PAGE_URL }}"
+  data-page-title="{{ PAGE_TITLE }}"
+></div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/%e5%88%b0%e5%ba%95%e8%a9%b2%e4%b8%8d%e8%a9%b2%e4%bb%98%e8%b4%96%e9%87%91-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94%e7%95%aa%e5%a4%96%e7%af%87/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>暗網網站怎麼找? &#124; 暗網日記IV</title>
 		<link>https://treesheeptw.github.io/portfolio/2023/08/%e6%9a%97%e7%b6%b2%e7%b6%b2%e7%ab%99%e6%80%8e%e9%ba%bc%e6%89%be-%e6%9a%97%e7%b6%b2%e6%97%a5%e8%a8%98iv/</link>
 					<comments>https://treesheeptw.github.io/portfolio/2023/08/%e6%9a%97%e7%b6%b2%e7%b6%b2%e7%ab%99%e6%80%8e%e9%ba%bc%e6%89%be-%e6%9a%97%e7%b6%b2%e6%97%a5%e8%a8%98iv/#respond</comments>
@@ -39,7 +98,7 @@
 
 					<description><![CDATA[本文章僅為研究用途，不論是否在暗網上，購毒、買凶、雇用駭客都是違法行為。 在前面幾篇暗往日記裡，我說過我暗網上 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/seo-search-engine-search-engine-optimization-computer-28ad16c1a7a85b847796084144037ddb-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-416" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/seo-search-engine-search-engine-optimization-computer-28ad16c1a7a85b847796084144037ddb-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/seo-search-engine-search-engine-optimization-computer-28ad16c1a7a85b847796084144037ddb-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/seo-search-engine-search-engine-optimization-computer-28ad16c1a7a85b847796084144037ddb-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/seo-search-engine-search-engine-optimization-computer-28ad16c1a7a85b847796084144037ddb-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/seo-search-engine-search-engine-optimization-computer-28ad16c1a7a85b847796084144037ddb-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/seo-search-engine-search-engine-optimization-computer-28ad16c1a7a85b847796084144037ddb-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-416" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/seo-search-engine-search-engine-optimization-computer-28ad16c1a7a85b847796084144037ddb-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/seo-search-engine-search-engine-optimization-computer-28ad16c1a7a85b847796084144037ddb-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/seo-search-engine-search-engine-optimization-computer-28ad16c1a7a85b847796084144037ddb-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/seo-search-engine-search-engine-optimization-computer-28ad16c1a7a85b847796084144037ddb-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/seo-search-engine-search-engine-optimization-computer-28ad16c1a7a85b847796084144037ddb-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -138,7 +197,7 @@
 
 					<description><![CDATA[如果你是個軟體開發人員，你或許有使用過Ngrok。它可以透過安全通道將本機伺服器公開到一個臨時的公共域名，從而 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="640" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1024x640.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-409" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1024x640.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-300x188.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-768x480.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1536x960.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" loading="lazy" width="1024" height="640" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1024x640.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-409" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1024x640.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-300x188.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-768x480.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1536x960.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -602,61 +661,6 @@ b3   b7   b11  b15</code></pre>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/%e6%90%9c%e5%b0%8b%e5%8a%9f%e8%83%bd%e9%96%8b%e6%94%be%e4%ba%86/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>整理、分享、翻譯、抄襲的界線是什麼?</title>
-		<link>https://treesheeptw.github.io/portfolio/2023/08/%e6%95%b4%e7%90%86%e3%80%81%e5%88%86%e4%ba%ab%e3%80%81%e7%bf%bb%e8%ad%af%e3%80%81%e6%8a%84%e8%a5%b2%e7%9a%84%e7%95%8c%e7%b7%9a%e6%98%af%e4%bb%80%e9%ba%bc/</link>
-					<comments>https://treesheeptw.github.io/portfolio/2023/08/%e6%95%b4%e7%90%86%e3%80%81%e5%88%86%e4%ba%ab%e3%80%81%e7%bf%bb%e8%ad%af%e3%80%81%e6%8a%84%e8%a5%b2%e7%9a%84%e7%95%8c%e7%b7%9a%e6%98%af%e4%bb%80%e9%ba%bc/#respond</comments>
-		
-		<dc:creator><![CDATA[boris]]></dc:creator>
-		<pubDate>Fri, 11 Aug 2023 14:20:50 +0000</pubDate>
-				<category><![CDATA[科技]]></category>
-		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=369</guid>
-
-					<description><![CDATA[近期，臺灣YouTube圈開始出現多個抄襲爭議，引起抄襲界線的討論。正好，今天有人傳給我這篇文章，主題跟我一篇 [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" loading="lazy" width="1024" height="678" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/copyright-magnifier-magnifying-glass-loupe-57c4f296af597a414478c74a59346048-1024x678.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-370" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/copyright-magnifier-magnifying-glass-loupe-57c4f296af597a414478c74a59346048-1024x678.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/copyright-magnifier-magnifying-glass-loupe-57c4f296af597a414478c74a59346048-300x199.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/copyright-magnifier-magnifying-glass-loupe-57c4f296af597a414478c74a59346048-768x509.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/copyright-magnifier-magnifying-glass-loupe-57c4f296af597a414478c74a59346048-1536x1017.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/copyright-magnifier-magnifying-glass-loupe-57c4f296af597a414478c74a59346048-2048x1356.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">近期，臺灣YouTube圈開始出現多個抄襲爭議，引起抄襲界線的討論。正好，今天有人傳給我<a href="https://technews.tw/2023/08/08/deep-learning-attack-keystrokes/" data-type="link" data-id="https://technews.tw/2023/08/08/deep-learning-attack-keystrokes/">這篇文章</a>，主題跟我一篇<a href="https://treesheeptw.github.io/portfolio/2023/08/%e7%94%a8%e9%8d%b5%e7%9b%a4%e8%81%b2%e5%88%a4%e6%96%b7%e8%bc%b8%e5%85%a5%e5%85%a7%e5%ae%b9-%e5%a5%87%e8%91%a9%e9%a7%ad%e5%ae%a2%e6%89%8b%e6%b3%95i/" data-type="link" data-id="https://treesheeptw.github.io/portfolio/2023/08/%e7%94%a8%e9%8d%b5%e7%9b%a4%e8%81%b2%e5%88%a4%e6%96%b7%e8%bc%b8%e5%85%a5%e5%85%a7%e5%ae%b9-%e5%a5%87%e8%91%a9%e9%a7%ad%e5%ae%a2%e6%89%8b%e6%b3%95i/">前幾天的文章</a>一樣，所以我就稍微看了一下，發現都是針對同一份研究的討論，不過分享給我的這篇「科技新報」文章，是直接翻譯了「Bleeping Computer」這個網站的<a href="https://www.bleepingcomputer.com/news/security/new-acoustic-attack-steals-data-from-keystrokes-with-95-percent-accuracy/" data-type="link" data-id="https://www.bleepingcomputer.com/news/security/new-acoustic-attack-steals-data-from-keystrokes-with-95-percent-accuracy/">報導</a>。按照時間順序，原研究團隊的<a href="https://arxiv.org/pdf/2308.01074.pdf" data-type="link" data-id="https://arxiv.org/pdf/2308.01074.pdf">文章</a>發表於8月3日；Bleeping Computer在5日報導了這個研究；我是在6日讀完了研究並寫了一個整理；科技新報則是在8日從Bleeping Computer轉報導了這個研究。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">雖然把這樣的消息分享給大家是很好的一件是，不過科技新報並沒有像我或Bleeping Computer一樣加入原研究的連結，也幾乎沒有加上個人觀點，而是直接寫「據《Bleeping Computer》報導&#8230;」，所以除了可能未經同意直接翻譯並刊登營利的嫌疑(有點像<a href="https://youtu.be/wB6HpAObvpg" data-type="link" data-id="https://youtu.be/wB6HpAObvpg">尼克星</a>那樣)，更讓我好奇作者(更像是譯者)由沒有實際讀過這個研究報告，因為如果再沒有讀過就翻譯的情況下，可能會像口耳相傳的謠言一樣失去原本應該要有的正確性。</p>
-
-
-
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" loading="lazy" width="948" height="1024" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/Untitled-30-948x1024.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-371" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/Untitled-30-948x1024.jpg 948w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/Untitled-30-278x300.jpg 278w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/Untitled-30-768x830.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/Untitled-30-1422x1536.jpg 1422w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/Untitled-30.jpg 1481w" sizes="(max-width: 948px) 100vw, 948px" /></figure>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">所以關係如上圖，沒辦法確定科技新報有沒有參考到原本的研究。這讓我很好奇，「參考」的限度是什麼? 是像Bleeping Computer一樣的整理? 還是像我這樣的整理+翻譯? 還是像科技新報一樣的翻譯別人的整理?</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">我不是法律專家，也不是被抄襲的對象，但是雖然我不覺得科技新報的行為需要被譴責，但是的確應該探究一下這樣做到底好不好? 我目前還不知道該做出怎麼樣的評論，但是你要是有任何想法，都可以在下面留言。</p>
-
-
-
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<div id="cusdis_thread"
-  data-host="https://cusdis.com/"
-  data-app-id="87b84668-a924-4eb7-87c4-97a52f79f089"
-  data-page-id="{{ 整理、分享、翻譯、抄襲的界線是什麼? }}"
-  data-page-url="{{ PAGE_URL }}"
-  data-page-title="{{ PAGE_TITLE }}"
-></div>
-<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/%e6%95%b4%e7%90%86%e3%80%81%e5%88%86%e4%ba%ab%e3%80%81%e7%bf%bb%e8%ad%af%e3%80%81%e6%8a%84%e8%a5%b2%e7%9a%84%e7%95%8c%e7%b7%9a%e6%98%af%e4%bb%80%e9%ba%bc/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
