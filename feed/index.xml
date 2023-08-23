@@ -12,7 +12,7 @@
 	<atom:link href="https://treesheeptw.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Tue, 22 Aug 2023 15:41:47 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 23 Aug 2023 15:04:43 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,87 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>我要預言X的失敗 (下)</title>
+		<link>https://treesheeptw.github.io/portfolio/2023/08/%e6%88%91%e8%a6%81%e9%a0%90%e8%a8%80x%e7%9a%84%e5%a4%b1%e6%95%97-%e4%b8%8b/</link>
+					<comments>https://treesheeptw.github.io/portfolio/2023/08/%e6%88%91%e8%a6%81%e9%a0%90%e8%a8%80x%e7%9a%84%e5%a4%b1%e6%95%97-%e4%b8%8b/#respond</comments>
+		
+		<dc:creator><![CDATA[boris]]></dc:creator>
+		<pubDate>Wed, 23 Aug 2023 15:04:43 +0000</pubDate>
+				<category><![CDATA[科技]]></category>
+		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=424</guid>
+
+					<description><![CDATA[昨天，我的文章討論了X(Twitter)的改名為什麼有可能將它帶來失敗。今天則是要來談談它的新政策可能帶來的衝 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/twitter-facebook-together-exchange-of-information-534f17174ef2e7e4664aaab4649ddf7a-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-421" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/twitter-facebook-together-exchange-of-information-534f17174ef2e7e4664aaab4649ddf7a-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/twitter-facebook-together-exchange-of-information-534f17174ef2e7e4664aaab4649ddf7a-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/twitter-facebook-together-exchange-of-information-534f17174ef2e7e4664aaab4649ddf7a-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/twitter-facebook-together-exchange-of-information-534f17174ef2e7e4664aaab4649ddf7a-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/twitter-facebook-together-exchange-of-information-534f17174ef2e7e4664aaab4649ddf7a-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">昨天，我的<a href="https://treesheeptw.github.io/portfolio/2023/08/%e6%88%91%e8%a6%81%e9%a0%90%e8%a8%80x%e7%9a%84%e5%a4%b1%e6%95%97-%e4%b8%8a/" data-type="link" data-id="https://treesheeptw.github.io/portfolio/2023/08/%e6%88%91%e8%a6%81%e9%a0%90%e8%a8%80x%e7%9a%84%e5%a4%b1%e6%95%97-%e4%b8%8a/">文章</a>討論了X(Twitter)的改名為什麼有可能將它帶來失敗。今天則是要來談談它的新政策可能帶來的衝擊。</p>
+
+
+
+<h1 class="wp-block-heading">不能不封鎖</h1>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">前幾天，Elon Musk宣布X要取消站內信以外的Twitter用戶封鎖(黑名單)功能。這個舉動看似毫無意義，但實際上我也不理解為何要這樣做，因為我只看得到這麼做的缺點。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">如果你有讀過Apple App Store或Google Play Store的條款(你八成沒有)，你或許知道它們都有針對UGC(User-Generated Content)的嚴格規範，也就是對社群媒體、部落格等會有使用者創作內容的應用程式做出規範。兩個平臺都有其中一條規定提到，為了防止有害內容、騷擾、霸凌等行為，有UGC的應用程式都必須有封鎖、過濾、檢舉等功能。取消封鎖功能表示X這個應用程式將會嚴重違反這些使用條款，很有可能遭到強制下架。由於大部分的X使用者都是使用行動裝置瀏覽內容，若X真的被下架，不只有使用者量會受到影響，甚至會間接引發資安問題。</p>
+
+
+
+<h1 class="wp-block-heading">下架跟資安有何關係?</h1>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">如果官方的X應用程式在應用程式商店被強制下架，表示蘋果使用者只能用網頁看X、安卓用戶必須使用APK安裝應用程式。網頁版可能只有功能限制，但是一旦改用APK安裝而非商店，很有可能出現各種冒充官方應用程式的惡意軟體出現。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);"><a href="https://treesheeptw.github.io/portfolio/2023/08/%e6%88%91%e8%a6%81%e9%a0%90%e8%a8%80x%e7%9a%84%e5%a4%b1%e6%95%97-%e4%b8%8a/" data-type="link" data-id="https://treesheeptw.github.io/portfolio/2023/08/%e6%88%91%e8%a6%81%e9%a0%90%e8%a8%80x%e7%9a%84%e5%a4%b1%e6%95%97-%e4%b8%8a/">上一篇</a>的中段就有提到冒充X可能會有多危險:</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">X出現、原本的Twitter消失，表示駭客可以把惡意軟體取名為Twitter上架應用程式商店，導致很多人誤安裝惡意軟體。從各種新聞以及我的<a href="https://treesheeptw.github.io/portfolio/2023/08/%e6%89%8b%e6%a9%9f%e6%83%a1%e6%84%8f%e8%bb%9f%e9%ab%94%e5%be%9e%e4%bd%95%e8%80%8c%e4%be%86/" data-type="link" data-id="https://treesheeptw.github.io/portfolio/2023/08/%e6%89%8b%e6%a9%9f%e6%83%a1%e6%84%8f%e8%bb%9f%e9%ab%94%e5%be%9e%e4%bd%95%e8%80%8c%e4%be%86/">其他篇文章</a>就能知道這些惡意軟體有多麼氾濫、安全審核有多好繞過。</p>
+</blockquote>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">你可能會覺得對一個大型科技公司，小小的冒充者不算什麼，那可就錯了，因為一旦「」X的應用程式可能是盜版的、X的應用程式可能含有惡意軟體」的言論開始出現，就會有更多使用者開始改用對手平臺，例如Threads。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">對了，我寫過一篇<a href="https://treesheeptw.github.io/portfolio/2023/07/twitter-threads-%e5%a4%aa%e8%90%bd%e5%be%8c%e4%ba%86%e5%90%a7-%e7%94%a8mastodon/" data-type="link" data-id="https://treesheeptw.github.io/portfolio/2023/07/twitter-threads-%e5%a4%aa%e8%90%bd%e5%be%8c%e4%ba%86%e5%90%a7-%e7%94%a8mastodon/">有關Threads的文章</a>!</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">這一篇聚焦在政策對Twitter帶來的負面影響。上半部分有討論改名為何有可能摧毀整個平臺的未來，如果還沒看，可以<a href="https://treesheeptw.github.io/portfolio/2023/08/%e6%88%91%e8%a6%81%e9%a0%90%e8%a8%80x%e7%9a%84%e5%a4%b1%e6%95%97-%e4%b8%8a/" data-type="link" data-id="https://treesheeptw.github.io/portfolio/2023/08/%e6%88%91%e8%a6%81%e9%a0%90%e8%a8%80x%e7%9a%84%e5%a4%b1%e6%95%97-%e4%b8%8a/">點我</a>回去看看。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div id="cusdis_thread"
+  data-host="https://cusdis.com/"
+  data-app-id="87b84668-a924-4eb7-87c4-97a52f79f089"
+  data-page-id="{{ 我要預言X的失敗 (下) }}"
+  data-page-url="{{ PAGE_URL }}"
+  data-page-title="{{ PAGE_TITLE }}"
+></div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/%e6%88%91%e8%a6%81%e9%a0%90%e8%a8%80x%e7%9a%84%e5%a4%b1%e6%95%97-%e4%b8%8b/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>我要預言X的失敗 (上)</title>
 		<link>https://treesheeptw.github.io/portfolio/2023/08/%e6%88%91%e8%a6%81%e9%a0%90%e8%a8%80x%e7%9a%84%e5%a4%b1%e6%95%97-%e4%b8%8a/</link>
 					<comments>https://treesheeptw.github.io/portfolio/2023/08/%e6%88%91%e8%a6%81%e9%a0%90%e8%a8%80x%e7%9a%84%e5%a4%b1%e6%95%97-%e4%b8%8a/#respond</comments>
@@ -39,7 +120,7 @@
 
 					<description><![CDATA[一個月前，我的一篇文章討論了為什麼同樣都是對新技術的投資，為什麼OpenAI比較成功，Meta卻賠了上千億元。 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/twitter-facebook-together-exchange-of-information-534f17174ef2e7e4664aaab4649ddf7a-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-421" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/twitter-facebook-together-exchange-of-information-534f17174ef2e7e4664aaab4649ddf7a-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/twitter-facebook-together-exchange-of-information-534f17174ef2e7e4664aaab4649ddf7a-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/twitter-facebook-together-exchange-of-information-534f17174ef2e7e4664aaab4649ddf7a-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/twitter-facebook-together-exchange-of-information-534f17174ef2e7e4664aaab4649ddf7a-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/twitter-facebook-together-exchange-of-information-534f17174ef2e7e4664aaab4649ddf7a-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/twitter-facebook-together-exchange-of-information-534f17174ef2e7e4664aaab4649ddf7a-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-421" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/twitter-facebook-together-exchange-of-information-534f17174ef2e7e4664aaab4649ddf7a-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/twitter-facebook-together-exchange-of-information-534f17174ef2e7e4664aaab4649ddf7a-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/twitter-facebook-together-exchange-of-information-534f17174ef2e7e4664aaab4649ddf7a-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/twitter-facebook-together-exchange-of-information-534f17174ef2e7e4664aaab4649ddf7a-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/twitter-facebook-together-exchange-of-information-534f17174ef2e7e4664aaab4649ddf7a-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -177,7 +258,7 @@
 
 					<description><![CDATA[本文章僅為研究用途，不論是否在暗網上，購毒、買凶、雇用駭客都是違法行為。 在前面幾篇暗往日記裡，我說過我暗網上 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/seo-search-engine-search-engine-optimization-computer-28ad16c1a7a85b847796084144037ddb-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-416" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/seo-search-engine-search-engine-optimization-computer-28ad16c1a7a85b847796084144037ddb-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/seo-search-engine-search-engine-optimization-computer-28ad16c1a7a85b847796084144037ddb-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/seo-search-engine-search-engine-optimization-computer-28ad16c1a7a85b847796084144037ddb-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/seo-search-engine-search-engine-optimization-computer-28ad16c1a7a85b847796084144037ddb-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/seo-search-engine-search-engine-optimization-computer-28ad16c1a7a85b847796084144037ddb-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" loading="lazy" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/seo-search-engine-search-engine-optimization-computer-28ad16c1a7a85b847796084144037ddb-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-416" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/seo-search-engine-search-engine-optimization-computer-28ad16c1a7a85b847796084144037ddb-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/seo-search-engine-search-engine-optimization-computer-28ad16c1a7a85b847796084144037ddb-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/seo-search-engine-search-engine-optimization-computer-28ad16c1a7a85b847796084144037ddb-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/seo-search-engine-search-engine-optimization-computer-28ad16c1a7a85b847796084144037ddb-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/seo-search-engine-search-engine-optimization-computer-28ad16c1a7a85b847796084144037ddb-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -638,61 +719,6 @@ b3   b7   b11  b15</code></pre>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/macos-%e5%88%b0%e5%ba%95%e6%9c%89%e6%b2%92%e6%9c%89%e6%af%94%e8%bc%83%e5%ae%89%e5%85%a8/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>YouTube Premium 真的有賺到更多錢?</title>
-		<link>https://treesheeptw.github.io/portfolio/2023/08/youtube-premium-%e7%9c%9f%e7%9a%84%e6%9c%89%e8%b3%ba%e5%88%b0%e6%9b%b4%e5%a4%9a%e9%8c%a2/</link>
-					<comments>https://treesheeptw.github.io/portfolio/2023/08/youtube-premium-%e7%9c%9f%e7%9a%84%e6%9c%89%e8%b3%ba%e5%88%b0%e6%9b%b4%e5%a4%9a%e9%8c%a2/#respond</comments>
-		
-		<dc:creator><![CDATA[boris]]></dc:creator>
-		<pubDate>Sun, 13 Aug 2023 15:52:15 +0000</pubDate>
-				<category><![CDATA[科技]]></category>
-		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=382</guid>
-
-					<description><![CDATA[雖然YouTube持續宣傳YouTube Premium的訂閱，但是這真的會讓他們賺比較多錢? 我並不完全這樣 [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full has-custom-border"><img decoding="async" loading="lazy" width="391" height="80" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/391px-YouTube_Premium_logo.svg_.png" alt="" class="has-border-color has-secondary-border-color wp-image-383" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/391px-YouTube_Premium_logo.svg_.png 391w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/391px-YouTube_Premium_logo.svg_-300x61.png 300w" sizes="(max-width: 391px) 100vw, 391px" /></figure>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">雖然YouTube持續宣傳YouTube Premium的訂閱，但是這真的會讓他們賺比較多錢? 我並不完全這樣覺得。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">除了頻道會員、超級感謝以外，YouTube最大的收入來源就是廣告，而推出一個可以停止廣告的會員制度乍聽起來很怪，而實際分析起來也是如此。雖然對沒有使用Adblock的使用者而言，多了一個付錢讓使用體驗更好的選項，只要廣告收入低於月費，平臺就會賺錢，但是這只是從最基本的層面看。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">如果從廣告商(買廣告的廠商)的角度思考，可能就完全相反。作為一個公司的廣告部門，最注重的肯定是廣告的效果。你是否看出問題所在了? 由於會付費購買YouTube Premium的用戶通常屬於經濟能力較高的使用者，因此在計算收入平衡的時候，不能向上一段講得一樣直接拿平均廣告收入跟月費比較，因為不買付費會員的用戶消費能力更低，廣告商願意投入的單一曝光成本就會降低。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">你可能會想: 那麼大的公司，要發行這種新功能，一定有過精打細算，不會被那麼簡單的邏輯弄到賠錢，不過再深入一點分析，伴隨著新制度而來的肯定是巨大的開發成本。除了前端的網頁版、手機版需要新設計之外，還需要很多的後端改造，而且他們自己也要投入很大的廣告成本(或說犧牲一些原本正在出租的廣告欄位)宣傳這個新功能，所以即使月費收入跟廣告損失打平，整題來說還是賠錢的，而且長期來看來會降低廣告商的投放意願及出價。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">不過，除了錢之外，我覺得這還是能為這個生態圈帶來一些正向改變，像是對創作者而言，因為廣告收入跟YouTube Premium分紅是分開計算的，且後者是按照實際觀看時間決定的，所以隨著付費使用者越來越多，創作者可以不再為廣告投放設計影片結構，而是專心創作更有品質的內容吸引觀看。</p>
-
-
-
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<div id="cusdis_thread"
-  data-host="https://cusdis.com/"
-  data-app-id="87b84668-a924-4eb7-87c4-97a52f79f089"
-  data-page-id="{{ YouTube Premium 真的有賺到更多錢? }}"
-  data-page-url="{{ PAGE_URL }}"
-  data-page-title="{{ PAGE_TITLE }}"
-></div>
-<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/youtube-premium-%e7%9c%9f%e7%9a%84%e6%9c%89%e8%b3%ba%e5%88%b0%e6%9b%b4%e5%a4%9a%e9%8c%a2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
