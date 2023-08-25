@@ -12,7 +12,7 @@
 	<atom:link href="https://treesheeptw.github.io/portfolio/category/%E7%A7%91%E6%8A%80/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Thu, 24 Aug 2023 14:25:19 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 25 Aug 2023 15:42:51 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,61 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>吃我一記檢舉</title>
+		<link>https://treesheeptw.github.io/portfolio/2023/08/%e5%90%83%e6%88%91%e4%b8%80%e8%a8%98%e6%aa%a2%e8%88%89/</link>
+					<comments>https://treesheeptw.github.io/portfolio/2023/08/%e5%90%83%e6%88%91%e4%b8%80%e8%a8%98%e6%aa%a2%e8%88%89/#respond</comments>
+		
+		<dc:creator><![CDATA[boris]]></dc:creator>
+		<pubDate>Fri, 25 Aug 2023 15:42:51 +0000</pubDate>
+				<category><![CDATA[科技]]></category>
+		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=443</guid>
+
+					<description><![CDATA[昨天，我上網檢舉了一個釣魚網站，看來非常有效果，因為今天再去看，已經在臺灣已經看不到這個網頁了，只會看到像封面 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="1024" height="768" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/WOvFXIN-1024x768.png" alt="" class="has-border-color has-secondary-border-color wp-image-444" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/WOvFXIN-1024x768.png 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/WOvFXIN-300x225.png 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/WOvFXIN-768x576.png 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/WOvFXIN.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">昨天，我上網<a href="https://treesheeptw.github.io/portfolio/2023/08/%e5%a6%82%e4%bd%95%e6%aa%a2%e8%88%89%e8%a9%90%e9%a8%99%e7%b6%b2%e7%ab%99/" data-type="link" data-id="https://treesheeptw.github.io/portfolio/2023/08/%e5%a6%82%e4%bd%95%e6%aa%a2%e8%88%89%e8%a9%90%e9%a8%99%e7%b6%b2%e7%ab%99/">檢舉了一個釣魚網站</a>，看來非常有效果，因為今天再去看，已經在臺灣已經<a href="http://tw-mvdls.xyz/" data-type="link" data-id="http://tw-mvdls.xyz/">看不到這個網頁了</a>，只會看到像封面圖一樣的的圖片。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">不過，讓我很疑惑的是為什麼標頭是http而非原本的https，所以我懷疑根本沒有接到原本的伺服器，只是電信商被警察局要求遮蔽這個網站而已。因此，我去收了電子郵件，發現GNAME有更新檢舉進度，而且有撤掉這個網域，如下圖。</p>
+
+
+
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="466" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/Screenshot-2023-08-25-232858-1024x466.png" alt="" class="has-border-color has-secondary-border-color wp-image-445" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/Screenshot-2023-08-25-232858-1024x466.png 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/Screenshot-2023-08-25-232858-300x136.png 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/Screenshot-2023-08-25-232858-768x349.png 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/Screenshot-2023-08-25-232858.png 1214w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">也就是說，這個網站照理來講應該無法存取，怎麼會有警察局的圖片? 我好奇地用美國VPN存取這個網頁，果然不存在。這表示GNAME確實有刪除這個網域，而警察局只是如我前面所講的一樣，做一個Landing page而已，如果從警察局管控範圍內的國內網路存取網站，就會看到封面那張圖片。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">雖然成功阻止了更多人被信用卡釣魚，但是令人擔心的是，背後的詐騙集團很有可能尚未被正義制裁，而且殺掉一個還會有第二個。因此，如果未來有看到類似的可疑網頁，一定要參考我<a href="https://treesheeptw.github.io/portfolio/2023/08/%e5%a6%82%e4%bd%95%e6%aa%a2%e8%88%89%e8%a9%90%e9%a8%99%e7%b6%b2%e7%ab%99/" data-type="link" data-id="https://treesheeptw.github.io/portfolio/2023/08/%e5%a6%82%e4%bd%95%e6%aa%a2%e8%88%89%e8%a9%90%e9%a8%99%e7%b6%b2%e7%ab%99/">上一篇文章</a>的流程檢舉網站!</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div id="cusdis_thread"
+  data-host="https://cusdis.com/"
+  data-app-id="87b84668-a924-4eb7-87c4-97a52f79f089"
+  data-page-id="{{ 吃我一記檢舉 }}"
+  data-page-url="{{ PAGE_URL }}"
+  data-page-title="{{ PAGE_TITLE }}"
+></div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/%e5%90%83%e6%88%91%e4%b8%80%e8%a8%98%e6%aa%a2%e8%88%89/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>如何檢舉詐騙網站</title>
 		<link>https://treesheeptw.github.io/portfolio/2023/08/%e5%a6%82%e4%bd%95%e6%aa%a2%e8%88%89%e8%a9%90%e9%a8%99%e7%b6%b2%e7%ab%99/</link>
 					<comments>https://treesheeptw.github.io/portfolio/2023/08/%e5%a6%82%e4%bd%95%e6%aa%a2%e8%88%89%e8%a9%90%e9%a8%99%e7%b6%b2%e7%ab%99/#respond</comments>
@@ -39,7 +94,7 @@
 
 					<description><![CDATA[我今天晚上8點多在看手機訊息時，看到了這個簡訊: 首先，我才16歲，不太可能有車，實際上也沒有。因為我們家的車 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="1024" height="681" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/taxes-tax-evasion-police-handcuffs-063cec5ae50f4c98319779b551a36850-1024x681.jpg" alt="" class="wp-image-429" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/taxes-tax-evasion-police-handcuffs-063cec5ae50f4c98319779b551a36850-1024x681.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/taxes-tax-evasion-police-handcuffs-063cec5ae50f4c98319779b551a36850-300x199.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/taxes-tax-evasion-police-handcuffs-063cec5ae50f4c98319779b551a36850-768x511.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/taxes-tax-evasion-police-handcuffs-063cec5ae50f4c98319779b551a36850-1536x1021.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/taxes-tax-evasion-police-handcuffs-063cec5ae50f4c98319779b551a36850-2048x1362.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="681" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/taxes-tax-evasion-police-handcuffs-063cec5ae50f4c98319779b551a36850-1024x681.jpg" alt="" class="wp-image-429" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/taxes-tax-evasion-police-handcuffs-063cec5ae50f4c98319779b551a36850-1024x681.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/taxes-tax-evasion-police-handcuffs-063cec5ae50f4c98319779b551a36850-300x199.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/taxes-tax-evasion-police-handcuffs-063cec5ae50f4c98319779b551a36850-768x511.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/taxes-tax-evasion-police-handcuffs-063cec5ae50f4c98319779b551a36850-1536x1021.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/taxes-tax-evasion-police-handcuffs-063cec5ae50f4c98319779b551a36850-2048x1362.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -47,7 +102,7 @@
 
 
 
-<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="768" height="341" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/signal-2023-08-24-211143.jpeg" alt="" class="has-border-color has-secondary-border-color wp-image-430" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/signal-2023-08-24-211143.jpeg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/signal-2023-08-24-211143-300x133.jpeg 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+<figure class="wp-block-image size-full has-custom-border"><img decoding="async" loading="lazy" width="768" height="341" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/signal-2023-08-24-211143.jpeg" alt="" class="has-border-color has-secondary-border-color wp-image-430" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/signal-2023-08-24-211143.jpeg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/signal-2023-08-24-211143-300x133.jpeg 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
 
 
 
@@ -59,7 +114,7 @@
 
 
 
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="576" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/Screenshot-2023-08-24-212507-1024x576.png" alt="" class="has-border-color has-secondary-border-color wp-image-431" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/Screenshot-2023-08-24-212507-1024x576.png 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/Screenshot-2023-08-24-212507-300x169.png 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/Screenshot-2023-08-24-212507-768x432.png 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/Screenshot-2023-08-24-212507-1536x864.png 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/Screenshot-2023-08-24-212507.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" loading="lazy" width="1024" height="576" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/Screenshot-2023-08-24-212507-1024x576.png" alt="" class="has-border-color has-secondary-border-color wp-image-431" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/Screenshot-2023-08-24-212507-1024x576.png 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/Screenshot-2023-08-24-212507-300x169.png 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/Screenshot-2023-08-24-212507-768x432.png 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/Screenshot-2023-08-24-212507-1536x864.png 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/Screenshot-2023-08-24-212507.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -697,167 +752,6 @@ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/</c
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/rsa%e7%9a%84%e5%8a%a0%e5%af%86%e5%8e%9f%e7%90%86-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94iss/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>AES的加密原理 &#124; 剖析勒索軟體I</title>
-		<link>https://treesheeptw.github.io/portfolio/2023/08/aes%e7%9a%84%e5%8a%a0%e5%af%86%e5%8e%9f%e7%90%86-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94i/</link>
-					<comments>https://treesheeptw.github.io/portfolio/2023/08/aes%e7%9a%84%e5%8a%a0%e5%af%86%e5%8e%9f%e7%90%86-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94i/#respond</comments>
-		
-		<dc:creator><![CDATA[boris]]></dc:creator>
-		<pubDate>Tue, 15 Aug 2023 13:02:42 +0000</pubDate>
-				<category><![CDATA[科技]]></category>
-		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=388</guid>
-
-					<description><![CDATA[我在幾個禮拜前的文章裡有開箱過一款勒索軟體，展示了勒索軟體的運作。為什麼勒索軟體是駭客界最熱門的惡意軟體形式之 [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" loading="lazy" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-389" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">我在幾個禮拜前的<a href="https://treesheeptw.github.io/portfolio/2023/07/%e7%ac%ac%e4%b8%80%e6%ac%a1%e5%9c%a8%e6%9a%97%e7%b6%b2%e8%b2%b7%e6%9d%b1%e8%a5%bf-%e6%9a%97%e7%b6%b2%e6%97%a5%e8%a8%98ii/" data-type="link" data-id="https://treesheeptw.github.io/portfolio/2023/07/%e7%ac%ac%e4%b8%80%e6%ac%a1%e5%9c%a8%e6%9a%97%e7%b6%b2%e8%b2%b7%e6%9d%b1%e8%a5%bf-%e6%9a%97%e7%b6%b2%e6%97%a5%e8%a8%98ii/">文章</a>裡有開箱過一款勒索軟體，展示了勒索軟體的運作。為什麼勒索軟體是駭客界最熱門的惡意軟體形式之一? 為什麼是很多很多資安工作者的噩夢? 今天的文章會談談近代勒索軟體最常用的加密算法之一: AES。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">你或許聽過AES-128、AES-192、AES-256&#8230;等加密算法，但是為什麼它被那麼廣泛使用? 它到底有多安全? AES的故事起源於1970年代，當時最盛行的加密方式是DES(Data Encryption Standard；數據加密標準)，使用56位對稱加密，對當時的電腦運算能力來說已經相當安全，直到1999年，有人在一天內公開破解了一組DES密鑰，說明DES已經落後當時的電腦運算速度，可以很容易被暴力破解。於是，AES(Advanced Encryption Standard；進階加密標準)就在2001年誕生了。AES是由兩個比利時密碼學家發明的，原始名稱是結合兩人姓氏的RijnDael，最後被定義成標準的就是128、192、256位的長度。</p>
-
-
-
-<figure class="wp-block-pullquote"><blockquote><p>對稱加密</p><cite>指的是加密與解密時使用相同的密鑰。<br>非對稱加密則通常有一組公鑰與一組私鑰。</cite></blockquote></figure>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">一般來說，最基本的對稱加密方法是直接運算，例如我的資料內容是2，金鑰是3，加密方式是相乘，那麼加密後的數據是6，持有金鑰3的人只要將6除以3就能得到原本的內容。但是這樣實在太簡單了，所以AES有很多不同的步驟，像是替換和移位。</p>
-
-
-
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<h1 class="wp-block-heading">AddRoundKey</h1>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">這是AES的第一個步驟，會將每一個位元組的內容都加上一位元組的round key。加入round key方式是XOR位元運算，也就是對於每個位元，如果相應位置上的兩個位元不相同，則結果位元為1，否則為0。假設要比較1010和1100，由於第一位都是1，所以結果為0；第二位分別是0和1，並不相同，所以結果為1；第二位分別是1和0，結果為1；末位都是0，所以結果為0。</p>
-
-
-
-<pre class="wp-block-code"><code>    1 0 1 0
-XOR 1 1 0 0
--------------
-    0 1 1 0</code></pre>
-
-
-
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<h1 class="wp-block-heading">循環</h1>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">以下的幾個步驟(SubBytes、ShiftRows、MixColumns、AddRoundKey)會重複數次，AES-128、192、256分別會重複9、11、13次。</p>
-
-
-
-<h2 class="wp-block-heading">SubBytes</h2>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">這個步驟會把所有位元按照<a href="https://wikiless.tiekoetter.com/wiki/Rijndael_S-box?lang=en" data-type="link" data-id="https://wikiless.tiekoetter.com/wiki/Rijndael_S-box?lang=en">Rijndael S-box</a>進行替換，原理相對簡單，就像看著對照表把英文字母替換成豬圈密碼一樣。</p>
-
-
-
-<h2 class="wp-block-heading">ShiftRows</h2>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">因為AES會把數據分成4*4的陣列(如下所示)，所以四排各四位元組的數據會是一組，而這個步驟會把最後三排的數據變換順序一定的次數。</p>
-
-
-
-<pre class="wp-block-code"><code>b0   b4   b8   b12
-b1   b5   b9   b13
-b2   b6   b10  b14
-b3   b7   b11  b15</code></pre>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">也就是b0, b4, b8, b12不會改變，且b1的橫排會左移一次，b1會補原本b13的位置；b2橫排則會左移兩次；b3橫排三次。這個步驟並沒有改變任何數據，只有移動位置，但是能確保每一列的數據是被一起加密的，否則就跟四組獨立的密碼沒兩樣。這個概念有點像S型分班。</p>
-
-
-
-<h2 class="wp-block-heading">MixColumns</h2>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">這個步驟是跟上一步相對的，基於直列進行變更，會透過可逆布林線性變換改變每一列的內容，跟上一步合在一起可以達成擴散的效果。擴散可以隱藏密文跟明文的關係，確保不能透過密文的冗餘位推測明文內容。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">跟上一個步驟不同的地方是，不同於上個步驟像魔術方塊一樣改變位置，這個步驟會改變所有位元的內容。這個步驟中，每一列都會被乘以一個固定多項式a(x) = 3x^3+x^2+x+2模除x^4+1。</p>
-
-
-
-<h2 class="wp-block-heading">AddRoundKey</h2>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">這跟前面執行的AddRoundKey一樣，只是再做一次而已。</p>
-
-
-
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<h1 class="wp-block-heading">末動作組</h1>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">最後，會再分別進行一次SubBytes、ShiftRows、AddRoundKey三個步驟。</p>
-
-
-
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">複雜的內容到此為止。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">經過這些複雜的步驟，AES可以說是相當難破解，就算是最簡單的128位AES加密，暴力破解一次也只有1/2^128的機會猜中，換成現實中的樣子，就是即使有一千萬臺運算力10Pflops的超級電腦，也要花一千億年才能破解，所以除非量子電腦普及化，不然破解AES加密是不可能的。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">雖然AES在現在硬體限制下無法破解，但是這不代表它是無懈可擊的，因為它仍有身為斷秤加密的缺點和人為操作的弱點。如果使用AES的人挑了一個很容易被猜中的密碼，那防暴力破解再怎麼強都沒用。因此，就算你用AES加密任何資料，還是建議使用電腦生成的亂碼作為密碼，才能有效保護你的資料。下次再來講講密碼管理程式或是非對稱加密吧。不過可能會拖很久，因為今天這種主題雖然對我來說並不難，但是要確保們有任何錯誤，需要花很多時間校對資料。</p>
-
-
-
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<div id="cusdis_thread"
-  data-host="https://cusdis.com/"
-  data-app-id="87b84668-a924-4eb7-87c4-97a52f79f089"
-  data-page-id="{{ AES的加密原理 | 剖析勒索軟體I }}"
-  data-page-url="{{ PAGE_URL }}"
-  data-page-title="{{ PAGE_TITLE }}"
-></div>
-<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/aes%e7%9a%84%e5%8a%a0%e5%af%86%e5%8e%9f%e7%90%86-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94i/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
