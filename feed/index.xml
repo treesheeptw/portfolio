@@ -12,13 +12,13 @@
 	<atom:link href="https://treesheeptw.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Mon, 28 Aug 2023 15:57:52 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 29 Aug 2023 15:52:59 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3</generator>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
 
 <image>
 	<url>https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/cropped-newstl_Seed-1203039_Steps-24_Guidance-10-32x32.png</url>
@@ -28,6 +28,70 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>手機續航力其實遠超一般人的想像</title>
+		<link>https://treesheeptw.github.io/portfolio/2023/08/%e6%89%8b%e6%a9%9f%e7%ba%8c%e8%88%aa%e5%8a%9b%e5%85%b6%e5%af%a6%e9%81%a0%e8%b6%85%e4%b8%80%e8%88%ac%e4%ba%ba%e7%9a%84%e6%83%b3%e5%83%8f/</link>
+					<comments>https://treesheeptw.github.io/portfolio/2023/08/%e6%89%8b%e6%a9%9f%e7%ba%8c%e8%88%aa%e5%8a%9b%e5%85%b6%e5%af%a6%e9%81%a0%e8%b6%85%e4%b8%80%e8%88%ac%e4%ba%ba%e7%9a%84%e6%83%b3%e5%83%8f/#respond</comments>
+		
+		<dc:creator><![CDATA[boris]]></dc:creator>
+		<pubDate>Tue, 29 Aug 2023 15:52:59 +0000</pubDate>
+				<category><![CDATA[科技]]></category>
+		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=463</guid>
+
+					<description><![CDATA[沒錯，圖片裡是一臺Robin。 手機絕對是現代人生活中不可或缺的工具，不論是通訊、工作或娛樂，都可以使用手機達 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/mobile-smartphone-cellphone-power-9a8f9bae0a083cd4c1b4aeadad7cf1b1-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-464" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/mobile-smartphone-cellphone-power-9a8f9bae0a083cd4c1b4aeadad7cf1b1-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/mobile-smartphone-cellphone-power-9a8f9bae0a083cd4c1b4aeadad7cf1b1-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/mobile-smartphone-cellphone-power-9a8f9bae0a083cd4c1b4aeadad7cf1b1-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/mobile-smartphone-cellphone-power-9a8f9bae0a083cd4c1b4aeadad7cf1b1-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/mobile-smartphone-cellphone-power-9a8f9bae0a083cd4c1b4aeadad7cf1b1-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="has-text-align-center">沒錯，圖片裡是一臺Robin。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">手機絕對是現代人生活中不可或缺的工具，不論是通訊、工作或娛樂，都可以使用手機達成。不過，雖然電池技術持續進步，但隨著手機設計越來越輕薄，電池容量一定會受到影響。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">不論是蘋果或是安卓，如果你曾經研究過手機裡電池使用狀況的數據，會發現有很多電池消耗其實來自系統本身。因此，我決定進行實驗，看看系統到底對電池用量有多大的影響，以及如何在不改變手機用量，只靠設定的情況下最大化手機的續航時間。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">我測試的裝置是一部安卓手機，已經使用了六年，大約四年前有換過一次電池，容量3300毫安時。以我平常的使用習慣，5000毫安時的手機充滿電的情況下至少可以使用兩天，還會剩下20~30%的電。雖然處理器及螢幕規格都會造成誤差，但是這次的實驗結果差距大到那些變數根本微不足道。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">我具體來說做了什麼改變? 首先，我完全沒有登入任何非必要的帳號，包括手機製造商的帳號、Google帳號。雖然沒有完全移除這些服務，它們可能持續運作，但是就像背空書包一樣，照理說能大大減少它們的用電。雖然確實有辦法完全不使用這些服務(例如改為安裝AOSP或LOS)，但是我想盡量貼近一般使用者(不是我這種資訊狂魔)能達到的等級。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">雖然沒有Google帳號時有些應用程式之間的整合比較麻煩，但是必要的工作總是有替代方案，例如用Aurora Store取代Google Play Store，並盡量使用FOSS應用程式以減少各種非必要的膨脹軟體。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">暫時改為使用測試用的手機幾天後，效果意外地好。雖然因為沒有使用Google Play Store而沒有移動所有應用程式，但是有使用平常的通訊軟體、網頁瀏覽、地圖等功能。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">那我要公布這樣下來一次充電帶來的續航時間了&#8230;</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">結果是: 六天二十一小時，或整整<a href="https://treesheeptw.github.io/portfolio/2023/08/%e5%a6%82%e4%bd%95%e6%aa%a2%e8%88%89%e8%a9%90%e9%a8%99%e7%b6%b2%e7%ab%99/" data-type="link" data-id="https://treesheeptw.github.io/portfolio/2023/08/%e5%a6%82%e4%bd%95%e6%aa%a2%e8%88%89%e8%a9%90%e9%a8%99%e7%b6%b2%e7%ab%99/">165</a>小時!</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">我有證據，在我的<a href="https://wxw.moe/@treesheep/110971902534089373" data-type="link" data-id="https://wxw.moe/@treesheep/110971902534089373">Mastodon貼文</a>(歡迎追蹤)，不過因為在拍照時已經移回我平常的手機，所以沒有顯示所有應用程式的用電排名，只有系統用電，但是可以從圖表看出驚人的用量曲線。它已經長到沒辦法明顯看出白天與晚上的差別了。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">所以上展示了現代電子產品的膨脹軟體的氾濫程度，說明各種非必要追蹤程式、廣告程式、遙測程式帶來的電池用量問題。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/%e6%89%8b%e6%a9%9f%e7%ba%8c%e8%88%aa%e5%8a%9b%e5%85%b6%e5%af%a6%e9%81%a0%e8%b6%85%e4%b8%80%e8%88%ac%e4%ba%ba%e7%9a%84%e6%83%b3%e5%83%8f/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>惡意軟體外流其實很危險 &#124; 剖析勒索軟體III</title>
 		<link>https://treesheeptw.github.io/portfolio/2023/08/%e6%83%a1%e6%84%8f%e8%bb%9f%e9%ab%94%e5%a4%96%e6%b5%81%e5%85%b6%e5%af%a6%e5%be%88%e5%8d%b1%e9%9a%aa-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94iii/</link>
 					<comments>https://treesheeptw.github.io/portfolio/2023/08/%e6%83%a1%e6%84%8f%e8%bb%9f%e9%ab%94%e5%a4%96%e6%b5%81%e5%85%b6%e5%af%a6%e5%be%88%e5%8d%b1%e9%9a%aa-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94iii/#respond</comments>
@@ -39,7 +103,7 @@
 
 					<description><![CDATA[在這個系列(剖析惡意軟體)的上一篇文章有提到，如果遭受惡意軟體攻擊，尤其是勒索軟體，有機會等惡意軟體程式外流或 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1024x683.jpg" alt="" class="wp-image-389" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1024x683.jpg" alt="" class="wp-image-389" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -99,7 +163,7 @@
 
 					<description><![CDATA[昨天的文章裡，有提到臺灣的警察局會封鎖詐騙的網頁，不過這是網路層級的，也就是可以用VPN或Proxy輕鬆繞過， [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/asia-china-clouds-great-wall-of-china-aaef2b0e4a489cc421740ebdcd0c6171-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-448" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/asia-china-clouds-great-wall-of-china-aaef2b0e4a489cc421740ebdcd0c6171-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/asia-china-clouds-great-wall-of-china-aaef2b0e4a489cc421740ebdcd0c6171-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/asia-china-clouds-great-wall-of-china-aaef2b0e4a489cc421740ebdcd0c6171-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/asia-china-clouds-great-wall-of-china-aaef2b0e4a489cc421740ebdcd0c6171-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/asia-china-clouds-great-wall-of-china-aaef2b0e4a489cc421740ebdcd0c6171-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" loading="lazy" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/asia-china-clouds-great-wall-of-china-aaef2b0e4a489cc421740ebdcd0c6171-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-448" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/asia-china-clouds-great-wall-of-china-aaef2b0e4a489cc421740ebdcd0c6171-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/asia-china-clouds-great-wall-of-china-aaef2b0e4a489cc421740ebdcd0c6171-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/asia-china-clouds-great-wall-of-china-aaef2b0e4a489cc421740ebdcd0c6171-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/asia-china-clouds-great-wall-of-china-aaef2b0e4a489cc421740ebdcd0c6171-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/asia-china-clouds-great-wall-of-china-aaef2b0e4a489cc421740ebdcd0c6171-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -654,42 +718,6 @@ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/</c
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/%e6%9a%97%e7%b6%b2%e7%b6%b2%e7%ab%99%e6%80%8e%e9%ba%bc%e6%89%be-%e6%9a%97%e7%b6%b2%e6%97%a5%e8%a8%98iv/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>飛航模式(假)</title>
-		<link>https://treesheeptw.github.io/portfolio/2023/08/%e9%a3%9b%e8%88%aa%e6%a8%a1%e5%bc%8f%e5%81%87/</link>
-					<comments>https://treesheeptw.github.io/portfolio/2023/08/%e9%a3%9b%e8%88%aa%e6%a8%a1%e5%bc%8f%e5%81%87/#respond</comments>
-		
-		<dc:creator><![CDATA[boris]]></dc:creator>
-		<pubDate>Sat, 19 Aug 2023 15:47:00 +0000</pubDate>
-				<category><![CDATA[科技]]></category>
-		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=412</guid>
-
-					<description><![CDATA[前天，知名蘋果MDM供應商Jamf發表一篇文章，說明有漏洞使iOS16裝置有辦法被駭客操控並錯誤顯示飛航模式( [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" loading="lazy" width="1024" height="684" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/airplane-travel-adventure-plane-81c7c1400c7b9b69fb83c057885fb2b1-1024x684.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-413" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/airplane-travel-adventure-plane-81c7c1400c7b9b69fb83c057885fb2b1-1024x684.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/airplane-travel-adventure-plane-81c7c1400c7b9b69fb83c057885fb2b1-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/airplane-travel-adventure-plane-81c7c1400c7b9b69fb83c057885fb2b1-768x513.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/airplane-travel-adventure-plane-81c7c1400c7b9b69fb83c057885fb2b1-1536x1025.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/airplane-travel-adventure-plane-81c7c1400c7b9b69fb83c057885fb2b1-2048x1367.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">前天，知名蘋果MDM供應商Jamf發表一篇<a href="https://www.jamf.com/blog/fake-airplane-mode-a-mobile-tampering-technique-to-maintain-connectivity/" data-type="link" data-id="https://www.jamf.com/blog/fake-airplane-mode-a-mobile-tampering-technique-to-maintain-connectivity/">文章</a>，說明有漏洞使iOS16裝置有辦法被駭客操控並錯誤顯示飛航模式(偽飛航模式陽性)。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">雖然飛航模式本身不是什麼很危險的東西，但是沒有在飛航模式的狀態下欺騙使用者裝置在飛航模式卻很危險。這有辦法讓駭客在(使用者認為)沒有連上網路的情況下透過網路存取使用者的裝置。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">在研究團隊的示範裡，他們用一個空的函數取代了原本的程式碼，但是由於使用者介面與網路控制是由不同常駐程式(daemon)操作的，導致表面上已經進入飛航模式，但是沒有斷開網路。到目前為止沒有很危險，因為使用者會發現其裝置還接著網路，不過更恐怖的是，駭客可以修改網路控制的常駐程式，讓特定應用程式無法存取網路。這表示駭客可以關掉所有應用程式的網路存取權，只保留讓駭客存取裝置的後門程式的網路存取，讓使用者真的以為裝置處於飛航模式。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">但是你或許還不用擔心，因為要進行這樣的攻擊，駭客必須對目標裝置有完全控制。雖然如此，但是這是一種相對前衛、稀有的攻擊方式，所以不論你是否使用iOS16裝置都要小心，因為其他系統也有可能存在漏洞，使其有面臨類似攻擊的風險。</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/%e9%a3%9b%e8%88%aa%e6%a8%a1%e5%bc%8f%e5%81%87/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -4,11 +4,11 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="max-image-preview:large">
-<title>RSA的加密原理 | 剖析勒索軟體Iss &#8211; 樹羊</title>
+<title>手機續航力其實遠超一般人的想像 &#8211; 樹羊</title>
 <link href="https://fonts.gstatic.com/" crossorigin rel="preconnect">
 <link rel="alternate" type="application/rss+xml" title="訂閱《樹羊》&raquo; 資訊提供" href="https://treesheeptw.github.io/portfolio/feed/">
 <link rel="alternate" type="application/rss+xml" title="訂閱《樹羊》&raquo; 留言的資訊提供" href="https://treesheeptw.github.io/portfolio/comments/feed/">
-<link rel="alternate" type="application/rss+xml" title="訂閱《樹羊 》&raquo;〈RSA的加密原理 | 剖析勒索軟體Iss〉留言的資訊提供" href="https://treesheeptw.github.io/portfolio/2023/08/rsa%e7%9a%84%e5%8a%a0%e5%af%86%e5%8e%9f%e7%90%86-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94iss/feed/">
+<link rel="alternate" type="application/rss+xml" title="訂閱《樹羊 》&raquo;〈手機續航力其實遠超一般人的想像〉留言的資訊提供" href="https://treesheeptw.github.io/portfolio/2023/08/%e6%89%8b%e6%a9%9f%e7%ba%8c%e8%88%aa%e5%8a%9b%e5%85%b6%e5%af%a6%e9%81%a0%e8%b6%85%e4%b8%80%e8%88%ac%e4%ba%ba%e7%9a%84%e6%83%b3%e5%83%8f/feed/">
 <script>
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/treesheeptw.github.io\/portfolio\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.3.1"}};
 /*! This file is auto-generated */
@@ -48,9 +48,8 @@ img.emoji {
 .wp-block-post-title a:where(:not(.wp-element-button)):active{color: var(--wp--preset--color--secondary);text-decoration: none;}</style>
 <style id="wp-block-image-inline-css">.wp-block-image img{box-sizing:border-box;height:auto;max-width:100%;vertical-align:bottom}.wp-block-image[style*=border-radius] img,.wp-block-image[style*=border-radius]>a{border-radius:inherit}.wp-block-image.has-custom-border img{box-sizing:border-box}.wp-block-image.aligncenter{text-align:center}.wp-block-image.alignfull img,.wp-block-image.alignwide img{height:auto;width:100%}.wp-block-image .aligncenter,.wp-block-image .alignleft,.wp-block-image .alignright,.wp-block-image.aligncenter,.wp-block-image.alignleft,.wp-block-image.alignright{display:table}.wp-block-image .aligncenter>figcaption,.wp-block-image .alignleft>figcaption,.wp-block-image .alignright>figcaption,.wp-block-image.aligncenter>figcaption,.wp-block-image.alignleft>figcaption,.wp-block-image.alignright>figcaption{caption-side:bottom;display:table-caption}.wp-block-image .alignleft{float:left;margin:.5em 1em .5em 0}.wp-block-image .alignright{float:right;margin:.5em 0 .5em 1em}.wp-block-image .aligncenter{margin-left:auto;margin-right:auto}.wp-block-image figcaption{margin-bottom:1em;margin-top:.5em}.wp-block-image .is-style-rounded img,.wp-block-image.is-style-circle-mask img,.wp-block-image.is-style-rounded img{border-radius:9999px}@supports ((-webkit-mask-image:none) or (mask-image:none)) or (-webkit-mask-image:none){.wp-block-image.is-style-circle-mask img{border-radius:0;-webkit-mask-image:url('data:image/svg+xml;utf8,<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50"/></svg>');mask-image:url('data:image/svg+xml;utf8,<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50"/></svg>');mask-mode:alpha;-webkit-mask-position:center;mask-position:center;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat;-webkit-mask-size:contain;mask-size:contain}}.wp-block-image :where(.has-border-color){border-style:solid}.wp-block-image :where([style*=border-top-color]){border-top-style:solid}.wp-block-image :where([style*=border-right-color]){border-right-style:solid}.wp-block-image :where([style*=border-bottom-color]){border-bottom-style:solid}.wp-block-image :where([style*=border-left-color]){border-left-style:solid}.wp-block-image :where([style*=border-width]){border-style:solid}.wp-block-image :where([style*=border-top-width]){border-top-style:solid}.wp-block-image :where([style*=border-right-width]){border-right-style:solid}.wp-block-image :where([style*=border-bottom-width]){border-bottom-style:solid}.wp-block-image :where([style*=border-left-width]){border-left-style:solid}.wp-block-image figure{margin:0}.wp-lightbox-container .img-container{position:relative}.wp-lightbox-container button{background:none;border:none;cursor:zoom-in;height:100%;position:absolute;width:100%;z-index:100}.wp-lightbox-container button:focus-visible{outline:5px auto #212121;outline:5px auto -webkit-focus-ring-color;outline-offset:5px}.wp-lightbox-overlay{height:100vh;left:0;overflow:hidden;position:fixed;top:0;visibility:hidden;width:100vw;z-index:100000}.wp-lightbox-overlay .close-button{cursor:pointer;padding:0;position:absolute;right:12.5px;top:12.5px;z-index:5000000}.wp-lightbox-overlay .wp-block-image{align-items:center;box-sizing:border-box;display:flex;flex-direction:column;height:100%;justify-content:center;position:absolute;width:100%;z-index:3000000}.wp-lightbox-overlay .wp-block-image figcaption{display:none}.wp-lightbox-overlay .wp-block-image img{max-height:100%;max-width:100%;width:auto}.wp-lightbox-overlay button{background:none;border:none}.wp-lightbox-overlay .scrim{background-color:#fff;height:100%;opacity:.9;position:absolute;width:100%;z-index:2000000}.wp-lightbox-overlay.fade.active{animation:turn-on-visibility .25s both;visibility:visible}.wp-lightbox-overlay.fade.active img{animation:turn-on-visibility .3s both}.wp-lightbox-overlay.fade.hideanimationenabled:not(.active){animation:turn-off-visibility .3s both}.wp-lightbox-overlay.fade.hideanimationenabled:not(.active) img{animation:turn-off-visibility .25s both}.wp-lightbox-overlay.zoom img{height:var(--lightbox-image-max-height);position:absolute;transform-origin:top left;width:var(--lightbox-image-max-width)}.wp-lightbox-overlay.zoom.active{opacity:1;visibility:visible}.wp-lightbox-overlay.zoom.active .wp-block-image img{animation:lightbox-zoom-in .4s forwards}@media (prefers-reduced-motion){.wp-lightbox-overlay.zoom.active .wp-block-image img{animation:turn-on-visibility .4s both}}.wp-lightbox-overlay.zoom.active .scrim{animation:turn-on-visibility .4s forwards}.wp-lightbox-overlay.zoom.hideanimationenabled:not(.active) .wp-block-image img{animation:lightbox-zoom-out .4s forwards}@media (prefers-reduced-motion){.wp-lightbox-overlay.zoom.hideanimationenabled:not(.active) .wp-block-image img{animation:turn-off-visibility .4s both}}.wp-lightbox-overlay.zoom.hideanimationenabled:not(.active) .scrim{animation:turn-off-visibility .4s forwards}html.has-lightbox-open{overflow:hidden}@keyframes turn-on-visibility{0%{opacity:0}to{opacity:1}}@keyframes turn-off-visibility{0%{opacity:1;visibility:visible}99%{opacity:0;visibility:visible}to{opacity:0;visibility:hidden}}@keyframes lightbox-zoom-in{0%{left:var(--lightbox-initial-left-position);top:var(--lightbox-initial-top-position);transform:scale(var(--lightbox-scale-width),var(--lightbox-scale-height))}to{left:var(--lightbox-target-left-position);top:var(--lightbox-target-top-position);transform:scale(1)}}@keyframes lightbox-zoom-out{0%{left:var(--lightbox-target-left-position);top:var(--lightbox-target-top-position);transform:scale(1);visibility:visible}99%{visibility:visible}to{left:var(--lightbox-initial-left-position);top:var(--lightbox-initial-top-position);transform:scale(var(--lightbox-scale-width),var(--lightbox-scale-height))}}</style>
 <style id="wp-block-paragraph-inline-css">.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}p.has-background{padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}</style>
-<style id="wp-block-list-inline-css">ol,ul{box-sizing:border-box}ol.has-background,ul.has-background{padding:1.25em 2.375em}</style>
-<style id="wp-block-spacer-inline-css">.wp-block-spacer{clear:both}</style>
 <style id="wp-block-post-content-inline-css">.wp-block-post-content a:where(:not(.wp-element-button)){color: var(--wp--preset--color--secondary);}</style>
+<style id="wp-block-spacer-inline-css">.wp-block-spacer{clear:both}</style>
 <style id="wp-block-separator-inline-css">@charset "UTF-8";.wp-block-separator{border:1px solid;border-left:none;border-right:none}.wp-block-separator.is-style-dots{background:none!important;border:none;height:auto;line-height:1;text-align:center}.wp-block-separator.is-style-dots:before{color:currentColor;content:"···";font-family:serif;font-size:1.5em;letter-spacing:2em;padding-left:2em}</style>
 <style id="wp-block-post-date-inline-css">.wp-block-post-date{box-sizing:border-box}
 .wp-block-post-date{font-size: var(--wp--preset--font-size--small);font-weight: 400;}
@@ -71,13 +70,13 @@ img.emoji {
 <script src="https://treesheeptw.github.io/portfolio/wp-includes/js/jquery/jquery.min.js?ver=3.7.0" id="jquery-core-js"></script>
 <script src="https://treesheeptw.github.io/portfolio/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
 <link rel="https://api.w.org/" href="https://treesheeptw.github.io/portfolio/wp-json/">
-<link rel="alternate" type="application/json" href="https://treesheeptw.github.io/portfolio/wp-json/wp/v2/posts/396">
+<link rel="alternate" type="application/json" href="https://treesheeptw.github.io/portfolio/wp-json/wp/v2/posts/463">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://treesheeptw.github.io/portfolio/xmlrpc.php?rsd">
 <meta name="generator" content="WordPress 6.3.1">
-<link rel="canonical" href="https://treesheeptw.github.io/portfolio/2023/08/rsa%e7%9a%84%e5%8a%a0%e5%af%86%e5%8e%9f%e7%90%86-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94iss/">
-<link rel="shortlink" href="https://treesheeptw.github.io/portfolio/?p=396">
-<link rel="alternate" type="application/json+oembed" href="https://treesheeptw.github.io/portfolio/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftreesheeptw.github.io%2Fportfolio%2F2023%2F08%2Frsa%25e7%259a%2584%25e5%258a%25a0%25e5%25af%2586%25e5%258e%259f%25e7%2590%2586-%25e5%2589%2596%25e6%259e%2590%25e5%258b%2592%25e7%25b4%25a2%25e8%25bb%259f%25e9%25ab%2594iss%2F">
-<link rel="alternate" type="text/xml+oembed" href="https://treesheeptw.github.io/portfolio/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftreesheeptw.github.io%2Fportfolio%2F2023%2F08%2Frsa%25e7%259a%2584%25e5%258a%25a0%25e5%25af%2586%25e5%258e%259f%25e7%2590%2586-%25e5%2589%2596%25e6%259e%2590%25e5%258b%2592%25e7%25b4%25a2%25e8%25bb%259f%25e9%25ab%2594iss%2F#038;format=xml">
+<link rel="canonical" href="https://treesheeptw.github.io/portfolio/2023/08/%e6%89%8b%e6%a9%9f%e7%ba%8c%e8%88%aa%e5%8a%9b%e5%85%b6%e5%af%a6%e9%81%a0%e8%b6%85%e4%b8%80%e8%88%ac%e4%ba%ba%e7%9a%84%e6%83%b3%e5%83%8f/">
+<link rel="shortlink" href="https://treesheeptw.github.io/portfolio/?p=463">
+<link rel="alternate" type="application/json+oembed" href="https://treesheeptw.github.io/portfolio/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftreesheeptw.github.io%2Fportfolio%2F2023%2F08%2F%25e6%2589%258b%25e6%25a9%259f%25e7%25ba%258c%25e8%2588%25aa%25e5%258a%259b%25e5%2585%25b6%25e5%25af%25a6%25e9%2581%25a0%25e8%25b6%2585%25e4%25b8%2580%25e8%2588%25ac%25e4%25ba%25ba%25e7%259a%2584%25e6%2583%25b3%25e5%2583%258f%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://treesheeptw.github.io/portfolio/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftreesheeptw.github.io%2Fportfolio%2F2023%2F08%2F%25e6%2589%258b%25e6%25a9%259f%25e7%25ba%258c%25e8%2588%25aa%25e5%258a%259b%25e5%2585%25b6%25e5%25af%25a6%25e9%2581%25a0%25e8%25b6%2585%25e4%25b8%2580%25e8%2588%25ac%25e4%25ba%25ba%25e7%259a%2584%25e6%2583%25b3%25e5%2583%258f%2F#038;format=xml">
 <link rel="icon" href="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/cropped-newstl_Seed-1203039_Steps-24_Guidance-10-32x32.png" sizes="32x32">
 <link rel="icon" href="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/cropped-newstl_Seed-1203039_Steps-24_Guidance-10-192x192.png" sizes="192x192">
 <link rel="apple-touch-icon" href="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/cropped-newstl_Seed-1203039_Steps-24_Guidance-10-180x180.png">
@@ -2307,7 +2306,7 @@ font-family: "Klee One" !important;
 	<!-- Fonts Plugin CSS -->
 	</head>
 
-<body class="post-template-default single single-post postid-396 single-format-standard wp-custom-logo wp-embed-responsive twentytwentythree">
+<body class="post-template-default single single-post postid-463 single-format-standard wp-custom-logo wp-embed-responsive twentytwentythree">
 
 <div class="wp-site-blocks">
 <header class="wp-block-template-part">
@@ -2332,78 +2331,55 @@ font-family: "Klee One" !important;
 
 
 <main class="wp-block-group is-layout-flow wp-block-group-is-layout-flow" style="margin-top:var(--wp--preset--spacing--50)">
-<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained"><h1 style="margin-bottom:var(--wp--preset--spacing--40);" class="wp-block-post-title">RSA的加密原理 | 剖析勒索軟體Iss</h1></div>
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained"><h1 style="margin-bottom:var(--wp--preset--spacing--40);" class="wp-block-post-title">手機續航力其實遠超一般人的想像</h1></div>
 
 
 <div class="entry-content wp-block-post-content has-global-padding is-layout-constrained wp-block-post-content-is-layout-constrained">
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-389" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/mobile-smartphone-cellphone-power-9a8f9bae0a083cd4c1b4aeadad7cf1b1-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-464" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/mobile-smartphone-cellphone-power-9a8f9bae0a083cd4c1b4aeadad7cf1b1-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/mobile-smartphone-cellphone-power-9a8f9bae0a083cd4c1b4aeadad7cf1b1-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/mobile-smartphone-cellphone-power-9a8f9bae0a083cd4c1b4aeadad7cf1b1-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/mobile-smartphone-cellphone-power-9a8f9bae0a083cd4c1b4aeadad7cf1b1-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/mobile-smartphone-cellphone-power-9a8f9bae0a083cd4c1b4aeadad7cf1b1-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
 
 
 
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">我在昨天的<a href="https://treesheeptw.github.io/portfolio/2023/08/aes%e7%9a%84%e5%8a%a0%e5%af%86%e5%8e%9f%e7%90%86-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94i/" data-type="link" data-id="https://treesheeptw.github.io/portfolio/2023/08/aes%e7%9a%84%e5%8a%a0%e5%af%86%e5%8e%9f%e7%90%86-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94i/">文章</a>裡簡單講解了AES的加密原理，並且有提到對稱加密與非對稱加密，而今天要來講講最有名的現代非對稱加密算法: RSA。雖然較少被勒索軟體使用，但是有很多有趣的地方可以拿來講解和比較。</p>
+<p class="has-text-align-center">沒錯，圖片裡是一臺Robin。</p>
 
 
 
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">如果你不知道對稱與非對稱加密的差別，對稱加密就是只有一組密鑰，非對稱則是有一組公鑰和一組私鑰。換成現實中的物品形容，對稱加密就像使用傳統鑰匙的，上鎖和解所都要使用鑰匙；非對稱加密則是像一些電子門鎖一樣，關起來就上鎖，但是姐所需要輸入密碼，或是上鎖與解鎖使用不同密碼。</p>
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">手機絕對是現代人生活中不可或缺的工具，不論是通訊、工作或娛樂，都可以使用手機達成。不過，雖然電池技術持續進步，但隨著手機設計越來越輕薄，電池容量一定會受到影響。</p>
 
 
 
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">昨天提到的AES命名是直接以用途命名(進階加密標準)，但是RSA跟AES的原名RijnDael很像是取三位發明者名字的開頭而成。很巧的是，AES的前身DES被訂為標準的1977年剛好就是RSA被發明的那年。</p>
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">不論是蘋果或是安卓，如果你曾經研究過手機裡電池使用狀況的數據，會發現有很多電池消耗其實來自系統本身。因此，我決定進行實驗，看看系統到底對電池用量有多大的影響，以及如何在不改變手機用量，只靠設定的情況下最大化手機的續航時間。</p>
 
 
 
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">RSA跟AES一樣有五個不同的步驟，不過相對於AES，邏輯都非常簡單，以下將講解各個步驟的執行方式:</p>
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">我測試的裝置是一部安卓手機，已經使用了六年，大約四年前有換過一次電池，容量3300毫安時。以我平常的使用習慣，5000毫安時的手機充滿電的情況下至少可以使用兩天，還會剩下20~30%的電。雖然處理器及螢幕規格都會造成誤差，但是這次的實驗結果差距大到那些變數根本微不足道。</p>
 
 
 
-<ol>
-<li style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">選擇兩個相異的質數p與q。</li>
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">我具體來說做了什麼改變? 首先，我完全沒有登入任何非必要的帳號，包括手機製造商的帳號、Google帳號。雖然沒有完全移除這些服務，它們可能持續運作，但是就像背空書包一樣，照理說能大大減少它們的用電。雖然確實有辦法完全不使用這些服務(例如改為安裝AOSP或LOS)，但是我想盡量貼近一般使用者(不是我這種資訊狂魔)能達到的等級。</p>
 
 
 
-<li style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">計算 n = pq。這將是加密和解密過程中使用的模數。</li>
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">雖然沒有Google帳號時有些應用程式之間的整合比較麻煩，但是必要的工作總是有替代方案，例如用Aurora Store取代Google Play Store，並盡量使用FOSS應用程式以減少各種非必要的膨脹軟體。</p>
 
 
 
-<li style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">計算卡邁克爾歐拉函數 λ(n)，用於確定與 n 互質的數字個數。計算 λ(n) 的方法是找到 p-1 和 q-1 的最小公倍數λ(n) = lcm(p − 1, q − 1)。</li>
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">暫時改為使用測試用的手機幾天後，效果意外地好。雖然因為沒有使用Google Play Store而沒有移動所有應用程式，但是有使用平常的通訊軟體、網頁瀏覽、地圖等功能。</p>
 
 
 
-<li style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">選擇公開金鑰的指數 e，也就是要找到一個小於 λ(n)且與之互質的數字。這個數字將被用來加密明文。</li>
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">那我要公布這樣下來一次充電帶來的續航時間了&#8230;</p>
 
 
 
-<li style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">計算私密金鑰的指數 d。它會是公開金鑰指數 e 在模 λ(n) 下的反元素，也就是說，要找一個數字 d，使 (e × d) mod λ(n) = 1。</li>
-</ol>
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">結果是: 六天二十一小時，或整整<a href="https://treesheeptw.github.io/portfolio/2023/08/%e5%a6%82%e4%bd%95%e6%aa%a2%e8%88%89%e8%a9%90%e9%a8%99%e7%b6%b2%e7%ab%99/" data-type="link" data-id="https://treesheeptw.github.io/portfolio/2023/08/%e5%a6%82%e4%bd%95%e6%aa%a2%e8%88%89%e8%a9%90%e9%a8%99%e7%b6%b2%e7%ab%99/">165</a>小時!</p>
 
 
 
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">是不是比AES好理解很多? 有了公鑰(質數乘積n和指數e)和私鑰(質數乘積n和指數d)，要加密或解密，分別要將明文m(未加密的內容)與密文c(加密過的內容)乘自己e和d次，也就是如下面所示:</p>
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">我有證據，在我的<a href="https://wxw.moe/@treesheep/110971902534089373" data-type="link" data-id="https://wxw.moe/@treesheep/110971902534089373">Mastodon貼文</a>(歡迎追蹤)，不過因為在拍照時已經移回我平常的手機，所以沒有顯示所有應用程式的用電排名，只有系統用電，但是可以從圖表看出驚人的用量曲線。它已經長到沒辦法明顯看出白天與晚上的差別了。</p>
 
 
 
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">c(m) = m^e mod n</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">m(c) = c^d mod n</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">由於e, d, n都是被控制的，所以整數模n時一定是整數。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">因為通常會挑選很大的數字作為p和q，所以要解密的時候要對非常大的乘積n(通常是二進位數字個位數，例如1024, 2048&#8230;)進行質因數分解，因此需要很強大的計算能力，但是不同於AES，是現代超級電腦有辦法在有限時間內破解的。</p>
-
-
-
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<div id="cusdis_thread" data-host="https://cusdis.com" data-app-id="87b84668-a924-4eb7-87c4-97a52f79f089" data-page-id="{{ RSA的加密原理 | 剖析勒索軟體Iss }}" data-page-url="{{ PAGE_URL }}" data-page-title="{{ PAGE_TITLE }}"></div>
-<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">所以上展示了現代電子產品的膨脹軟體的氾濫程度，說明各種非必要追蹤程式、廣告程式、遙測程式帶來的電池用量問題。</p>
 </div>
 
 <div class="wp-block-template-part">
@@ -2422,7 +2398,7 @@ font-family: "Klee One" !important;
 <p>  </p>
 
 
-<div class="wp-block-post-date"><time datetime="2023-08-16T23:22:23+08:00">2023 年 8 月 16 日</time></div>
+<div class="wp-block-post-date"><time datetime="2023-08-29T23:52:59+08:00">2023 年 8 月 29 日</time></div>
 
 
 <p>
