@@ -12,7 +12,7 @@
 	<atom:link href="https://treesheeptw.github.io/portfolio/category/%E7%A7%91%E6%8A%80/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Fri, 01 Sep 2023 06:43:37 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 02 Sep 2023 15:39:11 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,46 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>火車也能被駭客攻擊?</title>
+		<link>https://treesheeptw.github.io/portfolio/2023/09/%e7%81%ab%e8%bb%8a%e4%b9%9f%e8%83%bd%e8%a2%ab%e9%a7%ad%e5%ae%a2%e6%94%bb%e6%93%8a/</link>
+					<comments>https://treesheeptw.github.io/portfolio/2023/09/%e7%81%ab%e8%bb%8a%e4%b9%9f%e8%83%bd%e8%a2%ab%e9%a7%ad%e5%ae%a2%e6%94%bb%e6%93%8a/#respond</comments>
+		
+		<dc:creator><![CDATA[boris]]></dc:creator>
+		<pubDate>Sat, 02 Sep 2023 15:39:11 +0000</pubDate>
+				<category><![CDATA[科技]]></category>
+		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=475</guid>
+
+					<description><![CDATA[(我刻意找了一張波蘭鐵軌的圖) 現在，人們已經對電腦駭客見怪不怪，但是火車為什麼也會被駭? 你可能會覺得駭入火 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="1024" height="678" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/auschwitz-birkenau-rail-train-d68c5544174039530a30c520a64b5a78-1024x678.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-476" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/auschwitz-birkenau-rail-train-d68c5544174039530a30c520a64b5a78-1024x678.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/auschwitz-birkenau-rail-train-d68c5544174039530a30c520a64b5a78-300x199.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/auschwitz-birkenau-rail-train-d68c5544174039530a30c520a64b5a78-768x509.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/auschwitz-birkenau-rail-train-d68c5544174039530a30c520a64b5a78-1536x1017.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/auschwitz-birkenau-rail-train-d68c5544174039530a30c520a64b5a78-2048x1356.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="has-text-align-center">(我刻意找了一張波蘭鐵軌的圖)</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">現在，人們已經對電腦駭客見怪不怪，但是火車為什麼也會被駭? 你可能會覺得駭入火車的控制系統需要很強的技術，但是幾天前發生的事件卻不是如此。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">前一兩週，波蘭連續發生火車服務停擺的情況。不是售票系統故障，也不是時刻表被修改，而是很多火車都在行進中突然停下。你可能會覺得這是很高端的駭客技術才能達成的事情，因為可能要獲得對控制中心的存取。不過，最後卻被發現是金錢成本與技術門檻都非常低的攻擊方式。你可能知道現代火車車廂或平交道都會有緊急停止按鈕，可以在緊急時停下火車避免造成危險。在歐盟國家中，有法律規定所有火車都要有遠端停下火車的功能，並且訊號要在指定的頻率範圍內。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">因為頻率都是已知的或有很小的範圍限制，所以駭客只需要有對講機，就能發出一樣的訊號，因此金錢成本非常低，可能只要幾百塊。這個原理就跟有學習功能的電視遙控器一樣。有學習功能的電視遙控器透過輸入正確的訊號，只要記下它並複製一樣的訊號就能操控電視機。這個功能在有些手機裡也看得到，甚至手錶也可能會有。我的其中一支手錶就有個遙控器應用程式，可以從冷氣或電視的廠商列表中找到資料庫裡功能與訊號的對照，所以可以透過手錶操控電視或冷氣。雖然攻擊者可能不知道確切的頻率，但是因為規定的頻率範圍很小，所以很容易被暴力破解。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">找到攻擊手法後，雖然相關機關有打算開始修改規定，讓這個功能有防盜機制，或是改用其他媒介執行這個功能，但是要做出任何改變都要時間，所以未來說不定還會出現類似攻擊。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/09/%e7%81%ab%e8%bb%8a%e4%b9%9f%e8%83%bd%e8%a2%ab%e9%a7%ad%e5%ae%a2%e6%94%bb%e6%93%8a/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>我試了AI料理</title>
 		<link>https://treesheeptw.github.io/portfolio/2023/09/%e6%88%91%e8%a9%a6%e4%ba%86ai%e6%96%99%e7%90%86/</link>
 					<comments>https://treesheeptw.github.io/portfolio/2023/09/%e6%88%91%e8%a9%a6%e4%ba%86ai%e6%96%99%e7%90%86/#respond</comments>
@@ -39,7 +79,7 @@
 
 					<description><![CDATA[雖然已經開學了，但是我爸部的時間還是在家裡上課，又因為家人平常都不在家，所以我近期開始嘗試學習料理。 雖然家裡 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="1024" height="461" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/signal-2023-09-01-141239-1024x461.jpeg" alt="" class="has-border-color has-secondary-border-color wp-image-472" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/signal-2023-09-01-141239-1024x461.jpeg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/signal-2023-09-01-141239-300x135.jpeg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/signal-2023-09-01-141239-768x346.jpeg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/signal-2023-09-01-141239-1536x691.jpeg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/signal-2023-09-01-141239.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="461" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/signal-2023-09-01-141239-1024x461.jpeg" alt="" class="has-border-color has-secondary-border-color wp-image-472" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/signal-2023-09-01-141239-1024x461.jpeg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/signal-2023-09-01-141239-300x135.jpeg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/signal-2023-09-01-141239-768x346.jpeg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/signal-2023-09-01-141239-1536x691.jpeg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/signal-2023-09-01-141239.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -242,7 +282,7 @@
 
 					<description><![CDATA[經歷了前所未有的忙碌(因為每天發文)暑假，終於開學了! 身為數位時代的高中生，我的學習嚴重仰賴電子產品，所以接 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="576" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/numbers-education-kindergarten-school-c920782d51eaed4bb647b8bf20f166ed-1024x576.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-466" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/numbers-education-kindergarten-school-c920782d51eaed4bb647b8bf20f166ed-1024x576.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/numbers-education-kindergarten-school-c920782d51eaed4bb647b8bf20f166ed-300x169.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/numbers-education-kindergarten-school-c920782d51eaed4bb647b8bf20f166ed-768x432.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/numbers-education-kindergarten-school-c920782d51eaed4bb647b8bf20f166ed-1536x864.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/numbers-education-kindergarten-school-c920782d51eaed4bb647b8bf20f166ed.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" loading="lazy" width="1024" height="576" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/numbers-education-kindergarten-school-c920782d51eaed4bb647b8bf20f166ed-1024x576.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-466" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/numbers-education-kindergarten-school-c920782d51eaed4bb647b8bf20f166ed-1024x576.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/numbers-education-kindergarten-school-c920782d51eaed4bb647b8bf20f166ed-300x169.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/numbers-education-kindergarten-school-c920782d51eaed4bb647b8bf20f166ed-768x432.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/numbers-education-kindergarten-school-c920782d51eaed4bb647b8bf20f166ed-1536x864.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/numbers-education-kindergarten-school-c920782d51eaed4bb647b8bf20f166ed.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -695,87 +735,6 @@ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/</c
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/%e5%a6%82%e4%bd%95%e6%aa%a2%e8%88%89%e8%a9%90%e9%a8%99%e7%b6%b2%e7%ab%99/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>我要預言X的失敗 (下)</title>
-		<link>https://treesheeptw.github.io/portfolio/2023/08/%e6%88%91%e8%a6%81%e9%a0%90%e8%a8%80x%e7%9a%84%e5%a4%b1%e6%95%97-%e4%b8%8b/</link>
-					<comments>https://treesheeptw.github.io/portfolio/2023/08/%e6%88%91%e8%a6%81%e9%a0%90%e8%a8%80x%e7%9a%84%e5%a4%b1%e6%95%97-%e4%b8%8b/#respond</comments>
-		
-		<dc:creator><![CDATA[boris]]></dc:creator>
-		<pubDate>Wed, 23 Aug 2023 15:04:43 +0000</pubDate>
-				<category><![CDATA[科技]]></category>
-		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=424</guid>
-
-					<description><![CDATA[昨天，我的文章討論了X(Twitter)的改名為什麼有可能將它帶來失敗。今天則是要來談談它的新政策可能帶來的衝 [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" loading="lazy" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/twitter-facebook-together-exchange-of-information-534f17174ef2e7e4664aaab4649ddf7a-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-421" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/twitter-facebook-together-exchange-of-information-534f17174ef2e7e4664aaab4649ddf7a-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/twitter-facebook-together-exchange-of-information-534f17174ef2e7e4664aaab4649ddf7a-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/twitter-facebook-together-exchange-of-information-534f17174ef2e7e4664aaab4649ddf7a-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/twitter-facebook-together-exchange-of-information-534f17174ef2e7e4664aaab4649ddf7a-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/twitter-facebook-together-exchange-of-information-534f17174ef2e7e4664aaab4649ddf7a-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">昨天，我的<a href="https://treesheeptw.github.io/portfolio/2023/08/%e6%88%91%e8%a6%81%e9%a0%90%e8%a8%80x%e7%9a%84%e5%a4%b1%e6%95%97-%e4%b8%8a/" data-type="link" data-id="https://treesheeptw.github.io/portfolio/2023/08/%e6%88%91%e8%a6%81%e9%a0%90%e8%a8%80x%e7%9a%84%e5%a4%b1%e6%95%97-%e4%b8%8a/">文章</a>討論了X(Twitter)的改名為什麼有可能將它帶來失敗。今天則是要來談談它的新政策可能帶來的衝擊。</p>
-
-
-
-<h1 class="wp-block-heading">不能不封鎖</h1>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">前幾天，Elon Musk宣布X要取消站內信以外的Twitter用戶封鎖(黑名單)功能。這個舉動看似毫無意義，但實際上我也不理解為何要這樣做，因為我只看得到這麼做的缺點。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">如果你有讀過Apple App Store或Google Play Store的條款(你八成沒有)，你或許知道它們都有針對UGC(User-Generated Content)的嚴格規範，也就是對社群媒體、部落格等會有使用者創作內容的應用程式做出規範。兩個平臺都有其中一條規定提到，為了防止有害內容、騷擾、霸凌等行為，有UGC的應用程式都必須有封鎖、過濾、檢舉等功能。取消封鎖功能表示X這個應用程式將會嚴重違反這些使用條款，很有可能遭到強制下架。由於大部分的X使用者都是使用行動裝置瀏覽內容，若X真的被下架，不只有使用者量會受到影響，甚至會間接引發資安問題。</p>
-
-
-
-<h1 class="wp-block-heading">下架跟資安有何關係?</h1>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">如果官方的X應用程式在應用程式商店被強制下架，表示蘋果使用者只能用網頁看X、安卓用戶必須使用APK安裝應用程式。網頁版可能只有功能限制，但是一旦改用APK安裝而非商店，很有可能出現各種冒充官方應用程式的惡意軟體出現。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);"><a href="https://treesheeptw.github.io/portfolio/2023/08/%e6%88%91%e8%a6%81%e9%a0%90%e8%a8%80x%e7%9a%84%e5%a4%b1%e6%95%97-%e4%b8%8a/" data-type="link" data-id="https://treesheeptw.github.io/portfolio/2023/08/%e6%88%91%e8%a6%81%e9%a0%90%e8%a8%80x%e7%9a%84%e5%a4%b1%e6%95%97-%e4%b8%8a/">上一篇</a>的中段就有提到冒充X可能會有多危險:</p>
-
-
-
-<blockquote class="wp-block-quote">
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">X出現、原本的Twitter消失，表示駭客可以把惡意軟體取名為Twitter上架應用程式商店，導致很多人誤安裝惡意軟體。從各種新聞以及我的<a href="https://treesheeptw.github.io/portfolio/2023/08/%e6%89%8b%e6%a9%9f%e6%83%a1%e6%84%8f%e8%bb%9f%e9%ab%94%e5%be%9e%e4%bd%95%e8%80%8c%e4%be%86/" data-type="link" data-id="https://treesheeptw.github.io/portfolio/2023/08/%e6%89%8b%e6%a9%9f%e6%83%a1%e6%84%8f%e8%bb%9f%e9%ab%94%e5%be%9e%e4%bd%95%e8%80%8c%e4%be%86/">其他篇文章</a>就能知道這些惡意軟體有多麼氾濫、安全審核有多好繞過。</p>
-</blockquote>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">你可能會覺得對一個大型科技公司，小小的冒充者不算什麼，那可就錯了，因為一旦「」X的應用程式可能是盜版的、X的應用程式可能含有惡意軟體」的言論開始出現，就會有更多使用者開始改用對手平臺，例如Threads。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">對了，我寫過一篇<a href="https://treesheeptw.github.io/portfolio/2023/07/twitter-threads-%e5%a4%aa%e8%90%bd%e5%be%8c%e4%ba%86%e5%90%a7-%e7%94%a8mastodon/" data-type="link" data-id="https://treesheeptw.github.io/portfolio/2023/07/twitter-threads-%e5%a4%aa%e8%90%bd%e5%be%8c%e4%ba%86%e5%90%a7-%e7%94%a8mastodon/">有關Threads的文章</a>!</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">這一篇聚焦在政策對Twitter帶來的負面影響。上半部分有討論改名為何有可能摧毀整個平臺的未來，如果還沒看，可以<a href="https://treesheeptw.github.io/portfolio/2023/08/%e6%88%91%e8%a6%81%e9%a0%90%e8%a8%80x%e7%9a%84%e5%a4%b1%e6%95%97-%e4%b8%8a/" data-type="link" data-id="https://treesheeptw.github.io/portfolio/2023/08/%e6%88%91%e8%a6%81%e9%a0%90%e8%a8%80x%e7%9a%84%e5%a4%b1%e6%95%97-%e4%b8%8a/">點我</a>回去看看。</p>
-
-
-
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<div id="cusdis_thread"
-  data-host="https://cusdis.com/"
-  data-app-id="87b84668-a924-4eb7-87c4-97a52f79f089"
-  data-page-id="{{ 我要預言X的失敗 (下) }}"
-  data-page-url="{{ PAGE_URL }}"
-  data-page-title="{{ PAGE_TITLE }}"
-></div>
-<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/%e6%88%91%e8%a6%81%e9%a0%90%e8%a8%80x%e7%9a%84%e5%a4%b1%e6%95%97-%e4%b8%8b/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
