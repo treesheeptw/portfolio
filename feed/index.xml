@@ -12,7 +12,7 @@
 	<atom:link href="https://treesheeptw.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Mon, 04 Sep 2023 15:44:47 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 05 Sep 2023 15:25:44 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,42 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>電腦攝影秘辛</title>
+		<link>https://treesheeptw.github.io/portfolio/2023/09/%e9%9b%bb%e8%85%a6%e6%94%9d%e5%bd%b1%e7%a7%98%e8%be%9b/</link>
+					<comments>https://treesheeptw.github.io/portfolio/2023/09/%e9%9b%bb%e8%85%a6%e6%94%9d%e5%bd%b1%e7%a7%98%e8%be%9b/#respond</comments>
+		
+		<dc:creator><![CDATA[boris]]></dc:creator>
+		<pubDate>Tue, 05 Sep 2023 15:25:44 +0000</pubDate>
+				<category><![CDATA[科技]]></category>
+		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=530</guid>
+
+					<description><![CDATA[我這幾天因為組裝一臺電腦，拍下了很多照片，但是過程中發現很多自己沒有想過會遇到的問題，所以今天會簡短分享我遇到 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="1024" height="768" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/20230905_223229-1024x768.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-525" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/20230905_223229-1024x768.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/20230905_223229-300x225.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/20230905_223229-768x576.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/20230905_223229-1536x1152.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/20230905_223229-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">我這幾天因為組裝一臺電腦，拍下了很多照片，但是過程中發現很多自己沒有想過會遇到的問題，所以今天會簡短分享我遇到問題與我得解決方式(如果有的話)。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">我遇到最明顯的問題，就是機殼玻璃的反射。不規則的背景不但會被反射出來，還會讓玻璃內部的物件變得不明顯。我的解決方式有兩種: 可以的時候就拆掉玻璃拍照，否則就是裝上偏光鏡(CPL)來檢哨一些反射。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">另一個問題是打光不平均: 因為我在房間內攝影，而且書桌在床底下，所以燈光會被屏蔽，因此我的解決辦法是用兩個檯燈當照明，並且用一大片木板和三張白板的反射來柔化燈光，不過缺點就是燈光不會是純白色的，因為我的燈有一點黃。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">最後的問題是開啟風扇燈光時，風扇的地方會像過度曝光一樣模糊，但是如果降低亮度又會讓其他零件細節消失，所以我最後的解方是借一支規格好一點的手機拍。沒錯，原來問題都出在我那6000塊的手機上。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/09/%e9%9b%bb%e8%85%a6%e6%94%9d%e5%bd%b1%e7%a7%98%e8%be%9b/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>電子郵件到底安不安全?</title>
 		<link>https://treesheeptw.github.io/portfolio/2023/09/%e9%9b%bb%e5%ad%90%e9%83%b5%e4%bb%b6%e5%88%b0%e5%ba%95%e5%ae%89%e4%b8%8d%e5%ae%89%e5%85%a8/</link>
 					<comments>https://treesheeptw.github.io/portfolio/2023/09/%e9%9b%bb%e5%ad%90%e9%83%b5%e4%bb%b6%e5%88%b0%e5%ba%95%e5%ae%89%e4%b8%8d%e5%ae%89%e5%85%a8/#respond</comments>
@@ -39,7 +75,7 @@
 
 					<description><![CDATA[電子郵件或許是現在最被廣泛使用的網路通訊方式，因為不但操作容易，也通常不用花很多錢。雖然有很多Google的G [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="1024" height="768" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-1024x768.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-351" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-1024x768.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-300x225.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-768x576.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-1536x1152.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="768" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-1024x768.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-351" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-1024x768.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-300x225.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-768x576.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-1536x1152.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -126,7 +162,7 @@
 
 					<description><![CDATA[(我刻意找了一張波蘭鐵軌的圖) 現在，人們已經對電腦駭客見怪不怪，但是火車為什麼也會被駭? 你可能會覺得駭入火 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="678" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/auschwitz-birkenau-rail-train-d68c5544174039530a30c520a64b5a78-1024x678.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-476" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/auschwitz-birkenau-rail-train-d68c5544174039530a30c520a64b5a78-1024x678.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/auschwitz-birkenau-rail-train-d68c5544174039530a30c520a64b5a78-300x199.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/auschwitz-birkenau-rail-train-d68c5544174039530a30c520a64b5a78-768x509.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/auschwitz-birkenau-rail-train-d68c5544174039530a30c520a64b5a78-1536x1017.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/auschwitz-birkenau-rail-train-d68c5544174039530a30c520a64b5a78-2048x1356.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" loading="lazy" width="1024" height="678" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/auschwitz-birkenau-rail-train-d68c5544174039530a30c520a64b5a78-1024x678.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-476" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/auschwitz-birkenau-rail-train-d68c5544174039530a30c520a64b5a78-1024x678.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/auschwitz-birkenau-rail-train-d68c5544174039530a30c520a64b5a78-300x199.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/auschwitz-birkenau-rail-train-d68c5544174039530a30c520a64b5a78-768x509.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/auschwitz-birkenau-rail-train-d68c5544174039530a30c520a64b5a78-1536x1017.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/auschwitz-birkenau-rail-train-d68c5544174039530a30c520a64b5a78-2048x1356.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -533,65 +569,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/%e6%90%9c%e5%b0%8b%e5%8a%9f%e8%83%bd%e4%b8%8d%e8%83%bd%e7%94%a8/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>比中國更牆的國家</title>
-		<link>https://treesheeptw.github.io/portfolio/2023/08/%e6%af%94%e4%b8%ad%e5%9c%8b%e6%9b%b4%e7%89%86%e7%9a%84%e5%9c%8b%e5%ae%b6/</link>
-					<comments>https://treesheeptw.github.io/portfolio/2023/08/%e6%af%94%e4%b8%ad%e5%9c%8b%e6%9b%b4%e7%89%86%e7%9a%84%e5%9c%8b%e5%ae%b6/#respond</comments>
-		
-		<dc:creator><![CDATA[boris]]></dc:creator>
-		<pubDate>Sat, 26 Aug 2023 15:56:13 +0000</pubDate>
-				<category><![CDATA[科技]]></category>
-		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=447</guid>
-
-					<description><![CDATA[昨天的文章裡，有提到臺灣的警察局會封鎖詐騙的網頁，不過這是網路層級的，也就是可以用VPN或Proxy輕鬆繞過， [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" loading="lazy" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/asia-china-clouds-great-wall-of-china-aaef2b0e4a489cc421740ebdcd0c6171-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-448" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/asia-china-clouds-great-wall-of-china-aaef2b0e4a489cc421740ebdcd0c6171-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/asia-china-clouds-great-wall-of-china-aaef2b0e4a489cc421740ebdcd0c6171-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/asia-china-clouds-great-wall-of-china-aaef2b0e4a489cc421740ebdcd0c6171-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/asia-china-clouds-great-wall-of-china-aaef2b0e4a489cc421740ebdcd0c6171-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/asia-china-clouds-great-wall-of-china-aaef2b0e4a489cc421740ebdcd0c6171-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);"><a href="https://treesheeptw.github.io/portfolio/2023/08/%e5%90%83%e6%88%91%e4%b8%80%e8%a8%98%e6%aa%a2%e8%88%89/" data-type="link" data-id="https://treesheeptw.github.io/portfolio/2023/08/%e5%90%83%e6%88%91%e4%b8%80%e8%a8%98%e6%aa%a2%e8%88%89/">昨天的文章</a>裡，有提到臺灣的警察局會封鎖詐騙的網頁，不過這是網路層級的，也就是可以用VPN或Proxy輕鬆繞過，沒有強制性，不過前幾天，法國政府卻在準備新的法律，想要強制瀏覽器封鎖特定網站，藉此防止違法行為。這一切看起來立意良善，但是卻會引起我們的一些擔憂。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">很多國家都會有望路相關法規，包含昨天提到的臺灣防詐騙、英國以保護兒童名義收集人民通訊紀錄，也有一些國家是以防止網路犯罪的名義封鎖一些網路服務，而最廣為人知的就是中國的牆。雖然我們身在民主國家，不會有向中國一樣嚴格的網路限制，但是一旦民主國家開始限制網路存取，就會帶來其他問題。有正常媒體識讀能力的臺灣人應該都知道公視、華視和政府之間的政治問題，也知道大部分電視臺都有政治傾向、政治置入，但是這些都可以選擇不看，不過如果是網路的話，任何法規都會帶來幾乎人人無法避免受到影響的改變。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">臺灣過去有過數位中介服務法的爭議，所以我相信很多人都能理解言論自由與打擊犯罪、假新聞之間的問題。雖然數位中介服務法最後沒有通過，但是大家能一窺民主國家表面上立意良善的網路法規可能代表的政治操作。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">了解完言論自由的問題後，來聊聊為什麼法國的法規是很多民主國家的網路法規中最嚴重的一個。大家都知道中國的牆是網路層級的，可以被有基本網路知識的人翻過；臺灣如我昨天所測試的，也是網路層級的限制，一樣可以繞過。不過，法國的法規想要從瀏覽器層級限制。這表示一旦主流瀏覽器加入這些黑名單後，除非自己修改瀏覽器程式碼，否則無法繞過。我們可以把這個情況用車輛速限的狀況來形容: 大部分國家都是安裝測速照相以及安排警察隨機路邊測速，但是法過的法規想要讓每輛車子都安裝一個限速器。雖然這可以避免駕駛規避測速照相，但是萬一有救護車需要加速趕往醫院怎麼辦? 如果有警匪追逐怎麼辦? 如果駭客控制了電子限速器，是不是很危險? </p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">但是說了那麼多，法國立法關臺灣什麼事? 仔細想想其實非常恐怖。雖然臺灣還是一個網路法規並不嚴格的國家，但是如果法國通過了這個法令，臺灣是不是有藉口跟進? 當第一個肯定會被罵(就像現在)，但是有利可圖時，臺灣政治人物會不會把法國或其它國家當模仿對象?</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">雖然總統權力受到法律限制，但是總統可以宣布戒嚴；雖然網路法規是打擊犯罪，但是它會不會有一天開始箝制言論自由?</p>
-
-
-
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<div id="cusdis_thread"
-  data-host="https://cusdis.com/"
-  data-app-id="87b84668-a924-4eb7-87c4-97a52f79f089"
-  data-page-id="{{ 比中國更牆的國家 }}"
-  data-page-url="{{ PAGE_URL }}"
-  data-page-title="{{ PAGE_TITLE }}"
-></div>
-<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/%e6%af%94%e4%b8%ad%e5%9c%8b%e6%9b%b4%e7%89%86%e7%9a%84%e5%9c%8b%e5%ae%b6/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
