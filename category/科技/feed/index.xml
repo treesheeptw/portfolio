@@ -12,7 +12,7 @@
 	<atom:link href="https://treesheeptw.github.io/portfolio/category/%E7%A7%91%E6%8A%80/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Tue, 05 Sep 2023 15:25:44 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 06 Sep 2023 14:57:16 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,50 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>用10分鐘的時間預防99%的密碼外流 &#124; 剖析勒索軟體番外篇II</title>
+		<link>https://treesheeptw.github.io/portfolio/2023/09/%e7%94%a810%e5%88%86%e9%90%98%e7%9a%84%e6%99%82%e9%96%93%e9%a0%90%e9%98%b299%e7%9a%84%e5%af%86%e7%a2%bc%e5%a4%96%e6%b5%81-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94%e7%95%aa%e5%a4%96/</link>
+					<comments>https://treesheeptw.github.io/portfolio/2023/09/%e7%94%a810%e5%88%86%e9%90%98%e7%9a%84%e6%99%82%e9%96%93%e9%a0%90%e9%98%b299%e7%9a%84%e5%af%86%e7%a2%bc%e5%a4%96%e6%b5%81-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94%e7%95%aa%e5%a4%96/#respond</comments>
+		
+		<dc:creator><![CDATA[boris]]></dc:creator>
+		<pubDate>Wed, 06 Sep 2023 14:57:16 +0000</pubDate>
+				<category><![CDATA[科技]]></category>
+		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=532</guid>
+
+					<description><![CDATA[雖然你常常聽到各種勒索軟體攻擊事件，但是為什麼身邊的人好像比想像中少被攻擊? 這是因為駭客的攻擊目標通常是大型 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-389" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">雖然你常常聽到各種勒索軟體攻擊事件，但是為什麼身邊的人好像比想像中少被攻擊? 這是因為駭客的攻擊目標通常是大型企業，尤其是科技公司或是重要機構(電力或石油供應商等)，所以一般人比較少被針對，畢竟一般人付出贖金的可能性也比較小。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">不過，即使你不是直接的攻擊目標，也有可能間接成為受害者，例如前面提到的企業遭到攻擊時，駭客取得裡的個資甚至是帳號密碼。那麼，你是否就該直接認命? 真的成為受害者的時候，除了等待這些企業與攻擊者協商以外，可能真的無解，但是如果還沒被攻擊，卻有很簡單的方式可以防禦這種攻擊!</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">你可能會想，我的資料都在這些企業的伺服器上，要怎麼主動防禦? 這有辦法的，但是在了解怎麼做之前，必須先學習駭客的操作模式。如果你像我一樣常常在暗網上到處看看，可能偶爾會看到有人在販售他們的戰利品。雖然這些資料價格普遍十分昂貴，我沒有實際買過，但是有透過資安研究者等管道接觸過，大多數賣家也會為了證明資料真實性而提供片段樣本。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">這些樣本的內容完全不重要，但是關鍵就在這些資料的儲存形式。這些資料常常被以CSV(Comma-separated values；逗號分隔值)儲存，也就是沒有任何排版，直接將不同筆資料以逗號區隔開來，有點像程式語言裡的一些用法。你可能會想，說不定攻擊者在自己的電腦上使用不同的儲存形式，但是實際上這些攻擊都是透過自動化程式執行，所以很多程式的預設輸出都是CSV格式。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">看到這裡，你可能已經猜到這個簡單預防密碼外洩的方式是什麼了。沒錯，就是在密碼裡加入逗號這了簡單。如此一來，即使密碼外流，雖然儲存時它確實是你的完整密碼，但是要讀取時卻會把它當作兩筆資料。也就是說，假設你的密碼是&#8221;abc,123&#8243;，讀取時會判定為兩組密碼，分別是&#8221;abc&#8221;與&#8221;123&#8243;，而不是一組密碼&#8221;abc,123&#8243;。不用擔心，如果你的帳號密碼真的被攻擊者(或買下外流資料的買家)拿來利用，通常也是使用自動化程式，不會發現這個問題。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">那麼，這個標題不是騙人的。我知道你可能有很多不同平臺的號密碼，但是10分鐘應該就能把密碼換過一輪，從此對大部分的帳密外流免疫。補充一個建議: 請在不同平臺使用不同密碼，否則只要一組密碼被知道，所有平臺&#8217;盎號都有很大的遭殃風險!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/09/%e7%94%a810%e5%88%86%e9%90%98%e7%9a%84%e6%99%82%e9%96%93%e9%a0%90%e9%98%b299%e7%9a%84%e5%af%86%e7%a2%bc%e5%a4%96%e6%b5%81-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94%e7%95%aa%e5%a4%96/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>電腦攝影秘辛</title>
 		<link>https://treesheeptw.github.io/portfolio/2023/09/%e9%9b%bb%e8%85%a6%e6%94%9d%e5%bd%b1%e7%a7%98%e8%be%9b/</link>
 					<comments>https://treesheeptw.github.io/portfolio/2023/09/%e9%9b%bb%e8%85%a6%e6%94%9d%e5%bd%b1%e7%a7%98%e8%be%9b/#respond</comments>
@@ -39,7 +83,7 @@
 
 					<description><![CDATA[我這幾天因為組裝一臺電腦，拍下了很多照片，但是過程中發現很多自己沒有想過會遇到的問題，所以今天會簡短分享我遇到 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="1024" height="768" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/20230905_223229-1024x768.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-525" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/20230905_223229-1024x768.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/20230905_223229-300x225.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/20230905_223229-768x576.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/20230905_223229-1536x1152.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/20230905_223229-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="768" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/20230905_223229-1024x768.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-525" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/20230905_223229-1024x768.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/20230905_223229-300x225.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/20230905_223229-768x576.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/20230905_223229-1536x1152.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/20230905_223229-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -119,7 +163,7 @@
 
 					<description><![CDATA[經營這個網站已經一個多月了，雖然我目前都有維持每天更新的頻率，但是這也帶來了很大的問題: 網站大小。我的網頁是 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="801" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/files-paper-office-paperwork-8952190e545003dbc50f63407b58b521-1024x801.jpg" alt="" class="wp-image-481" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/files-paper-office-paperwork-8952190e545003dbc50f63407b58b521-1024x801.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/files-paper-office-paperwork-8952190e545003dbc50f63407b58b521-300x235.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/files-paper-office-paperwork-8952190e545003dbc50f63407b58b521-768x600.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/files-paper-office-paperwork-8952190e545003dbc50f63407b58b521-1536x1201.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/files-paper-office-paperwork-8952190e545003dbc50f63407b58b521-2048x1601.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="801" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/files-paper-office-paperwork-8952190e545003dbc50f63407b58b521-1024x801.jpg" alt="" class="wp-image-481" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/files-paper-office-paperwork-8952190e545003dbc50f63407b58b521-1024x801.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/files-paper-office-paperwork-8952190e545003dbc50f63407b58b521-300x235.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/files-paper-office-paperwork-8952190e545003dbc50f63407b58b521-768x600.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/files-paper-office-paperwork-8952190e545003dbc50f63407b58b521-1536x1201.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/files-paper-office-paperwork-8952190e545003dbc50f63407b58b521-2048x1601.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -541,34 +585,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/%e6%83%a1%e6%84%8f%e8%bb%9f%e9%ab%94%e5%a4%96%e6%b5%81%e5%85%b6%e5%af%a6%e5%be%88%e5%8d%b1%e9%9a%aa-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94iii/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>搜尋功能不能用 :-(</title>
-		<link>https://treesheeptw.github.io/portfolio/2023/08/%e6%90%9c%e5%b0%8b%e5%8a%9f%e8%83%bd%e4%b8%8d%e8%83%bd%e7%94%a8/</link>
-					<comments>https://treesheeptw.github.io/portfolio/2023/08/%e6%90%9c%e5%b0%8b%e5%8a%9f%e8%83%bd%e4%b8%8d%e8%83%bd%e7%94%a8/#respond</comments>
-		
-		<dc:creator><![CDATA[boris]]></dc:creator>
-		<pubDate>Sun, 27 Aug 2023 15:49:44 +0000</pubDate>
-				<category><![CDATA[科技]]></category>
-		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=456</guid>
-
-					<description><![CDATA[雖然前陣子我為我的網頁加入了搜尋功能，但是插件設計不完整，在靜態網頁上無法使用，因為會被導向localhost [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" loading="lazy" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/magnifying-glass-glass-increase-lens-536164b7dd02d786ee396398ab89608a-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-380" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/magnifying-glass-glass-increase-lens-536164b7dd02d786ee396398ab89608a-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/magnifying-glass-glass-increase-lens-536164b7dd02d786ee396398ab89608a-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/magnifying-glass-glass-increase-lens-536164b7dd02d786ee396398ab89608a-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/magnifying-glass-glass-increase-lens-536164b7dd02d786ee396398ab89608a-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/magnifying-glass-glass-increase-lens-536164b7dd02d786ee396398ab89608a-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">雖然前陣子我為我的網頁加入了搜尋功能，但是插件設計不完整，在靜態網頁上無法使用，因為會被導向localhost。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">我已經尋找解決方案很久，但是還沒有解決，所以如果你知道怎麼解決的話，請到<a href="https://github.com/treesheeptw/portfolio/issues/22" data-type="link" data-id="https://github.com/treesheeptw/portfolio/issues/22">GitHub</a>上留言，謝謝。</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/%e6%90%9c%e5%b0%8b%e5%8a%9f%e8%83%bd%e4%b8%8d%e8%83%bd%e7%94%a8/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
