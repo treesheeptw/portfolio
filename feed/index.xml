@@ -12,7 +12,7 @@
 	<atom:link href="https://treesheeptw.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Wed, 06 Sep 2023 14:57:16 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 07 Sep 2023 15:48:06 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,34 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>50篇文章的里程碑</title>
+		<link>https://treesheeptw.github.io/portfolio/2023/09/50%e7%af%87%e6%96%87%e7%ab%a0%e7%9a%84%e9%87%8c%e7%a8%8b%e7%a2%91/</link>
+					<comments>https://treesheeptw.github.io/portfolio/2023/09/50%e7%af%87%e6%96%87%e7%ab%a0%e7%9a%84%e9%87%8c%e7%a8%8b%e7%a2%91/#respond</comments>
+		
+		<dc:creator><![CDATA[boris]]></dc:creator>
+		<pubDate>Thu, 07 Sep 2023 15:48:06 +0000</pubDate>
+				<category><![CDATA[我]]></category>
+		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=536</guid>
+
+					<description><![CDATA[不知不覺，我的文章量已經累積了50篇(這是第51篇)，雖然有幾篇很水，但是我還是維持日更的頻率。為什麼我會有持 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/milestone-100-rail-railway-67c732842f064251c508e0c965caec1b-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-537" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/milestone-100-rail-railway-67c732842f064251c508e0c965caec1b-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/milestone-100-rail-railway-67c732842f064251c508e0c965caec1b-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/milestone-100-rail-railway-67c732842f064251c508e0c965caec1b-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/milestone-100-rail-railway-67c732842f064251c508e0c965caec1b-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/milestone-100-rail-railway-67c732842f064251c508e0c965caec1b-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">不知不覺，我的文章量已經累積了50篇(這是第51篇)，雖然有幾篇很水，但是我還是維持日更的頻率。為什麼我會有持續分享知識和新聞的動力? 我覺得不論是否有回饋，我都可以從分享我的觀點獲得被聽見、被認同的感覺。雖然構思這些文章對我來說很花時間(尤其最近開學了更是如此)，但是我還是把日更視為一個指標。我除了認為分享資安觀念可以造福他人，這些文章未來也能成為我的履歷的一部份，所以我認為這件事很有繼續做下去的價值。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">在分享我的文章給他人的時候，我也常常被問到我開始的原因、我怎麼架設與更新的&#8230;等。因為我架設過程也是自己慢慢摸索，而且過程中也有很多debug要做，所以你一定找得到更好的網站架設方式。不過，我的網站完全基於免費資源，也盡量使用開源軟體或平臺。我認為這麼做也有付費架設所沒有的好處。因此，我要在這邊預告: 我要公開我網站架設的流程，讓你也能跟我一樣免費架站，而且一行的程式都不用寫! 不過因為可能需要花上幾十分鐘操作，所以也會分很多篇，敬請期待!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/09/50%e7%af%87%e6%96%87%e7%ab%a0%e7%9a%84%e9%87%8c%e7%a8%8b%e7%a2%91/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>用10分鐘的時間預防99%的密碼外流 &#124; 剖析勒索軟體番外篇II</title>
 		<link>https://treesheeptw.github.io/portfolio/2023/09/%e7%94%a810%e5%88%86%e9%90%98%e7%9a%84%e6%99%82%e9%96%93%e9%a0%90%e9%98%b299%e7%9a%84%e5%af%86%e7%a2%bc%e5%a4%96%e6%b5%81-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94%e7%95%aa%e5%a4%96/</link>
 					<comments>https://treesheeptw.github.io/portfolio/2023/09/%e7%94%a810%e5%88%86%e9%90%98%e7%9a%84%e6%99%82%e9%96%93%e9%a0%90%e9%98%b299%e7%9a%84%e5%af%86%e7%a2%bc%e5%a4%96%e6%b5%81-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94%e7%95%aa%e5%a4%96/#respond</comments>
@@ -39,7 +67,7 @@
 
 					<description><![CDATA[雖然你常常聽到各種勒索軟體攻擊事件，但是為什麼身邊的人好像比想像中少被攻擊? 這是因為駭客的攻擊目標通常是大型 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-389" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-389" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -119,7 +147,7 @@
 
 					<description><![CDATA[電子郵件或許是現在最被廣泛使用的網路通訊方式，因為不但操作容易，也通常不用花很多錢。雖然有很多Google的G [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="768" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-1024x768.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-351" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-1024x768.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-300x225.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-768x576.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-1536x1152.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" loading="lazy" width="1024" height="768" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-1024x768.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-351" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-1024x768.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-300x225.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-768x576.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-1536x1152.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -553,38 +581,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/%e6%89%8b%e6%a9%9f%e7%ba%8c%e8%88%aa%e5%8a%9b%e5%85%b6%e5%af%a6%e9%81%a0%e8%b6%85%e4%b8%80%e8%88%ac%e4%ba%ba%e7%9a%84%e6%83%b3%e5%83%8f/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>惡意軟體外流其實很危險 &#124; 剖析勒索軟體III</title>
-		<link>https://treesheeptw.github.io/portfolio/2023/08/%e6%83%a1%e6%84%8f%e8%bb%9f%e9%ab%94%e5%a4%96%e6%b5%81%e5%85%b6%e5%af%a6%e5%be%88%e5%8d%b1%e9%9a%aa-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94iii/</link>
-					<comments>https://treesheeptw.github.io/portfolio/2023/08/%e6%83%a1%e6%84%8f%e8%bb%9f%e9%ab%94%e5%a4%96%e6%b5%81%e5%85%b6%e5%af%a6%e5%be%88%e5%8d%b1%e9%9a%aa-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94iii/#respond</comments>
-		
-		<dc:creator><![CDATA[boris]]></dc:creator>
-		<pubDate>Mon, 28 Aug 2023 15:57:52 +0000</pubDate>
-				<category><![CDATA[科技]]></category>
-		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=458</guid>
-
-					<description><![CDATA[在這個系列(剖析惡意軟體)的上一篇文章有提到，如果遭受惡意軟體攻擊，尤其是勒索軟體，有機會等惡意軟體程式外流或 [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1024x683.jpg" alt="" class="wp-image-389" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">在這個系列(剖析惡意軟體)的<a href="https://treesheeptw.github.io/portfolio/2023/08/%e5%88%b0%e5%ba%95%e8%a9%b2%e4%b8%8d%e8%a9%b2%e4%bb%98%e8%b4%96%e9%87%91-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94%e7%95%aa%e5%a4%96%e7%af%87/" data-type="link" data-id="https://treesheeptw.github.io/portfolio/2023/08/%e5%88%b0%e5%ba%95%e8%a9%b2%e4%b8%8d%e8%a9%b2%e4%bb%98%e8%b4%96%e9%87%91-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94%e7%95%aa%e5%a4%96%e7%af%87/">上一篇文章</a>有提到，如果遭受惡意軟體攻擊，尤其是勒索軟體，有機會等惡意軟體程式外流或被分析出來，有一天說不定可以在線上取得解除勒索軟體的資源。不過，雖然這是一件好事，但是程式碼外流卻會帶來其他很嚴重的問題。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">就像食品配方一樣，如果將其公開，人們就能知道這個產品的添加物，所以能確定它是否健康，但是如果被競爭對手取得，就會失去這個配方的秘密性。惡意軟體的程式碼一旦外流，就會被進行修改或甚至進化，造成更大的資安威脅。雖然很多懶惰的駭客只會微幅修改程式碼，甚至是只換個名字，就拿它進行攻擊，但是就像被感染新冠肺炎的人可能再被變種病毒感染，變種惡意軟體視防毒軟體類型，有可能不被發現。例如有的防毒軟體會看程式性質，標記所有可疑程式，但是有的只比對資料庫，對於相對較新的惡意軟體無法偵測。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">因此再次提醒，不能完全仰賴防毒軟體，還是要隨時保持良好的資安戒心。</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/%e6%83%a1%e6%84%8f%e8%bb%9f%e9%ab%94%e5%a4%96%e6%b5%81%e5%85%b6%e5%af%a6%e5%be%88%e5%8d%b1%e9%9a%aa-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94iii/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
