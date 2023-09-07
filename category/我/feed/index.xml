@@ -12,7 +12,7 @@
 	<atom:link href="https://treesheeptw.github.io/portfolio/category/%E6%88%91/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Thu, 17 Aug 2023 15:31:19 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 07 Sep 2023 15:48:06 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,34 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>50篇文章的里程碑</title>
+		<link>https://treesheeptw.github.io/portfolio/2023/09/50%e7%af%87%e6%96%87%e7%ab%a0%e7%9a%84%e9%87%8c%e7%a8%8b%e7%a2%91/</link>
+					<comments>https://treesheeptw.github.io/portfolio/2023/09/50%e7%af%87%e6%96%87%e7%ab%a0%e7%9a%84%e9%87%8c%e7%a8%8b%e7%a2%91/#respond</comments>
+		
+		<dc:creator><![CDATA[boris]]></dc:creator>
+		<pubDate>Thu, 07 Sep 2023 15:48:06 +0000</pubDate>
+				<category><![CDATA[我]]></category>
+		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=536</guid>
+
+					<description><![CDATA[不知不覺，我的文章量已經累積了50篇(這是第51篇)，雖然有幾篇很水，但是我還是維持日更的頻率。為什麼我會有持 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/milestone-100-rail-railway-67c732842f064251c508e0c965caec1b-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-537" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/milestone-100-rail-railway-67c732842f064251c508e0c965caec1b-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/milestone-100-rail-railway-67c732842f064251c508e0c965caec1b-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/milestone-100-rail-railway-67c732842f064251c508e0c965caec1b-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/milestone-100-rail-railway-67c732842f064251c508e0c965caec1b-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/milestone-100-rail-railway-67c732842f064251c508e0c965caec1b-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">不知不覺，我的文章量已經累積了50篇(這是第51篇)，雖然有幾篇很水，但是我還是維持日更的頻率。為什麼我會有持續分享知識和新聞的動力? 我覺得不論是否有回饋，我都可以從分享我的觀點獲得被聽見、被認同的感覺。雖然構思這些文章對我來說很花時間(尤其最近開學了更是如此)，但是我還是把日更視為一個指標。我除了認為分享資安觀念可以造福他人，這些文章未來也能成為我的履歷的一部份，所以我認為這件事很有繼續做下去的價值。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">在分享我的文章給他人的時候，我也常常被問到我開始的原因、我怎麼架設與更新的&#8230;等。因為我架設過程也是自己慢慢摸索，而且過程中也有很多debug要做，所以你一定找得到更好的網站架設方式。不過，我的網站完全基於免費資源，也盡量使用開源軟體或平臺。我認為這麼做也有付費架設所沒有的好處。因此，我要在這邊預告: 我要公開我網站架設的流程，讓你也能跟我一樣免費架站，而且一行的程式都不用寫! 不過因為可能需要花上幾十分鐘操作，所以也會分很多篇，敬請期待!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/09/50%e7%af%87%e6%96%87%e7%ab%a0%e7%9a%84%e9%87%8c%e7%a8%8b%e7%a2%91/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>我買了一臺手機，但不是給自己的 &#124; 真的日記II</title>
 		<link>https://treesheeptw.github.io/portfolio/2023/08/%e6%88%91%e8%b2%b7%e4%ba%86%e4%b8%80%e8%87%ba%e6%89%8b%e6%a9%9f%ef%bc%8c%e4%bd%86%e4%b8%8d%e6%98%af%e7%b5%a6%e8%87%aa%e5%b7%b1%e7%9a%84-%e7%9c%9f%e7%9a%84%e6%97%a5%e8%a8%98ii/</link>
 					<comments>https://treesheeptw.github.io/portfolio/2023/08/%e6%88%91%e8%b2%b7%e4%ba%86%e4%b8%80%e8%87%ba%e6%89%8b%e6%a9%9f%ef%bc%8c%e4%bd%86%e4%b8%8d%e6%98%af%e7%b5%a6%e8%87%aa%e5%b7%b1%e7%9a%84-%e7%9c%9f%e7%9a%84%e6%97%a5%e8%a8%98ii/#respond</comments>
@@ -40,7 +68,7 @@
 
 					<description><![CDATA[我今天去買了一臺手機，不過不是我自己的，而是家人的。我的手機都用得很久，第一支用五年後ROM壞了，現在這支用四 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="683" height="1024" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/samsung-galaxy-mobile-phone-smartphone-display-41602adacf988f3a4c67677cc8681683-683x1024.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-405" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/samsung-galaxy-mobile-phone-smartphone-display-41602adacf988f3a4c67677cc8681683-683x1024.jpg 683w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/samsung-galaxy-mobile-phone-smartphone-display-41602adacf988f3a4c67677cc8681683-200x300.jpg 200w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/samsung-galaxy-mobile-phone-smartphone-display-41602adacf988f3a4c67677cc8681683-768x1152.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/samsung-galaxy-mobile-phone-smartphone-display-41602adacf988f3a4c67677cc8681683-1024x1536.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/samsung-galaxy-mobile-phone-smartphone-display-41602adacf988f3a4c67677cc8681683-1365x2048.jpg 1365w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/samsung-galaxy-mobile-phone-smartphone-display-41602adacf988f3a4c67677cc8681683-scaled.jpg 1707w" sizes="(max-width: 683px) 100vw, 683px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="683" height="1024" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/samsung-galaxy-mobile-phone-smartphone-display-41602adacf988f3a4c67677cc8681683-683x1024.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-405" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/samsung-galaxy-mobile-phone-smartphone-display-41602adacf988f3a4c67677cc8681683-683x1024.jpg 683w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/samsung-galaxy-mobile-phone-smartphone-display-41602adacf988f3a4c67677cc8681683-200x300.jpg 200w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/samsung-galaxy-mobile-phone-smartphone-display-41602adacf988f3a4c67677cc8681683-768x1152.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/samsung-galaxy-mobile-phone-smartphone-display-41602adacf988f3a4c67677cc8681683-1024x1536.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/samsung-galaxy-mobile-phone-smartphone-display-41602adacf988f3a4c67677cc8681683-1365x2048.jpg 1365w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/samsung-galaxy-mobile-phone-smartphone-display-41602adacf988f3a4c67677cc8681683-scaled.jpg 1707w" sizes="(max-width: 683px) 100vw, 683px" /></figure>
 
 
 
@@ -120,7 +148,7 @@
 
 
 
-<figure class="wp-block-image size-full has-custom-border"><img decoding="async" width="460" height="350" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0730.jpeg" alt="" class="has-border-color has-secondary-border-color wp-image-268" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0730.jpeg 460w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0730-300x228.jpeg 300w" sizes="(max-width: 460px) 100vw, 460px" /></figure>
+<figure class="wp-block-image size-full has-custom-border"><img decoding="async" loading="lazy" width="460" height="350" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0730.jpeg" alt="" class="has-border-color has-secondary-border-color wp-image-268" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0730.jpeg 460w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/07/0730-300x228.jpeg 300w" sizes="(max-width: 460px) 100vw, 460px" /></figure>
 
 
 
