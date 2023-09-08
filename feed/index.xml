@@ -12,7 +12,7 @@
 	<atom:link href="https://treesheeptw.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Thu, 07 Sep 2023 15:48:06 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 08 Sep 2023 15:06:12 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,102 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>資訊安全中的奈許平衡</title>
+		<link>https://treesheeptw.github.io/portfolio/2023/09/%e8%b3%87%e8%a8%8a%e5%ae%89%e5%85%a8%e4%b8%ad%e7%9a%84%e5%a5%88%e8%a8%b1%e5%b9%b3%e8%a1%a1/</link>
+					<comments>https://treesheeptw.github.io/portfolio/2023/09/%e8%b3%87%e8%a8%8a%e5%ae%89%e5%85%a8%e4%b8%ad%e7%9a%84%e5%a5%88%e8%a8%b1%e5%b9%b3%e8%a1%a1/#respond</comments>
+		
+		<dc:creator><![CDATA[boris]]></dc:creator>
+		<pubDate>Fri, 08 Sep 2023 15:06:12 +0000</pubDate>
+				<category><![CDATA[科技]]></category>
+		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=539</guid>
+
+					<description><![CDATA[今天我們要來談談資訊安全中一個極其重要的議題，那就是如何在保護性與可用性之間找到平衡點。你可能知道我們需要保護 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-540" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">今天我們要來談談資訊安全中一個極其重要的議題，那就是如何在保護性與可用性之間找到平衡點。你可能知道我們需要保護資料和系統，然而我們常常需要在安全性和可用性之間找到一個平衡點。這種平衡被稱為奈許平衡（trade-off），即在兩個或多個相互競爭的目標之間找到適當的平衡，其中實現一個目標可能會對其他目標產生不利影響。</p>
+
+
+
+<h2 class="wp-block-heading">安全性 vs. 可用性</h2>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">首先，讓我們來討論一下這兩個競爭的目標：</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">1. 安全性（Security）：這是關於如何確保我們的系統和資料免受未經授權的訪問和攻擊的保護。我們可能會強制要求使用複雜的密碼，實行嚴格的存取控制，以及使用防火牆等方法。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">2. 可用性（Availability）：這則是有關如何確保系統在需要的時候能正常運行，不受攻擊或安全措施影響。這包括減少密碼被鎖定的次數，合理安排更新和維護等措施。</p>
+
+
+
+<h2 class="wp-block-heading">實際案例</h2>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">讓我們通過一些實際案例來更深入地了解如何在資訊安全中找到奈許平衡：</p>
+
+
+
+<h3 class="wp-block-heading">密碼複雜度</h3>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">你可能知道，要提高安全性，我們通常要求使用複雜的密碼。但是，你知道過於複雜的密碼可能會讓使用者忘記，這樣可能會降低可用性嗎？這就是我們需要在密碼複雜度和可用性之間取得平衡的地方。</p>
+
+
+
+<h3 class="wp-block-heading">防火牆設定</h3>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">防火牆是保護網路安全的關鍵工具，但是設定得太嚴格可能會阻止合法流量，進而影響可用性。所以，我們必須確保防火牆在提高安全性的同時，也不會對正常的網絡流量造成干擾。</p>
+
+
+
+<h3 class="wp-block-heading">更新和維護</h3>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">我們都知道，及時更新和維護軟體對保持系統安全至關重要。然而，過於頻繁的更新可能會影響可用性，因為需要停機或重新啟動。這裡的奈許平衡在於確保安全性的同時不妨礙系統的正常運作。</p>
+
+
+
+<h3 class="wp-block-heading">存取控制</h3>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">設定嚴格的存取控制可以確保安全性，但是同時我們也需要確保用戶有足夠的權限來執行他們的工作，以維持可用性。</p>
+
+
+
+<h3 class="wp-block-heading">密碼鎖定政策</h3>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">密碼鎖定政策是為了防止密碼的暴力破解，但是過於嚴格的政策可能會導致合法用戶被鎖定帳戶，進而降低可用性。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">在資訊安全領域，我們必須找到奈許平衡。這代表著我們需要在保護資料和系統的同時，也要確保它們能夠正常運行，而不影響業務的流暢性。這種平衡的達成是資訊安全專業人員的挑戰之一，但它是確保我們的資料和系統綜合安全性的關鍵步驟。所以，資訊安全不僅僅是保護，還包括確保可用性，這才是真正的平衡。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/09/%e8%b3%87%e8%a8%8a%e5%ae%89%e5%85%a8%e4%b8%ad%e7%9a%84%e5%a5%88%e8%a8%b1%e5%b9%b3%e8%a1%a1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>50篇文章的里程碑</title>
 		<link>https://treesheeptw.github.io/portfolio/2023/09/50%e7%af%87%e6%96%87%e7%ab%a0%e7%9a%84%e9%87%8c%e7%a8%8b%e7%a2%91/</link>
 					<comments>https://treesheeptw.github.io/portfolio/2023/09/50%e7%af%87%e6%96%87%e7%ab%a0%e7%9a%84%e9%87%8c%e7%a8%8b%e7%a2%91/#respond</comments>
@@ -39,7 +135,7 @@
 
 					<description><![CDATA[不知不覺，我的文章量已經累積了50篇(這是第51篇)，雖然有幾篇很水，但是我還是維持日更的頻率。為什麼我會有持 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/milestone-100-rail-railway-67c732842f064251c508e0c965caec1b-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-537" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/milestone-100-rail-railway-67c732842f064251c508e0c965caec1b-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/milestone-100-rail-railway-67c732842f064251c508e0c965caec1b-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/milestone-100-rail-railway-67c732842f064251c508e0c965caec1b-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/milestone-100-rail-railway-67c732842f064251c508e0c965caec1b-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/milestone-100-rail-railway-67c732842f064251c508e0c965caec1b-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/milestone-100-rail-railway-67c732842f064251c508e0c965caec1b-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-537" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/milestone-100-rail-railway-67c732842f064251c508e0c965caec1b-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/milestone-100-rail-railway-67c732842f064251c508e0c965caec1b-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/milestone-100-rail-railway-67c732842f064251c508e0c965caec1b-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/milestone-100-rail-railway-67c732842f064251c508e0c965caec1b-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/milestone-100-rail-railway-67c732842f064251c508e0c965caec1b-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -111,7 +207,7 @@
 
 					<description><![CDATA[我這幾天因為組裝一臺電腦，拍下了很多照片，但是過程中發現很多自己沒有想過會遇到的問題，所以今天會簡短分享我遇到 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="768" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/20230905_223229-1024x768.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-525" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/20230905_223229-1024x768.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/20230905_223229-300x225.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/20230905_223229-768x576.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/20230905_223229-1536x1152.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/20230905_223229-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" loading="lazy" width="1024" height="768" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/20230905_223229-1024x768.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-525" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/20230905_223229-1024x768.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/20230905_223229-300x225.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/20230905_223229-768x576.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/20230905_223229-1536x1152.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/20230905_223229-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -517,70 +613,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/%e9%96%8b%e5%ad%b8%e4%ba%86-%e4%bb%8b%e7%b4%b9%e6%88%91%e7%9a%84%e4%b8%8a%e8%aa%b2%e5%b7%a5%e5%85%b7%e5%80%91%e7%a1%ac%e9%ab%94%e7%b0%a1%e4%bb%8b%e7%af%87/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>手機續航力其實遠超一般人的想像</title>
-		<link>https://treesheeptw.github.io/portfolio/2023/08/%e6%89%8b%e6%a9%9f%e7%ba%8c%e8%88%aa%e5%8a%9b%e5%85%b6%e5%af%a6%e9%81%a0%e8%b6%85%e4%b8%80%e8%88%ac%e4%ba%ba%e7%9a%84%e6%83%b3%e5%83%8f/</link>
-					<comments>https://treesheeptw.github.io/portfolio/2023/08/%e6%89%8b%e6%a9%9f%e7%ba%8c%e8%88%aa%e5%8a%9b%e5%85%b6%e5%af%a6%e9%81%a0%e8%b6%85%e4%b8%80%e8%88%ac%e4%ba%ba%e7%9a%84%e6%83%b3%e5%83%8f/#respond</comments>
-		
-		<dc:creator><![CDATA[boris]]></dc:creator>
-		<pubDate>Tue, 29 Aug 2023 15:52:59 +0000</pubDate>
-				<category><![CDATA[科技]]></category>
-		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=463</guid>
-
-					<description><![CDATA[沒錯，圖片裡是一臺Robin。 手機絕對是現代人生活中不可或缺的工具，不論是通訊、工作或娛樂，都可以使用手機達 [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" loading="lazy" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/mobile-smartphone-cellphone-power-9a8f9bae0a083cd4c1b4aeadad7cf1b1-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-464" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/mobile-smartphone-cellphone-power-9a8f9bae0a083cd4c1b4aeadad7cf1b1-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/mobile-smartphone-cellphone-power-9a8f9bae0a083cd4c1b4aeadad7cf1b1-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/mobile-smartphone-cellphone-power-9a8f9bae0a083cd4c1b4aeadad7cf1b1-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/mobile-smartphone-cellphone-power-9a8f9bae0a083cd4c1b4aeadad7cf1b1-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/mobile-smartphone-cellphone-power-9a8f9bae0a083cd4c1b4aeadad7cf1b1-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p class="has-text-align-center">沒錯，圖片裡是一臺Robin。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">手機絕對是現代人生活中不可或缺的工具，不論是通訊、工作或娛樂，都可以使用手機達成。不過，雖然電池技術持續進步，但隨著手機設計越來越輕薄，電池容量一定會受到影響。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">不論是蘋果或是安卓，如果你曾經研究過手機裡電池使用狀況的數據，會發現有很多電池消耗其實來自系統本身。因此，我決定進行實驗，看看系統到底對電池用量有多大的影響，以及如何在不改變手機用量，只靠設定的情況下最大化手機的續航時間。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">我測試的裝置是一部安卓手機，已經使用了六年，大約四年前有換過一次電池，容量3300毫安時。以我平常的使用習慣，5000毫安時的手機充滿電的情況下至少可以使用兩天，還會剩下20~30%的電。雖然處理器及螢幕規格都會造成誤差，但是這次的實驗結果差距大到那些變數根本微不足道。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">我具體來說做了什麼改變? 首先，我完全沒有登入任何非必要的帳號，包括手機製造商的帳號、Google帳號。雖然沒有完全移除這些服務，它們可能持續運作，但是就像背空書包一樣，照理說能大大減少它們的用電。雖然確實有辦法完全不使用這些服務(例如改為安裝AOSP或LOS)，但是我想盡量貼近一般使用者(不是我這種資訊狂魔)能達到的等級。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">雖然沒有Google帳號時有些應用程式之間的整合比較麻煩，但是必要的工作總是有替代方案，例如用Aurora Store取代Google Play Store，並盡量使用FOSS應用程式以減少各種非必要的膨脹軟體。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">暫時改為使用測試用的手機幾天後，效果意外地好。雖然因為沒有使用Google Play Store而沒有移動所有應用程式，但是有使用平常的通訊軟體、網頁瀏覽、地圖等功能。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">那我要公布這樣下來一次充電帶來的續航時間了&#8230;</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">結果是: 六天二十一小時，或整整<a href="https://treesheeptw.github.io/portfolio/2023/08/%e5%a6%82%e4%bd%95%e6%aa%a2%e8%88%89%e8%a9%90%e9%a8%99%e7%b6%b2%e7%ab%99/" data-type="link" data-id="https://treesheeptw.github.io/portfolio/2023/08/%e5%a6%82%e4%bd%95%e6%aa%a2%e8%88%89%e8%a9%90%e9%a8%99%e7%b6%b2%e7%ab%99/">165</a>小時!</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">我有證據，在我的<a href="https://wxw.moe/@treesheep/110971902534089373" data-type="link" data-id="https://wxw.moe/@treesheep/110971902534089373">Mastodon貼文</a>(歡迎追蹤)，不過因為在拍照時已經移回我平常的手機，所以沒有顯示所有應用程式的用電排名，只有系統用電，但是可以從圖表看出驚人的用量曲線。它已經長到沒辦法明顯看出白天與晚上的差別了。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">所以上展示了現代電子產品的膨脹軟體的氾濫程度，說明各種非必要追蹤程式、廣告程式、遙測程式帶來的電池用量問題。</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/%e6%89%8b%e6%a9%9f%e7%ba%8c%e8%88%aa%e5%8a%9b%e5%85%b6%e5%af%a6%e9%81%a0%e8%b6%85%e4%b8%80%e8%88%ac%e4%ba%ba%e7%9a%84%e6%83%b3%e5%83%8f/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
