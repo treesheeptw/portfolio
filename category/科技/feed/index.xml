@@ -12,7 +12,7 @@
 	<atom:link href="https://treesheeptw.github.io/portfolio/category/%E7%A7%91%E6%8A%80/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Wed, 06 Sep 2023 14:57:16 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 08 Sep 2023 15:06:12 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,102 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>資訊安全中的奈許平衡</title>
+		<link>https://treesheeptw.github.io/portfolio/2023/09/%e8%b3%87%e8%a8%8a%e5%ae%89%e5%85%a8%e4%b8%ad%e7%9a%84%e5%a5%88%e8%a8%b1%e5%b9%b3%e8%a1%a1/</link>
+					<comments>https://treesheeptw.github.io/portfolio/2023/09/%e8%b3%87%e8%a8%8a%e5%ae%89%e5%85%a8%e4%b8%ad%e7%9a%84%e5%a5%88%e8%a8%b1%e5%b9%b3%e8%a1%a1/#respond</comments>
+		
+		<dc:creator><![CDATA[boris]]></dc:creator>
+		<pubDate>Fri, 08 Sep 2023 15:06:12 +0000</pubDate>
+				<category><![CDATA[科技]]></category>
+		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=539</guid>
+
+					<description><![CDATA[今天我們要來談談資訊安全中一個極其重要的議題，那就是如何在保護性與可用性之間找到平衡點。你可能知道我們需要保護 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-540" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">今天我們要來談談資訊安全中一個極其重要的議題，那就是如何在保護性與可用性之間找到平衡點。你可能知道我們需要保護資料和系統，然而我們常常需要在安全性和可用性之間找到一個平衡點。這種平衡被稱為奈許平衡（trade-off），即在兩個或多個相互競爭的目標之間找到適當的平衡，其中實現一個目標可能會對其他目標產生不利影響。</p>
+
+
+
+<h2 class="wp-block-heading">安全性 vs. 可用性</h2>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">首先，讓我們來討論一下這兩個競爭的目標：</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">1. 安全性（Security）：這是關於如何確保我們的系統和資料免受未經授權的訪問和攻擊的保護。我們可能會強制要求使用複雜的密碼，實行嚴格的存取控制，以及使用防火牆等方法。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">2. 可用性（Availability）：這則是有關如何確保系統在需要的時候能正常運行，不受攻擊或安全措施影響。這包括減少密碼被鎖定的次數，合理安排更新和維護等措施。</p>
+
+
+
+<h2 class="wp-block-heading">實際案例</h2>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">讓我們通過一些實際案例來更深入地了解如何在資訊安全中找到奈許平衡：</p>
+
+
+
+<h3 class="wp-block-heading">密碼複雜度</h3>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">你可能知道，要提高安全性，我們通常要求使用複雜的密碼。但是，你知道過於複雜的密碼可能會讓使用者忘記，這樣可能會降低可用性嗎？這就是我們需要在密碼複雜度和可用性之間取得平衡的地方。</p>
+
+
+
+<h3 class="wp-block-heading">防火牆設定</h3>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">防火牆是保護網路安全的關鍵工具，但是設定得太嚴格可能會阻止合法流量，進而影響可用性。所以，我們必須確保防火牆在提高安全性的同時，也不會對正常的網絡流量造成干擾。</p>
+
+
+
+<h3 class="wp-block-heading">更新和維護</h3>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">我們都知道，及時更新和維護軟體對保持系統安全至關重要。然而，過於頻繁的更新可能會影響可用性，因為需要停機或重新啟動。這裡的奈許平衡在於確保安全性的同時不妨礙系統的正常運作。</p>
+
+
+
+<h3 class="wp-block-heading">存取控制</h3>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">設定嚴格的存取控制可以確保安全性，但是同時我們也需要確保用戶有足夠的權限來執行他們的工作，以維持可用性。</p>
+
+
+
+<h3 class="wp-block-heading">密碼鎖定政策</h3>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">密碼鎖定政策是為了防止密碼的暴力破解，但是過於嚴格的政策可能會導致合法用戶被鎖定帳戶，進而降低可用性。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">在資訊安全領域，我們必須找到奈許平衡。這代表著我們需要在保護資料和系統的同時，也要確保它們能夠正常運行，而不影響業務的流暢性。這種平衡的達成是資訊安全專業人員的挑戰之一，但它是確保我們的資料和系統綜合安全性的關鍵步驟。所以，資訊安全不僅僅是保護，還包括確保可用性，這才是真正的平衡。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/09/%e8%b3%87%e8%a8%8a%e5%ae%89%e5%85%a8%e4%b8%ad%e7%9a%84%e5%a5%88%e8%a8%b1%e5%b9%b3%e8%a1%a1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>用10分鐘的時間預防99%的密碼外流 &#124; 剖析勒索軟體番外篇II</title>
 		<link>https://treesheeptw.github.io/portfolio/2023/09/%e7%94%a810%e5%88%86%e9%90%98%e7%9a%84%e6%99%82%e9%96%93%e9%a0%90%e9%98%b299%e7%9a%84%e5%af%86%e7%a2%bc%e5%a4%96%e6%b5%81-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94%e7%95%aa%e5%a4%96/</link>
 					<comments>https://treesheeptw.github.io/portfolio/2023/09/%e7%94%a810%e5%88%86%e9%90%98%e7%9a%84%e6%99%82%e9%96%93%e9%a0%90%e9%98%b299%e7%9a%84%e5%af%86%e7%a2%bc%e5%a4%96%e6%b5%81-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94%e7%95%aa%e5%a4%96/#respond</comments>
@@ -39,7 +135,7 @@
 
 					<description><![CDATA[雖然你常常聽到各種勒索軟體攻擊事件，但是為什麼身邊的人好像比想像中少被攻擊? 這是因為駭客的攻擊目標通常是大型 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-389" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-389" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -119,7 +215,7 @@
 
 					<description><![CDATA[電子郵件或許是現在最被廣泛使用的網路通訊方式，因為不但操作容易，也通常不用花很多錢。雖然有很多Google的G [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="768" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-1024x768.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-351" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-1024x768.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-300x225.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-768x576.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-1536x1152.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" loading="lazy" width="1024" height="768" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-1024x768.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-351" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-1024x768.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-300x225.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-768x576.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-1536x1152.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/spider-monkey-email-letters-electronic-letter-ee26c43ce72762596fde70e740af88e5-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -553,38 +649,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/%e6%89%8b%e6%a9%9f%e7%ba%8c%e8%88%aa%e5%8a%9b%e5%85%b6%e5%af%a6%e9%81%a0%e8%b6%85%e4%b8%80%e8%88%ac%e4%ba%ba%e7%9a%84%e6%83%b3%e5%83%8f/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>惡意軟體外流其實很危險 &#124; 剖析勒索軟體III</title>
-		<link>https://treesheeptw.github.io/portfolio/2023/08/%e6%83%a1%e6%84%8f%e8%bb%9f%e9%ab%94%e5%a4%96%e6%b5%81%e5%85%b6%e5%af%a6%e5%be%88%e5%8d%b1%e9%9a%aa-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94iii/</link>
-					<comments>https://treesheeptw.github.io/portfolio/2023/08/%e6%83%a1%e6%84%8f%e8%bb%9f%e9%ab%94%e5%a4%96%e6%b5%81%e5%85%b6%e5%af%a6%e5%be%88%e5%8d%b1%e9%9a%aa-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94iii/#respond</comments>
-		
-		<dc:creator><![CDATA[boris]]></dc:creator>
-		<pubDate>Mon, 28 Aug 2023 15:57:52 +0000</pubDate>
-				<category><![CDATA[科技]]></category>
-		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=458</guid>
-
-					<description><![CDATA[在這個系列(剖析惡意軟體)的上一篇文章有提到，如果遭受惡意軟體攻擊，尤其是勒索軟體，有機會等惡意軟體程式外流或 [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1024x683.jpg" alt="" class="wp-image-389" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">在這個系列(剖析惡意軟體)的<a href="https://treesheeptw.github.io/portfolio/2023/08/%e5%88%b0%e5%ba%95%e8%a9%b2%e4%b8%8d%e8%a9%b2%e4%bb%98%e8%b4%96%e9%87%91-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94%e7%95%aa%e5%a4%96%e7%af%87/" data-type="link" data-id="https://treesheeptw.github.io/portfolio/2023/08/%e5%88%b0%e5%ba%95%e8%a9%b2%e4%b8%8d%e8%a9%b2%e4%bb%98%e8%b4%96%e9%87%91-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94%e7%95%aa%e5%a4%96%e7%af%87/">上一篇文章</a>有提到，如果遭受惡意軟體攻擊，尤其是勒索軟體，有機會等惡意軟體程式外流或被分析出來，有一天說不定可以在線上取得解除勒索軟體的資源。不過，雖然這是一件好事，但是程式碼外流卻會帶來其他很嚴重的問題。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">就像食品配方一樣，如果將其公開，人們就能知道這個產品的添加物，所以能確定它是否健康，但是如果被競爭對手取得，就會失去這個配方的秘密性。惡意軟體的程式碼一旦外流，就會被進行修改或甚至進化，造成更大的資安威脅。雖然很多懶惰的駭客只會微幅修改程式碼，甚至是只換個名字，就拿它進行攻擊，但是就像被感染新冠肺炎的人可能再被變種病毒感染，變種惡意軟體視防毒軟體類型，有可能不被發現。例如有的防毒軟體會看程式性質，標記所有可疑程式，但是有的只比對資料庫，對於相對較新的惡意軟體無法偵測。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">因此再次提醒，不能完全仰賴防毒軟體，還是要隨時保持良好的資安戒心。</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/%e6%83%a1%e6%84%8f%e8%bb%9f%e9%ab%94%e5%a4%96%e6%b5%81%e5%85%b6%e5%af%a6%e5%be%88%e5%8d%b1%e9%9a%aa-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94iii/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
