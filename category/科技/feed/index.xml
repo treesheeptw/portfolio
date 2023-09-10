@@ -12,7 +12,7 @@
 	<atom:link href="https://treesheeptw.github.io/portfolio/category/%E7%A7%91%E6%8A%80/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Sat, 09 Sep 2023 15:52:38 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Sep 2023 14:50:05 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,74 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>DNSSEC簡介</title>
+		<link>https://treesheeptw.github.io/portfolio/2023/09/dnssec%e7%b0%a1%e4%bb%8b/</link>
+					<comments>https://treesheeptw.github.io/portfolio/2023/09/dnssec%e7%b0%a1%e4%bb%8b/#respond</comments>
+		
+		<dc:creator><![CDATA[boris]]></dc:creator>
+		<pubDate>Sun, 10 Sep 2023 14:50:05 +0000</pubDate>
+				<category><![CDATA[科技]]></category>
+		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=548</guid>
+
+					<description><![CDATA[今天，我心血來潮稍微看看了我的網路使用數據，發現我所有網路連線中，只有6.58%有使用DNSSEC，但是DNS [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="1024" height="640" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1024x640.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-409" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1024x640.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-300x188.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-768x480.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1536x960.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">今天，我心血來潮稍微看看了我的網路使用數據，發現我所有網路連線中，只有6.58%有使用DNSSEC，但是DNSSEC是什麼? 又為什麼會讓我那麼在意?</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">以防有人不認識，DNS(Domain Name System)，是一個關鍵性的網路基礎技術，它負責將文字網域名稱（例如www.example.com）轉換為IP位址（例如192.168.1.1）。這樣的轉換過程讓的電腦能準確地找到並連接到目標網站或伺服器。然而，DNS本身存在安全風險，這就是DNSSEC應運而生的原因。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">DNSSEC代表的是「Domain Name System Security Extensions」，它是一套協議和加密技術，旨在提高DNS的安全性和完整性。DNSSEC的主要目標是解決DNS在安全性方面的一些問題。</p>
+
+
+
+<h1 class="wp-block-heading">DNSSEC有什麼優勢?</h1>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">1. 資料完整性： DNSSEC確保DNS資料的完整性。它通過在DNS紀錄中添加數位簽名，使DNS解析器能夠驗證這些簽名，從而確保在傳輸過程中未被篡改。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">2. 身分驗證： DNSSEC提供了一種驗證DNS資料的方法。它有助於防止DNS緩存中毒攻擊，這是惡意攻擊者試圖將假的DNS紀錄插入緩存伺服器以導向用戶訪問惡意網站或截取其流量的攻擊方式。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">3. 可信性： DNSSEC增強了DNS回應的可信性。當DNS解析器驗證DNSSEC簽名時，它可以信心十足地認為接收到的資料是準確的，且未被操縱，這對於安全的網路通訊至關重要。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">4. 資料來源身分驗證： DNSSEC允許您驗證DNS資料來源自授權的來源。這對防止攻擊者冒充授權的DNS伺服器並提供虛假DNS資訊至關重要。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">5. 關鍵服務的安全性： 許多關鍵性的網路服務依賴於DNS，包括電子郵件、線上銀行和電子商務。DNSSEC有助於保護這些服務免受各種與DNS相關的攻擊，使網路罪犯更難以破壞它們。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">6. 終端用戶保護： DNSSEC通過減少受害於基於DNS的攻擊的風險，從而使終端用戶受益。這對於確保網路活動的隱私和安全至關重要。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">儘管DNSSEC提供了重要的安全改進，但需要注意的是，由於各種挑戰，包括註冊商和運營商需要正確實施它，因此其採用進展緩慢。然而，隨著數位風險在網路環境中持續增長，DNSSEC仍然是加強網路安全和可靠性的重要工具。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">總而言之，DNSSEC對於保護我們在網路上的數位生活至關重要。它確保了DNS資料的完整性、可信性和來源身分驗證，有助於防止多種DNS相關攻擊，提供了更加安全的網路環境，這對於我們每個人來說都是一個值得關心和支持的重要議題。無論是個人還是企業，都應該考慮實施DNSSEC以確保其網路通訊的安全性。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/09/dnssec%e7%b0%a1%e4%bb%8b/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>奈許平衡不只有資安</title>
 		<link>https://treesheeptw.github.io/portfolio/2023/09/%e5%a5%88%e8%a8%b1%e5%b9%b3%e8%a1%a1%e4%b8%8d%e5%8f%aa%e6%9c%89%e8%b3%87%e5%ae%89/</link>
 					<comments>https://treesheeptw.github.io/portfolio/2023/09/%e5%a5%88%e8%a8%b1%e5%b9%b3%e8%a1%a1%e4%b8%8d%e5%8f%aa%e6%9c%89%e8%b3%87%e5%ae%89/#respond</comments>
@@ -39,7 +107,7 @@
 
 					<description><![CDATA[在這個數據爆炸的時代，我們常常需要平衡保護個人隱私和享受數據帶來的便利性之間的問題。你可能知道隱私保護的重要性 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/cctv-closed-circuit-television-security-security-cameras-e301c4770dd2d706cee90388fb19b06a-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-546" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/cctv-closed-circuit-television-security-security-cameras-e301c4770dd2d706cee90388fb19b06a-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/cctv-closed-circuit-television-security-security-cameras-e301c4770dd2d706cee90388fb19b06a-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/cctv-closed-circuit-television-security-security-cameras-e301c4770dd2d706cee90388fb19b06a-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/cctv-closed-circuit-television-security-security-cameras-e301c4770dd2d706cee90388fb19b06a-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/cctv-closed-circuit-television-security-security-cameras-e301c4770dd2d706cee90388fb19b06a-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/cctv-closed-circuit-television-security-security-cameras-e301c4770dd2d706cee90388fb19b06a-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-546" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/cctv-closed-circuit-television-security-security-cameras-e301c4770dd2d706cee90388fb19b06a-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/cctv-closed-circuit-television-security-security-cameras-e301c4770dd2d706cee90388fb19b06a-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/cctv-closed-circuit-television-security-security-cameras-e301c4770dd2d706cee90388fb19b06a-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/cctv-closed-circuit-television-security-security-cameras-e301c4770dd2d706cee90388fb19b06a-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/cctv-closed-circuit-television-security-security-cameras-e301c4770dd2d706cee90388fb19b06a-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -211,7 +279,7 @@
 
 					<description><![CDATA[雖然你常常聽到各種勒索軟體攻擊事件，但是為什麼身邊的人好像比想像中少被攻擊? 這是因為駭客的攻擊目標通常是大型 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-389" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" loading="lazy" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-389" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -605,62 +673,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/%e9%96%8b%e5%ad%b8%e4%ba%86-%e4%bb%8b%e7%b4%b9%e6%88%91%e7%9a%84%e4%b8%8a%e8%aa%b2%e5%b7%a5%e5%85%b7%e5%80%91%e8%bb%9f%e9%ab%94%e7%af%87i/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>開學了&#8230;介紹我的上課工具們(硬體簡介篇)</title>
-		<link>https://treesheeptw.github.io/portfolio/2023/08/%e9%96%8b%e5%ad%b8%e4%ba%86-%e4%bb%8b%e7%b4%b9%e6%88%91%e7%9a%84%e4%b8%8a%e8%aa%b2%e5%b7%a5%e5%85%b7%e5%80%91%e7%a1%ac%e9%ab%94%e7%b0%a1%e4%bb%8b%e7%af%87/</link>
-					<comments>https://treesheeptw.github.io/portfolio/2023/08/%e9%96%8b%e5%ad%b8%e4%ba%86-%e4%bb%8b%e7%b4%b9%e6%88%91%e7%9a%84%e4%b8%8a%e8%aa%b2%e5%b7%a5%e5%85%b7%e5%80%91%e7%a1%ac%e9%ab%94%e7%b0%a1%e4%bb%8b%e7%af%87/#respond</comments>
-		
-		<dc:creator><![CDATA[boris]]></dc:creator>
-		<pubDate>Wed, 30 Aug 2023 15:53:21 +0000</pubDate>
-				<category><![CDATA[科技]]></category>
-		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=460</guid>
-
-					<description><![CDATA[經歷了前所未有的忙碌(因為每天發文)暑假，終於開學了! 身為數位時代的高中生，我的學習嚴重仰賴電子產品，所以接 [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" loading="lazy" width="1024" height="576" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/numbers-education-kindergarten-school-c920782d51eaed4bb647b8bf20f166ed-1024x576.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-466" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/numbers-education-kindergarten-school-c920782d51eaed4bb647b8bf20f166ed-1024x576.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/numbers-education-kindergarten-school-c920782d51eaed4bb647b8bf20f166ed-300x169.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/numbers-education-kindergarten-school-c920782d51eaed4bb647b8bf20f166ed-768x432.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/numbers-education-kindergarten-school-c920782d51eaed4bb647b8bf20f166ed-1536x864.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/numbers-education-kindergarten-school-c920782d51eaed4bb647b8bf20f166ed.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">經歷了前所未有的忙碌(因為每天發文)暑假，終於開學了! 身為數位時代的高中生，我的學習嚴重仰賴電子產品，所以接下來會簡單介紹我所用的裝置。</p>
-
-
-
-<h1 class="wp-block-heading">電腦</h1>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">我的電腦是我執行九成工作的地方，因為效能最足、有多個螢幕，又有我超愛的機械鍵盤。</p>
-
-
-
-<h1 class="wp-block-heading">筆記型電腦</h1>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">雖然家中電腦效能較好，更適合工作，但是學校裡還是天天會用到電腦，所以我也有一臺筆電應付我出門的使用需求。</p>
-
-
-
-<h1 class="wp-block-heading">平板</h1>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">雖然本來沒有使用平板的習慣，但是一旦開始使用就越來越喜歡，因為可以行事曆、課表、追蹤作業進度，也能分擔一點手機的工作(例如聽音樂)，降低手機外出沒電的風險。</p>
-
-
-
-<h1 class="wp-block-heading">手機</h1>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">手機除了作為跟同學或老師討論各種事情的通訊裝置以外，同時有一些一般人比較少用的功能，包括連接電腦作為視訊鏡頭，畫質會遠勝內建或一般外接的鏡頭。</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/%e9%96%8b%e5%ad%b8%e4%ba%86-%e4%bb%8b%e7%b4%b9%e6%88%91%e7%9a%84%e4%b8%8a%e8%aa%b2%e5%b7%a5%e5%85%b7%e5%80%91%e7%a1%ac%e9%ab%94%e7%b0%a1%e4%bb%8b%e7%af%87/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
