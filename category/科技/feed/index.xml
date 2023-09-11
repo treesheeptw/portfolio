@@ -12,7 +12,7 @@
 	<atom:link href="https://treesheeptw.github.io/portfolio/category/%E7%A7%91%E6%8A%80/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Sun, 10 Sep 2023 14:50:05 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 11 Sep 2023 05:39:34 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,90 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>911事件如何影響資安</title>
+		<link>https://treesheeptw.github.io/portfolio/2023/09/911%e4%ba%8b%e4%bb%b6%e5%a6%82%e4%bd%95%e5%bd%b1%e9%9f%bf%e8%b3%87%e5%ae%89/</link>
+					<comments>https://treesheeptw.github.io/portfolio/2023/09/911%e4%ba%8b%e4%bb%b6%e5%a6%82%e4%bd%95%e5%bd%b1%e9%9f%bf%e8%b3%87%e5%ae%89/#respond</comments>
+		
+		<dc:creator><![CDATA[boris]]></dc:creator>
+		<pubDate>Mon, 11 Sep 2023 05:39:34 +0000</pubDate>
+				<category><![CDATA[科技]]></category>
+		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=550</guid>
+
+					<description><![CDATA[說到911事件造成的影響，多數人想到的都是機場安檢等直接的、物理層面的改變，卻忽略了它對資安的影響，以及刺激出 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="680" height="1024" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/september-11-firefighters-tribute-memorial-13523b69239f3a1cbe7180cd6689f9aa-680x1024.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-551" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/september-11-firefighters-tribute-memorial-13523b69239f3a1cbe7180cd6689f9aa-680x1024.jpg 680w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/september-11-firefighters-tribute-memorial-13523b69239f3a1cbe7180cd6689f9aa-199x300.jpg 199w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/september-11-firefighters-tribute-memorial-13523b69239f3a1cbe7180cd6689f9aa-768x1156.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/september-11-firefighters-tribute-memorial-13523b69239f3a1cbe7180cd6689f9aa-1020x1536.jpg 1020w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/september-11-firefighters-tribute-memorial-13523b69239f3a1cbe7180cd6689f9aa-1361x2048.jpg 1361w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/september-11-firefighters-tribute-memorial-13523b69239f3a1cbe7180cd6689f9aa-scaled.jpg 1701w" sizes="(max-width: 680px) 100vw, 680px" /></figure>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">說到911事件造成的影響，多數人想到的都是機場安檢等直接的、物理層面的改變，卻忽略了它對資安的影響，以及刺激出來的改革。雖然我本人出生較晚，沒有經歷2001年的事件，但是回顧一些歷史報導，還是整理出了我認為911事件對資安領域帶來的改變。儘管當時還沒有現代先進的資安攻擊，但是有些改變到現在依然看得出影響。</p>
+
+
+
+<h2 class="wp-block-heading">1. 增強意識</h2>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">一個重要的方面是9/11事件增強了全球對關鍵基礎設施脆弱性的認識。政府和企業們開始認知到，保護數位資產和數據也是整體安全策略的一部分。這種認識促使了對資訊安全的更高重視。</p>
+
+
+
+<h2 class="wp-block-heading">2. 預算增加</h2>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">9/11事件導致了對國家安全和國防的資金增加，這包括對資訊安全的投資。政府增加的資源有助於研究、開發和實施資訊安全技術和實踐，以應對不斷增加的威脅。</p>
+
+
+
+<h2 class="wp-block-heading">3. 監管變革</h2>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">特別是美國政府通過《美國愛國者法》和《國土安全法》等法律，加強了關鍵部門的資訊安全監管。這些法規變化迫使組織或企業實施更嚴格的資訊安全措施和報告要求，以確保其數據和系統的安全。</p>
+
+
+
+<h2 class="wp-block-heading">4. 公私合作</h2>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">為了應對不斷演變的資訊安全威脅，公共部門和私營企業之間的合作變得更加普遍。這些合作關係促進了威脅情報的分享、合作進行資訊安全研究，以及共同制定策略。</p>
+
+
+
+<h2 class="wp-block-heading">5. 人才需求</h2>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">9/11事件引發了對資訊安全專業人才的高需求。政府機關及企業都需要專家來保護其網路、應對攻擊事件和管理風險。這導致了資訊安全領域相關職業的迅速增長。</p>
+
+
+
+<h2 class="wp-block-heading">6. 技術進展</h2>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">為了應對不斷增加的資訊安全威脅，對資訊安全研究和開發的投資也增加了。這導致了新技術和工具的創建，旨在更有效地檢測和預防資訊安全威脅。</p>
+
+
+
+<h2 class="wp-block-heading">7. 國際合作</h2>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">9/11事件強調了國際合作對抗恐怖主義和資訊安全威脅的必要性。不只前面提到的政府與企業的合作，各國之間也開始有合作關係，互相分享威脅情報，保護免受網路攻擊。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">綜上所整理，911對資訊安全產業產生了深遠的影響，改變了我們對資訊安全的態度，並推動了技術、法規和國際合作的進步。在不斷變化的資訊領域中，安全變得前所未有的重要。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/09/911%e4%ba%8b%e4%bb%b6%e5%a6%82%e4%bd%95%e5%bd%b1%e9%9f%bf%e8%b3%87%e5%ae%89/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>DNSSEC簡介</title>
 		<link>https://treesheeptw.github.io/portfolio/2023/09/dnssec%e7%b0%a1%e4%bb%8b/</link>
 					<comments>https://treesheeptw.github.io/portfolio/2023/09/dnssec%e7%b0%a1%e4%bb%8b/#respond</comments>
@@ -39,7 +123,7 @@
 
 					<description><![CDATA[今天，我心血來潮稍微看看了我的網路使用數據，發現我所有網路連線中，只有6.58%有使用DNSSEC，但是DNS [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="1024" height="640" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1024x640.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-409" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1024x640.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-300x188.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-768x480.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1536x960.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="640" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1024x640.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-409" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1024x640.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-300x188.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-768x480.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1536x960.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -183,7 +267,7 @@
 
 					<description><![CDATA[今天我們要來談談資訊安全中一個極其重要的議題，那就是如何在保護性與可用性之間找到平衡點。你可能知道我們需要保護 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-540" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" loading="lazy" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-540" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -610,69 +694,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/09/%e6%88%91%e8%a9%a6%e4%ba%86ai%e6%96%99%e7%90%86/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>開學了&#8230;介紹我的上課工具們(軟體篇I)</title>
-		<link>https://treesheeptw.github.io/portfolio/2023/08/%e9%96%8b%e5%ad%b8%e4%ba%86-%e4%bb%8b%e7%b4%b9%e6%88%91%e7%9a%84%e4%b8%8a%e8%aa%b2%e5%b7%a5%e5%85%b7%e5%80%91%e8%bb%9f%e9%ab%94%e7%af%87i/</link>
-					<comments>https://treesheeptw.github.io/portfolio/2023/08/%e9%96%8b%e5%ad%b8%e4%ba%86-%e4%bb%8b%e7%b4%b9%e6%88%91%e7%9a%84%e4%b8%8a%e8%aa%b2%e5%b7%a5%e5%85%b7%e5%80%91%e8%bb%9f%e9%ab%94%e7%af%87i/#respond</comments>
-		
-		<dc:creator><![CDATA[boris]]></dc:creator>
-		<pubDate>Thu, 31 Aug 2023 03:10:16 +0000</pubDate>
-				<category><![CDATA[科技]]></category>
-		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=468</guid>
-
-					<description><![CDATA[昨天的文章裡，我簡單介紹了我上課所會用到的硬體，不過硬體相對沒有特色，所以今天會介紹我最常用的筆記軟體: Jo [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" loading="lazy" width="1024" height="576" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/numbers-education-kindergarten-school-c920782d51eaed4bb647b8bf20f166ed-1024x576.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-466" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/numbers-education-kindergarten-school-c920782d51eaed4bb647b8bf20f166ed-1024x576.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/numbers-education-kindergarten-school-c920782d51eaed4bb647b8bf20f166ed-300x169.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/numbers-education-kindergarten-school-c920782d51eaed4bb647b8bf20f166ed-768x432.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/numbers-education-kindergarten-school-c920782d51eaed4bb647b8bf20f166ed-1536x864.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/numbers-education-kindergarten-school-c920782d51eaed4bb647b8bf20f166ed.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);"><a href="https://treesheeptw.github.io/portfolio/2023/08/%e9%96%8b%e5%ad%b8%e4%ba%86-%e4%bb%8b%e7%b4%b9%e6%88%91%e7%9a%84%e4%b8%8a%e8%aa%b2%e5%b7%a5%e5%85%b7%e5%80%91%e7%a1%ac%e9%ab%94%e7%b0%a1%e4%bb%8b%e7%af%87/" data-type="link" data-id="https://treesheeptw.github.io/portfolio/2023/08/%e9%96%8b%e5%ad%b8%e4%ba%86-%e4%bb%8b%e7%b4%b9%e6%88%91%e7%9a%84%e4%b8%8a%e8%aa%b2%e5%b7%a5%e5%85%b7%e5%80%91%e7%a1%ac%e9%ab%94%e7%b0%a1%e4%bb%8b%e7%af%87/">昨天的文章</a>裡，我簡單介紹了我上課所會用到的硬體，不過硬體相對沒有特色，所以今天會介紹我最常用的筆記軟體: <a href="https://joplinapp.org/" data-type="link" data-id="https://joplinapp.org/">Joplin</a>。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">如果有在固定看我的文章，可能知道我是個FOSS的愛好者。這些軟體除了不用錢(除非有雲端功能，不過通常都能自架)之外，還有安全、不會倒、自訂性&#8230;等優勢。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">雖然我有比較過各個較知名的筆記軟體(Evernote, Obsidian, Notion&#8230;等)，但是各有各的問題。除了都沒有開源以外，有些軟體的隱私條款有問題、有些很貴、有些有平臺限制。所以我還是回到了Joplin，因為它以上的缺點都沒有。Joplin不但可以自己選擇同步平臺(免費的Dropbox、OneDrive或官方的付費雲端，甚至能用官方程式或NextCloud或S3自架)，也就是說可以選擇條款讓自己滿意的服務，而且只有官方雲端空間要付費(而且最低一個月1歐元而已)。但我覺得最大的優勢是它支援幾乎所有系統，甚至能在終端機執行。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">雖然隱私不如官方雲端或自架伺服器，但是我還是使用DropBox進行跨裝置同步，因為Joplin有E2EE功能，所以我也不擔心我的資料安全。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">除此之外，有一些用了一段時間就會發現的隱藏優勢。雖然原生應用程式就很好用，但是安裝一些插件後我的筆記效率提升了很多。由於Joplin使用Markdown進行編輯，所以習慣滑鼠操作的我需要適應，但是視覺輔助的插件就讓我輕鬆很多，例如能直接顯示標題大小(H1、H2&#8230;)，或直接生成心智圖而不需要手繪&#8230;等，也有插件能讓我把一個筆記設定為預設，這樣一來我不需要每天重新為我的日記排版一次。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">另一個我很喜歡的地方是它所有筆記都是存成.md，所以就算沒有適合的軟體也能看得懂內容，只是不會有排版而已。雖然Markdown還是有一些限制，但是Joplin也有輸出功能，可以把筆記轉換成PDF或HTML，而且不像一些傳統的Markdown編輯軟體不能放影音或不能預覽。這讓我繳交作業時很方便。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">所以，如果你有筆記軟體的需求，可以考慮看看Joplin。</p>
-
-
-
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<div id="cusdis_thread"
-  data-host="https://cusdis.com/"
-  data-app-id="87b84668-a924-4eb7-87c4-97a52f79f089"
-  data-page-id="{{ 開學了...介紹我的上課工具們(軟體篇I) }}"
-  data-page-url="{{ PAGE_URL }}"
-  data-page-title="{{ PAGE_TITLE }}"
-></div>
-<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/08/%e9%96%8b%e5%ad%b8%e4%ba%86-%e4%bb%8b%e7%b4%b9%e6%88%91%e7%9a%84%e4%b8%8a%e8%aa%b2%e5%b7%a5%e5%85%b7%e5%80%91%e8%bb%9f%e9%ab%94%e7%af%87i/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -12,7 +12,7 @@
 	<atom:link href="https://treesheeptw.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Sun, 10 Sep 2023 14:50:05 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 11 Sep 2023 05:39:34 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,90 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>911事件如何影響資安</title>
+		<link>https://treesheeptw.github.io/portfolio/2023/09/911%e4%ba%8b%e4%bb%b6%e5%a6%82%e4%bd%95%e5%bd%b1%e9%9f%bf%e8%b3%87%e5%ae%89/</link>
+					<comments>https://treesheeptw.github.io/portfolio/2023/09/911%e4%ba%8b%e4%bb%b6%e5%a6%82%e4%bd%95%e5%bd%b1%e9%9f%bf%e8%b3%87%e5%ae%89/#respond</comments>
+		
+		<dc:creator><![CDATA[boris]]></dc:creator>
+		<pubDate>Mon, 11 Sep 2023 05:39:34 +0000</pubDate>
+				<category><![CDATA[科技]]></category>
+		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=550</guid>
+
+					<description><![CDATA[說到911事件造成的影響，多數人想到的都是機場安檢等直接的、物理層面的改變，卻忽略了它對資安的影響，以及刺激出 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="680" height="1024" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/september-11-firefighters-tribute-memorial-13523b69239f3a1cbe7180cd6689f9aa-680x1024.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-551" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/september-11-firefighters-tribute-memorial-13523b69239f3a1cbe7180cd6689f9aa-680x1024.jpg 680w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/september-11-firefighters-tribute-memorial-13523b69239f3a1cbe7180cd6689f9aa-199x300.jpg 199w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/september-11-firefighters-tribute-memorial-13523b69239f3a1cbe7180cd6689f9aa-768x1156.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/september-11-firefighters-tribute-memorial-13523b69239f3a1cbe7180cd6689f9aa-1020x1536.jpg 1020w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/september-11-firefighters-tribute-memorial-13523b69239f3a1cbe7180cd6689f9aa-1361x2048.jpg 1361w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/september-11-firefighters-tribute-memorial-13523b69239f3a1cbe7180cd6689f9aa-scaled.jpg 1701w" sizes="(max-width: 680px) 100vw, 680px" /></figure>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">說到911事件造成的影響，多數人想到的都是機場安檢等直接的、物理層面的改變，卻忽略了它對資安的影響，以及刺激出來的改革。雖然我本人出生較晚，沒有經歷2001年的事件，但是回顧一些歷史報導，還是整理出了我認為911事件對資安領域帶來的改變。儘管當時還沒有現代先進的資安攻擊，但是有些改變到現在依然看得出影響。</p>
+
+
+
+<h2 class="wp-block-heading">1. 增強意識</h2>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">一個重要的方面是9/11事件增強了全球對關鍵基礎設施脆弱性的認識。政府和企業們開始認知到，保護數位資產和數據也是整體安全策略的一部分。這種認識促使了對資訊安全的更高重視。</p>
+
+
+
+<h2 class="wp-block-heading">2. 預算增加</h2>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">9/11事件導致了對國家安全和國防的資金增加，這包括對資訊安全的投資。政府增加的資源有助於研究、開發和實施資訊安全技術和實踐，以應對不斷增加的威脅。</p>
+
+
+
+<h2 class="wp-block-heading">3. 監管變革</h2>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">特別是美國政府通過《美國愛國者法》和《國土安全法》等法律，加強了關鍵部門的資訊安全監管。這些法規變化迫使組織或企業實施更嚴格的資訊安全措施和報告要求，以確保其數據和系統的安全。</p>
+
+
+
+<h2 class="wp-block-heading">4. 公私合作</h2>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">為了應對不斷演變的資訊安全威脅，公共部門和私營企業之間的合作變得更加普遍。這些合作關係促進了威脅情報的分享、合作進行資訊安全研究，以及共同制定策略。</p>
+
+
+
+<h2 class="wp-block-heading">5. 人才需求</h2>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">9/11事件引發了對資訊安全專業人才的高需求。政府機關及企業都需要專家來保護其網路、應對攻擊事件和管理風險。這導致了資訊安全領域相關職業的迅速增長。</p>
+
+
+
+<h2 class="wp-block-heading">6. 技術進展</h2>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">為了應對不斷增加的資訊安全威脅，對資訊安全研究和開發的投資也增加了。這導致了新技術和工具的創建，旨在更有效地檢測和預防資訊安全威脅。</p>
+
+
+
+<h2 class="wp-block-heading">7. 國際合作</h2>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">9/11事件強調了國際合作對抗恐怖主義和資訊安全威脅的必要性。不只前面提到的政府與企業的合作，各國之間也開始有合作關係，互相分享威脅情報，保護免受網路攻擊。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">綜上所整理，911對資訊安全產業產生了深遠的影響，改變了我們對資訊安全的態度，並推動了技術、法規和國際合作的進步。在不斷變化的資訊領域中，安全變得前所未有的重要。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/09/911%e4%ba%8b%e4%bb%b6%e5%a6%82%e4%bd%95%e5%bd%b1%e9%9f%bf%e8%b3%87%e5%ae%89/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>DNSSEC簡介</title>
 		<link>https://treesheeptw.github.io/portfolio/2023/09/dnssec%e7%b0%a1%e4%bb%8b/</link>
 					<comments>https://treesheeptw.github.io/portfolio/2023/09/dnssec%e7%b0%a1%e4%bb%8b/#respond</comments>
@@ -39,7 +123,7 @@
 
 					<description><![CDATA[今天，我心血來潮稍微看看了我的網路使用數據，發現我所有網路連線中，只有6.58%有使用DNSSEC，但是DNS [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="1024" height="640" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1024x640.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-409" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1024x640.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-300x188.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-768x480.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1536x960.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="640" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1024x640.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-409" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1024x640.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-300x188.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-768x480.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1536x960.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -183,7 +267,7 @@
 
 					<description><![CDATA[今天我們要來談談資訊安全中一個極其重要的議題，那就是如何在保護性與可用性之間找到平衡點。你可能知道我們需要保護 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-540" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" loading="lazy" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-540" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/horizontal-weigh-weight-old-scale-b3c03b11d2fd6ee37d3291793d2516c7-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -498,146 +582,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/09/%e7%81%ab%e8%bb%8a%e4%b9%9f%e8%83%bd%e8%a2%ab%e9%a7%ad%e5%ae%a2%e6%94%bb%e6%93%8a/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>我試了AI料理</title>
-		<link>https://treesheeptw.github.io/portfolio/2023/09/%e6%88%91%e8%a9%a6%e4%ba%86ai%e6%96%99%e7%90%86/</link>
-					<comments>https://treesheeptw.github.io/portfolio/2023/09/%e6%88%91%e8%a9%a6%e4%ba%86ai%e6%96%99%e7%90%86/#respond</comments>
-		
-		<dc:creator><![CDATA[boris]]></dc:creator>
-		<pubDate>Fri, 01 Sep 2023 06:43:37 +0000</pubDate>
-				<category><![CDATA[科技]]></category>
-		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=471</guid>
-
-					<description><![CDATA[雖然已經開學了，但是我爸部的時間還是在家裡上課，又因為家人平常都不在家，所以我近期開始嘗試學習料理。 雖然家裡 [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" loading="lazy" width="1024" height="461" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/signal-2023-09-01-141239-1024x461.jpeg" alt="" class="has-border-color has-secondary-border-color wp-image-472" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/signal-2023-09-01-141239-1024x461.jpeg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/signal-2023-09-01-141239-300x135.jpeg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/signal-2023-09-01-141239-768x346.jpeg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/signal-2023-09-01-141239-1536x691.jpeg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/signal-2023-09-01-141239.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">雖然已經開學了，但是我爸部的時間還是在家裡上課，又因為家人平常都不在家，所以我近期開始嘗試學習料理。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">雖然家裡有一些舊的料理書，但是家中食材有限，所以我決定讓AI來幫我設計食譜。從中午下課到下午上課有1.5個小時，所以有時間設計食譜、備料、料理、用餐。因為我的電腦規格沒有很好，所以運行大型語言模型速度很慢，加上食譜必須來回調整，總共耗費約30分鐘才完成。</p>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity is-style-dots"/>
-
-
-
-<p>當然，以下是你提出的食譜的統整：</p>
-
-
-
-<p>菜名：悶燒蒜香白蝦與四季豆（氣炸鍋版）</p>
-
-
-
-<p>所需食材與調味料：</p>
-
-
-
-<ul>
-<li>新鮮的大白蝦（蝦尾已去殼，但保留蝦頭）</li>
-
-
-
-<li>四季豆，切段</li>
-
-
-
-<li>大蒜瓣，切碎</li>
-
-
-
-<li>橄欖油</li>
-
-
-
-<li>檸檬汁</li>
-
-
-
-<li>鹽和黑胡椒粉，依口味調整</li>
-
-
-
-<li>鮮香草（如羅勒或歐芹），切碎（可選）</li>
-
-
-
-<li>鋁箔紙</li>
-</ul>
-
-
-
-<p>做法步驟：</p>
-
-
-
-<ol>
-<li>擠出檸檬汁，備用。</li>
-
-
-
-<li>清洗四季豆並切段。</li>
-
-
-
-<li>將白蝦放入碗中，加入切碎的大蒜、橄欖油、少量檸檬汁、鹽和胡椒粉，拌勻。醃製約 10 分鐘，讓蝦吸收香味。</li>
-
-
-
-<li>使用鋁箔將醃製好的白蝦和切好的四季豆包裹在一起，嘗試將其放在一個緊密的包裹中，這有助於在氣炸鍋中保持濕潤和調味。</li>
-
-
-
-<li>在氣炸鍋中預熱至 160°C（320°F）。</li>
-
-
-
-<li>將包裹好的食材放入氣炸鍋中，設定為約 15-20  分鐘的時間，具體時間取決於你的氣炸鍋和食材的大小。</li>
-
-
-
-<li>當食材烹煮完成後，打開鋁箔包，小心熱蒸汽。</li>
-
-
-
-<li>將烹煮好的白蝦和四季豆放在盤子上，淋上一些檸檬汁，撒上切碎的鮮香草。</li>
-</ol>
-
-
-
-<p>這個食譜結合了低溫料理和氣炸鍋的優點，以確保食材的營養和風味。通過觀察食材的外觀和口感，你可以確保它們達到你所期望的熟度。這道菜餚可以提供簡單又美味的食物選擇，同時避免高溫烹調帶來的風險。</p>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity is-style-dots"/>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">在最後產出這個輸出前，做了許多調整，包括去除我沒有的食材、改用不需要顧著火的氣炸鍋、降到較不會產生致癌物的溫度、減少調味料以符合我喜歡的清淡口味、調整複雜度讓我能及時完成&#8230;等。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">雖然缺乏講解(例如為什麼要用橄欖油或為什麼要15~20分鐘那麼久)，但是我還是順利完成了這道料理，而且我為了確保自己趕得上下午的課，我只加熱了12分鐘，就已經熟了。所以，看來在精準度上還有進步的空間。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">不過我整體來說，我對它的表現非常滿意，因為它讓我這樣的新手順利完成一道料理，而且是一道全新、沒出現過(至少我沒有看過)的料理。如果你也跟我一樣是個熱衷於AI的料理小白，不妨也試試看讓AI教你料理吧!</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">對了，我今天用的模型是我有微幅調校過後的<a href="https://huggingface.co/JosephusCheung/GuanacoOnConsumerHardware" data-type="link" data-id="https://huggingface.co/JosephusCheung/GuanacoOnConsumerHardware">JosephusCheung/GuanacoOnConsumerHardware</a>，因為它是開源模型中中文訓練資料相對比較多，又是針對問題回答功能開發的ˊ模型。</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/09/%e6%88%91%e8%a9%a6%e4%ba%86ai%e6%96%99%e7%90%86/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
