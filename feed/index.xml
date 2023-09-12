@@ -12,7 +12,7 @@
 	<atom:link href="https://treesheeptw.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Mon, 11 Sep 2023 05:39:34 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 12 Sep 2023 14:51:53 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,35 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>我有數位名片了</title>
+		<link>https://treesheeptw.github.io/portfolio/2023/09/%e6%88%91%e6%9c%89%e6%95%b8%e4%bd%8d%e5%90%8d%e7%89%87%e4%ba%86/</link>
+					<comments>https://treesheeptw.github.io/portfolio/2023/09/%e6%88%91%e6%9c%89%e6%95%b8%e4%bd%8d%e5%90%8d%e7%89%87%e4%ba%86/#respond</comments>
+		
+		<dc:creator><![CDATA[boris]]></dc:creator>
+		<pubDate>Tue, 12 Sep 2023 14:51:53 +0000</pubDate>
+				<category><![CDATA[我]]></category>
+		<category><![CDATA[科技]]></category>
+		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=554</guid>
+
+					<description><![CDATA[我今天製作了一個數位名片，歡迎前往觀賞: 連結]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="1024" height="685" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/pen-pens-gel-business-card-c9eafb54dc1506ab504d48487abc2d3c-1024x685.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-555" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/pen-pens-gel-business-card-c9eafb54dc1506ab504d48487abc2d3c-1024x685.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/pen-pens-gel-business-card-c9eafb54dc1506ab504d48487abc2d3c-300x201.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/pen-pens-gel-business-card-c9eafb54dc1506ab504d48487abc2d3c-768x514.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/pen-pens-gel-business-card-c9eafb54dc1506ab504d48487abc2d3c-1536x1028.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/pen-pens-gel-business-card-c9eafb54dc1506ab504d48487abc2d3c-2048x1371.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">我今天製作了一個數位名片，歡迎前往觀賞:</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);"><a href="https://treesheeptw.github.io/dbc/" data-type="link" data-id="https://treesheeptw.github.io/dbc/">連結</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/09/%e6%88%91%e6%9c%89%e6%95%b8%e4%bd%8d%e5%90%8d%e7%89%87%e4%ba%86/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>911事件如何影響資安</title>
 		<link>https://treesheeptw.github.io/portfolio/2023/09/911%e4%ba%8b%e4%bb%b6%e5%a6%82%e4%bd%95%e5%bd%b1%e9%9f%bf%e8%b3%87%e5%ae%89/</link>
 					<comments>https://treesheeptw.github.io/portfolio/2023/09/911%e4%ba%8b%e4%bb%b6%e5%a6%82%e4%bd%95%e5%bd%b1%e9%9f%bf%e8%b3%87%e5%ae%89/#respond</comments>
@@ -39,7 +68,7 @@
 
 					<description><![CDATA[說到911事件造成的影響，多數人想到的都是機場安檢等直接的、物理層面的改變，卻忽略了它對資安的影響，以及刺激出 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="680" height="1024" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/september-11-firefighters-tribute-memorial-13523b69239f3a1cbe7180cd6689f9aa-680x1024.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-551" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/september-11-firefighters-tribute-memorial-13523b69239f3a1cbe7180cd6689f9aa-680x1024.jpg 680w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/september-11-firefighters-tribute-memorial-13523b69239f3a1cbe7180cd6689f9aa-199x300.jpg 199w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/september-11-firefighters-tribute-memorial-13523b69239f3a1cbe7180cd6689f9aa-768x1156.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/september-11-firefighters-tribute-memorial-13523b69239f3a1cbe7180cd6689f9aa-1020x1536.jpg 1020w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/september-11-firefighters-tribute-memorial-13523b69239f3a1cbe7180cd6689f9aa-1361x2048.jpg 1361w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/september-11-firefighters-tribute-memorial-13523b69239f3a1cbe7180cd6689f9aa-scaled.jpg 1701w" sizes="(max-width: 680px) 100vw, 680px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="680" height="1024" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/september-11-firefighters-tribute-memorial-13523b69239f3a1cbe7180cd6689f9aa-680x1024.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-551" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/september-11-firefighters-tribute-memorial-13523b69239f3a1cbe7180cd6689f9aa-680x1024.jpg 680w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/september-11-firefighters-tribute-memorial-13523b69239f3a1cbe7180cd6689f9aa-199x300.jpg 199w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/september-11-firefighters-tribute-memorial-13523b69239f3a1cbe7180cd6689f9aa-768x1156.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/september-11-firefighters-tribute-memorial-13523b69239f3a1cbe7180cd6689f9aa-1020x1536.jpg 1020w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/september-11-firefighters-tribute-memorial-13523b69239f3a1cbe7180cd6689f9aa-1361x2048.jpg 1361w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/september-11-firefighters-tribute-memorial-13523b69239f3a1cbe7180cd6689f9aa-scaled.jpg 1701w" sizes="(max-width: 680px) 100vw, 680px" /></figure>
 
 
 
@@ -191,7 +220,7 @@
 
 					<description><![CDATA[在這個數據爆炸的時代，我們常常需要平衡保護個人隱私和享受數據帶來的便利性之間的問題。你可能知道隱私保護的重要性 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/cctv-closed-circuit-television-security-security-cameras-e301c4770dd2d706cee90388fb19b06a-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-546" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/cctv-closed-circuit-television-security-security-cameras-e301c4770dd2d706cee90388fb19b06a-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/cctv-closed-circuit-television-security-security-cameras-e301c4770dd2d706cee90388fb19b06a-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/cctv-closed-circuit-television-security-security-cameras-e301c4770dd2d706cee90388fb19b06a-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/cctv-closed-circuit-television-security-security-cameras-e301c4770dd2d706cee90388fb19b06a-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/cctv-closed-circuit-television-security-security-cameras-e301c4770dd2d706cee90388fb19b06a-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" loading="lazy" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/cctv-closed-circuit-television-security-security-cameras-e301c4770dd2d706cee90388fb19b06a-1024x683.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-546" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/cctv-closed-circuit-television-security-security-cameras-e301c4770dd2d706cee90388fb19b06a-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/cctv-closed-circuit-television-security-security-cameras-e301c4770dd2d706cee90388fb19b06a-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/cctv-closed-circuit-television-security-security-cameras-e301c4770dd2d706cee90388fb19b06a-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/cctv-closed-circuit-television-security-security-cameras-e301c4770dd2d706cee90388fb19b06a-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/cctv-closed-circuit-television-security-security-cameras-e301c4770dd2d706cee90388fb19b06a-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -542,46 +571,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/09/%e9%80%99%e5%80%8b%e7%b6%b2%e7%ab%99%e6%ad%a3%e9%9d%a2%e8%87%a8%e9%87%8d%e5%a4%a7%e5%9b%b0%e9%9b%a3/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>火車也能被駭客攻擊?</title>
-		<link>https://treesheeptw.github.io/portfolio/2023/09/%e7%81%ab%e8%bb%8a%e4%b9%9f%e8%83%bd%e8%a2%ab%e9%a7%ad%e5%ae%a2%e6%94%bb%e6%93%8a/</link>
-					<comments>https://treesheeptw.github.io/portfolio/2023/09/%e7%81%ab%e8%bb%8a%e4%b9%9f%e8%83%bd%e8%a2%ab%e9%a7%ad%e5%ae%a2%e6%94%bb%e6%93%8a/#respond</comments>
-		
-		<dc:creator><![CDATA[boris]]></dc:creator>
-		<pubDate>Sat, 02 Sep 2023 15:39:11 +0000</pubDate>
-				<category><![CDATA[科技]]></category>
-		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=475</guid>
-
-					<description><![CDATA[(我刻意找了一張波蘭鐵軌的圖) 現在，人們已經對電腦駭客見怪不怪，但是火車為什麼也會被駭? 你可能會覺得駭入火 [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" loading="lazy" width="1024" height="678" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/auschwitz-birkenau-rail-train-d68c5544174039530a30c520a64b5a78-1024x678.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-476" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/auschwitz-birkenau-rail-train-d68c5544174039530a30c520a64b5a78-1024x678.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/auschwitz-birkenau-rail-train-d68c5544174039530a30c520a64b5a78-300x199.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/auschwitz-birkenau-rail-train-d68c5544174039530a30c520a64b5a78-768x509.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/auschwitz-birkenau-rail-train-d68c5544174039530a30c520a64b5a78-1536x1017.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/auschwitz-birkenau-rail-train-d68c5544174039530a30c520a64b5a78-2048x1356.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p class="has-text-align-center">(我刻意找了一張波蘭鐵軌的圖)</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">現在，人們已經對電腦駭客見怪不怪，但是火車為什麼也會被駭? 你可能會覺得駭入火車的控制系統需要很強的技術，但是幾天前發生的事件卻不是如此。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">前一兩週，波蘭連續發生火車服務停擺的情況。不是售票系統故障，也不是時刻表被修改，而是很多火車都在行進中突然停下。你可能會覺得這是很高端的駭客技術才能達成的事情，因為可能要獲得對控制中心的存取。不過，最後卻被發現是金錢成本與技術門檻都非常低的攻擊方式。你可能知道現代火車車廂或平交道都會有緊急停止按鈕，可以在緊急時停下火車避免造成危險。在歐盟國家中，有法律規定所有火車都要有遠端停下火車的功能，並且訊號要在指定的頻率範圍內。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">因為頻率都是已知的或有很小的範圍限制，所以駭客只需要有對講機，就能發出一樣的訊號，因此金錢成本非常低，可能只要幾百塊。這個原理就跟有學習功能的電視遙控器一樣。有學習功能的電視遙控器透過輸入正確的訊號，只要記下它並複製一樣的訊號就能操控電視機。這個功能在有些手機裡也看得到，甚至手錶也可能會有。我的其中一支手錶就有個遙控器應用程式，可以從冷氣或電視的廠商列表中找到資料庫裡功能與訊號的對照，所以可以透過手錶操控電視或冷氣。雖然攻擊者可能不知道確切的頻率，但是因為規定的頻率範圍很小，所以很容易被暴力破解。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">找到攻擊手法後，雖然相關機關有打算開始修改規定，讓這個功能有防盜機制，或是改用其他媒介執行這個功能，但是要做出任何改變都要時間，所以未來說不定還會出現類似攻擊。</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/09/%e7%81%ab%e8%bb%8a%e4%b9%9f%e8%83%bd%e8%a2%ab%e9%a7%ad%e5%ae%a2%e6%94%bb%e6%93%8a/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
