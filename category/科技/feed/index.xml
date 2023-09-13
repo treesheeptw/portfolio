@@ -12,7 +12,7 @@
 	<atom:link href="https://treesheeptw.github.io/portfolio/category/%E7%A7%91%E6%8A%80/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Tue, 12 Sep 2023 14:51:53 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 13 Sep 2023 13:57:16 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,70 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>三重勒索是什麼? &#124; 剖析勒索軟體IV</title>
+		<link>https://treesheeptw.github.io/portfolio/2023/09/%e4%b8%89%e9%87%8d%e5%8b%92%e7%b4%a2%e6%98%af%e4%bb%80%e9%ba%bc-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94iv/</link>
+					<comments>https://treesheeptw.github.io/portfolio/2023/09/%e4%b8%89%e9%87%8d%e5%8b%92%e7%b4%a2%e6%98%af%e4%bb%80%e9%ba%bc-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94iv/#respond</comments>
+		
+		<dc:creator><![CDATA[boris]]></dc:creator>
+		<pubDate>Wed, 13 Sep 2023 13:57:16 +0000</pubDate>
+				<category><![CDATA[科技]]></category>
+		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=557</guid>
+
+					<description><![CDATA[前面幾篇的剖析勒索軟體系列裡有提過各種勒索軟體的原理以及應對方法，但是這些都是站在資安研究者或是受害者的角度解 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="1024" height="683" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1024x683.jpg" alt="" class="wp-image-389" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1024x683.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-300x200.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-768x512.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-1536x1024.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/ransomware-cyber-crime-malware-ransom-ware-440171cc1279fc0b0e903f072b666c60-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">前面幾篇的剖析勒索軟體系列裡有提過各種勒索軟體的原理以及應對方法，但是這些都是站在<a href="https://treesheeptw.github.io/portfolio/2023/08/%e6%83%a1%e6%84%8f%e8%bb%9f%e9%ab%94%e5%a4%96%e6%b5%81%e5%85%b6%e5%af%a6%e5%be%88%e5%8d%b1%e9%9a%aa-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94iii/" data-type="link" data-id="https://treesheeptw.github.io/portfolio/2023/08/%e6%83%a1%e6%84%8f%e8%bb%9f%e9%ab%94%e5%a4%96%e6%b5%81%e5%85%b6%e5%af%a6%e5%be%88%e5%8d%b1%e9%9a%aa-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94iii/">資安研究者</a>或是<a href="https://treesheeptw.github.io/portfolio/2023/08/%e5%88%b0%e5%ba%95%e8%a9%b2%e4%b8%8d%e8%a9%b2%e4%bb%98%e8%b4%96%e9%87%91-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94%e7%95%aa%e5%a4%96%e7%af%87/" data-type="link" data-id="https://treesheeptw.github.io/portfolio/2023/08/%e5%88%b0%e5%ba%95%e8%a9%b2%e4%b8%8d%e8%a9%b2%e4%bb%98%e8%b4%96%e9%87%91-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94%e7%95%aa%e5%a4%96%e7%af%87/">受害者</a>的角度解析勒索軟體的。今天的文章，我會換個角度，簡單講解駭客是使用勒索軟體的。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">如果你曾經親眼看過勒索軟體運作，就會知道它們通常是透過加密受害者的資料來勒索贖金。(如果沒有看過，我有<a href="https://treesheeptw.github.io/portfolio/2023/07/%e7%ac%ac%e4%b8%80%e6%ac%a1%e5%9c%a8%e6%9a%97%e7%b6%b2%e8%b2%b7%e6%9d%b1%e8%a5%bf-%e6%9a%97%e7%b6%b2%e6%97%a5%e8%a8%98ii/" data-type="link" data-id="https://treesheeptw.github.io/portfolio/2023/07/%e7%ac%ac%e4%b8%80%e6%ac%a1%e5%9c%a8%e6%9a%97%e7%b6%b2%e8%b2%b7%e6%9d%b1%e8%a5%bf-%e6%9a%97%e7%b6%b2%e6%97%a5%e8%a8%98ii/">開箱</a>過)不過，你知道駭客除了能向受害者要求支付贖金以外，還有其他方式能得到贖金?</p>
+
+
+
+<h1 class="wp-block-heading">第一重</h1>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">這就是最普遍被知道的勒贖方式，就是向受害者勒索贖金，否則資料無法解密，所以就不多解釋。</p>
+
+
+
+<h1 class="wp-block-heading">第二重</h1>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">第二重勒贖，就是威脅將資料外流。雖然需要使用更強大的勒索軟體，但是可能對受害者造成額外傷害，或是給攻擊者更多獲得贖金的機會。這樣的把柄對企業受害者更為有效，因為企業有義務與責任保護客戶的資料安全，而且要是處理不迅速，可能造成額外的營業損失。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">除此之外，如果受害者是企業或組織，駭客能進一步勒索所有相關人士。例如一個雲端運算供應商遭到攻擊時，該供應商的客戶也有可能被威脅外流，尤其是我舉例的這個情況，因為放在雲端運算的資料有可能包含商業機密或其他敏感資料。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">不過，資料外流是可以主動防禦的。你可以自己加密電腦上的資料，如此一來就算駭客取的你的資料，對他們來說也沒有任何價值，也就是沒有要求更多贖金的機會。雖然每次存取資料都要解密有點麻煩，但是對企業來說這樣的措施尤其重要。</p>
+
+
+
+<h1 class="wp-block-heading">第三重</h1>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">第三重的勒索又會看受害對象不同而有不同方式了。如果攻擊對象是一個伺服器(例如網站或NAS)，那麼要是勒索軟體可以提供目標的資訊，而攻擊者也有資源，就能發動DDoS攻擊，讓受害者不但資料被加密，連存取它們都有困難。就算攻擊對象不是伺服器，DDoS攻擊也能被用來阻止受害者進行支付贖金以外的網路活動。</p>
+
+
+
+<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">因面對勒索軟體，不能抱持單純的想法，因為駭客手法千變萬化，而你也不知道自己會不會有一天也遭到攻擊，因此應該時常補充資安知識，並維持戒心與危險意識。最簡單的方法，當然就是固定上來看看我的文章了。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/09/%e4%b8%89%e9%87%8d%e5%8b%92%e7%b4%a2%e6%98%af%e4%bb%80%e9%ba%bc-%e5%89%96%e6%9e%90%e5%8b%92%e7%b4%a2%e8%bb%9f%e9%ab%94iv/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>我有數位名片了</title>
 		<link>https://treesheeptw.github.io/portfolio/2023/09/%e6%88%91%e6%9c%89%e6%95%b8%e4%bd%8d%e5%90%8d%e7%89%87%e4%ba%86/</link>
 					<comments>https://treesheeptw.github.io/portfolio/2023/09/%e6%88%91%e6%9c%89%e6%95%b8%e4%bd%8d%e5%90%8d%e7%89%87%e4%ba%86/#respond</comments>
@@ -40,7 +104,7 @@
 
 					<description><![CDATA[我今天製作了一個數位名片，歡迎前往觀賞: 連結]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" fetchpriority="high" width="1024" height="685" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/pen-pens-gel-business-card-c9eafb54dc1506ab504d48487abc2d3c-1024x685.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-555" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/pen-pens-gel-business-card-c9eafb54dc1506ab504d48487abc2d3c-1024x685.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/pen-pens-gel-business-card-c9eafb54dc1506ab504d48487abc2d3c-300x201.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/pen-pens-gel-business-card-c9eafb54dc1506ab504d48487abc2d3c-768x514.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/pen-pens-gel-business-card-c9eafb54dc1506ab504d48487abc2d3c-1536x1028.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/pen-pens-gel-business-card-c9eafb54dc1506ab504d48487abc2d3c-2048x1371.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="685" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/pen-pens-gel-business-card-c9eafb54dc1506ab504d48487abc2d3c-1024x685.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-555" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/pen-pens-gel-business-card-c9eafb54dc1506ab504d48487abc2d3c-1024x685.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/pen-pens-gel-business-card-c9eafb54dc1506ab504d48487abc2d3c-300x201.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/pen-pens-gel-business-card-c9eafb54dc1506ab504d48487abc2d3c-768x514.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/pen-pens-gel-business-card-c9eafb54dc1506ab504d48487abc2d3c-1536x1028.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/pen-pens-gel-business-card-c9eafb54dc1506ab504d48487abc2d3c-2048x1371.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -152,7 +216,7 @@
 
 					<description><![CDATA[今天，我心血來潮稍微看看了我的網路使用數據，發現我所有網路連線中，只有6.58%有使用DNSSEC，但是DNS [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" width="1024" height="640" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1024x640.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-409" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1024x640.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-300x188.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-768x480.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1536x960.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large has-custom-border"><img decoding="async" loading="lazy" width="1024" height="640" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1024x640.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-409" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1024x640.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-300x188.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-768x480.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992-1536x960.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/08/wormhole-space-science-portal-7261c2004d665e0b9a08522520e8d992.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -543,46 +607,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/09/%e9%80%99%e5%80%8b%e7%b6%b2%e7%ab%99%e6%ad%a3%e9%9d%a2%e8%87%a8%e9%87%8d%e5%a4%a7%e5%9b%b0%e9%9b%a3/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>火車也能被駭客攻擊?</title>
-		<link>https://treesheeptw.github.io/portfolio/2023/09/%e7%81%ab%e8%bb%8a%e4%b9%9f%e8%83%bd%e8%a2%ab%e9%a7%ad%e5%ae%a2%e6%94%bb%e6%93%8a/</link>
-					<comments>https://treesheeptw.github.io/portfolio/2023/09/%e7%81%ab%e8%bb%8a%e4%b9%9f%e8%83%bd%e8%a2%ab%e9%a7%ad%e5%ae%a2%e6%94%bb%e6%93%8a/#respond</comments>
-		
-		<dc:creator><![CDATA[boris]]></dc:creator>
-		<pubDate>Sat, 02 Sep 2023 15:39:11 +0000</pubDate>
-				<category><![CDATA[科技]]></category>
-		<guid isPermaLink="false">https://treesheeptw.github.io/portfolio/?p=475</guid>
-
-					<description><![CDATA[(我刻意找了一張波蘭鐵軌的圖) 現在，人們已經對電腦駭客見怪不怪，但是火車為什麼也會被駭? 你可能會覺得駭入火 [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large has-custom-border"><img decoding="async" loading="lazy" width="1024" height="678" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/auschwitz-birkenau-rail-train-d68c5544174039530a30c520a64b5a78-1024x678.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-476" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/auschwitz-birkenau-rail-train-d68c5544174039530a30c520a64b5a78-1024x678.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/auschwitz-birkenau-rail-train-d68c5544174039530a30c520a64b5a78-300x199.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/auschwitz-birkenau-rail-train-d68c5544174039530a30c520a64b5a78-768x509.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/auschwitz-birkenau-rail-train-d68c5544174039530a30c520a64b5a78-1536x1017.jpg 1536w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/auschwitz-birkenau-rail-train-d68c5544174039530a30c520a64b5a78-2048x1356.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p class="has-text-align-center">(我刻意找了一張波蘭鐵軌的圖)</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">現在，人們已經對電腦駭客見怪不怪，但是火車為什麼也會被駭? 你可能會覺得駭入火車的控制系統需要很強的技術，但是幾天前發生的事件卻不是如此。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">前一兩週，波蘭連續發生火車服務停擺的情況。不是售票系統故障，也不是時刻表被修改，而是很多火車都在行進中突然停下。你可能會覺得這是很高端的駭客技術才能達成的事情，因為可能要獲得對控制中心的存取。不過，最後卻被發現是金錢成本與技術門檻都非常低的攻擊方式。你可能知道現代火車車廂或平交道都會有緊急停止按鈕，可以在緊急時停下火車避免造成危險。在歐盟國家中，有法律規定所有火車都要有遠端停下火車的功能，並且訊號要在指定的頻率範圍內。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">因為頻率都是已知的或有很小的範圍限制，所以駭客只需要有對講機，就能發出一樣的訊號，因此金錢成本非常低，可能只要幾百塊。這個原理就跟有學習功能的電視遙控器一樣。有學習功能的電視遙控器透過輸入正確的訊號，只要記下它並複製一樣的訊號就能操控電視機。這個功能在有些手機裡也看得到，甚至手錶也可能會有。我的其中一支手錶就有個遙控器應用程式，可以從冷氣或電視的廠商列表中找到資料庫裡功能與訊號的對照，所以可以透過手錶操控電視或冷氣。雖然攻擊者可能不知道確切的頻率，但是因為規定的頻率範圍很小，所以很容易被暴力破解。</p>
-
-
-
-<p style="font-size:clamp(15.747px, 0.984rem + ((1vw - 3.2px) * 0.938), 24px);">找到攻擊手法後，雖然相關機關有打算開始修改規定，讓這個功能有防盜機制，或是改用其他媒介執行這個功能，但是要做出任何改變都要時間，所以未來說不定還會出現類似攻擊。</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/09/%e7%81%ab%e8%bb%8a%e4%b9%9f%e8%83%bd%e8%a2%ab%e9%a7%ad%e5%ae%a2%e6%94%bb%e6%93%8a/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
