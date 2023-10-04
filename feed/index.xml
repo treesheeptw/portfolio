@@ -12,7 +12,7 @@
 	<atom:link href="https://treesheeptw.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>https://treesheeptw.github.io/portfolio</link>
 	<description></description>
-	<lastBuildDate>Tue, 03 Oct 2023 02:48:36 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 03 Oct 2023 02:56:45 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -256,6 +256,17 @@
 
 
 <figure class="wp-block-image size-large has-custom-border"><img decoding="async" loading="lazy" width="1024" height="767" src="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/1693824709074-1024x767.jpg" alt="" class="has-border-color has-secondary-border-color wp-image-520" style="border-width:4px" srcset="https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/1693824709074-1024x767.jpg 1024w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/1693824709074-300x225.jpg 300w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/1693824709074-768x575.jpg 768w, https://treesheeptw.github.io/portfolio/wp-content/uploads/2023/09/1693824709074.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<div id="cusdis_thread"
+  data-host="https://cusdis.com/"
+  data-app-id="87b84668-a924-4eb7-87c4-97a52f79f089"
+  data-page-id="{{ 景觀魚缸開箱 | darkFlash MOTI 鏡之島 }}"
+  data-page-url="{{ PAGE_URL }}"
+  data-page-title="{{ PAGE_TITLE }}"
+></div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://treesheeptw.github.io/portfolio/2023/10/%e6%99%af%e8%a7%80%e9%ad%9a%e7%bc%b8%e9%96%8b%e7%ae%b1-darkflash-moti-%e9%8f%a1%e4%b9%8b%e5%b3%b6/feed/</wfw:commentRss>
